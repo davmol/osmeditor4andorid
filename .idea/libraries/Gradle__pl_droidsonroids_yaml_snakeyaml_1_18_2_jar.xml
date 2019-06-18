@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: pl.droidsonroids.yaml:snakeyaml:1.18.2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/pl.droidsonroids.yaml/snakeyaml/1.18.2/aacf63abc979a710ddc0172509f7857cb69ff241/snakeyaml-1.18.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/pl.droidsonroids.yaml/snakeyaml/1.18.2/22287d9293f5ba5f6156a2495bcd7fd1ad68bd99/snakeyaml-1.18.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

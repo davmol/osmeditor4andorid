@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <array name="help_files" translatable="false">
+        <item>Introduction</item>
+        <item>Main map display</item>
+        <item>Simple actions</item>
+        <item>Property editor</item>
+        <item>Node selected</item>
+    	<item>Way selected</item>
+    	<item>Relation selected</item>
+    	<item>Multiselect</item>
+    	<item>Creating new objects</item>
+        <item>Preferences</item>
+        <item>Advanced preferences</item>
+    	<item>Presets</item>	
+    	<item>Aligning background imagery</item>
+    	<item>Conflict resolution</item>
+    	<item>GPS sources</item>
+    	<item>Keyboard</item>
+    	<item>Tag filter</item>
+    	<item>Preset filter</item>
+    	<item>Opening hours</item>
+        <item>New Note selected</item>
+        <item>Voice commands</item>
+        <item>13.0.0 Release notes</item>
+        <item>12.1.0 Release notes</item>
+        <item>12.0.0 Release notes</item>
+        <item>11.2.0 Release notes</item>
+        <item>11.1.0 Release notes</item>
+        <item>11.0.0 Release notes</item>
+        <item>10.2.0 Release notes</item>
+    	<item>10.1.0 Release notes</item>
+    	<item>10.0.0 Release notes</item>
+    	<item>0.9.9 Release notes</item>
+    	<item>0.9.8 Release notes</item>
+    	<item>0.9.7 Release notes</item>
+    	<item>0.9.6 Release notes</item>
+        <item>Privacy</item>
+    </array>
+    <array name="help_tableofcontents" translatable="false">
+        <item>@string/help_introduction</item>
+        <item>@string/help_main</item>
+        <item>@string/help_simple_actions</item>
+        <item>@string/help_propertyeditor</item>
+        <item>@string/help_nodeselection</item>
+    	<item>@string/help_wayselection</item>
+    	<item>@string/help_relationselection</item>
+    	<item>@string/help_multiselect</item>
+    	<item>@string/help_longclick</item>
+        <item>@string/help_preferences</item>
+        <item>@string/help_advanced_preferences</item>
+    	<item>@string/help_presets</item>	
+    	<item>@string/help_aligningbackgroundiamgery</item>
+    	<item>@string/help_conflictresolution</item>
+    	<item>@string/help_gpssources</item>
+    	<item>@string/help_keyboard</item>
+    	<item>@string/help_tagfilter</item>
+    	<item>@string/help_presetfilter</item>
+    	<item>@string/help_opening_hours</item>
+        <item>@string/help_newnoteselection</item>
+        <item>@string/help_voice_commands</item>
+    	<item>@string/help_upgrade</item>
+        <item>@string/help_upgrade_121</item>
+        <item>@string/help_upgrade_120</item>
+        <item>@string/help_upgrade_112</item>
+        <item>@string/help_upgrade_111</item>
+        <item>@string/help_upgrade_110</item>
+        <item>@string/help_upgrade_102</item>
+        <item>@string/help_upgrade_101</item>
+    	<item>@string/help_upgrade_100</item>
+    	<item>@string/help_upgrade_099</item>
+    	<item>@string/help_upgrade_098</item>
+    	<item>@string/help_upgrade_097</item>
+    	<item>@string/help_upgrade_096</item>
+        <item>@string/help_privacy</item>
+    </array>
+    <string-array name="scale_entries">
+    <item>Ingen</item>
+    <item>Skala (meter)</item>
+    <item>Gitter (meter)</item>
+    <item>Skala (britisk)</item>
+    <item>Gitter (britisk)</item>
+  </string-array>
+    <string name="Delete">Delete</string>
+    <string name="End">End</string>
+    <string name="Key">Nøgle</string>
+    <string name="No">Nej</string>
+    <string name="Save">Gem</string>
+    <string name="Value">Værdi</string>
+    <string name="Yes">Ja</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Naviger hjem"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Naviger op"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Flere muligheder"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Luk"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Vælg en app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"FRA"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"TIL"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Søg…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ryd forespørgslen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Søgeforespørgsel"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Søg"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Indsend forespørgslen"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Talesøgning"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Del med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Skjul"</string>
+    <string name="actionmode_createpath">Opretter sti</string>
+    <string name="actionmode_nodeselect">Knude valgt</string>
+    <string name="actionmode_relationselect">Relation valgt</string>
+    <string name="actionmode_wayselect">Vej valgt</string>
+    <string name="add">Tilføj</string>
+    <string name="address_housenumber">Adresse %1$s</string>
+    <string name="address_housenumber_street">Adresse %1$s %2$s</string>
+    <string name="alert_distance_direction">i %1$d m %2$s</string>
+    <string name="all_keys">Alle</string>
+    <string name="api">API</string>
+    <string name="api_url">API URL</string>
+    <string name="back">Tilbage</string>
+    <string name="bugfilter_custom_entry">Brugerdefineret</string>
+    <string name="bugfilter_notes_entry">Noter</string>
+    <string name="bugfilter_osmose_error_entry">Osmose fejl</string>
+    <string name="bugfilter_osmose_minor_issue_entry">Osmose mindre problem</string>
+    <string name="bugfilter_osmose_warning_entry">Osmose advarsel</string>
+    <string name="cancel">Annulér</string>
+    <string name="changes_changed">\"%1$s\" ændret</string>
+    <string name="changes_created">\"%1$s\" oprettet</string>
+    <string name="changes_deleted">\"%1$s\" slettet</string>
+    <string name="clear">Nulstil</string>
+    <string name="closed">Lukket</string>
+    <string name="comment">Kommentar</string>
+    <string name="config_advancedprefs">Avancerede indstillinger</string>
+    <string name="config_api_url_title">API URL</string>
+    <string name="config_apibutton_title">OSM API URL</string>
+    <string name="config_backgroundLayer_title">Kortbaggrund</string>
+    <string name="config_category_info">Om</string>
+    <string name="config_extTriggeredDownloadRadius_title">Download radius</string>
+    <string name="config_gps_source_tcp_title">NMEA netværks kilde</string>
+    <string name="config_iconbutton_title">Vis knude-ikoner</string>
+    <string name="config_loginbutton_title">Brugerkonto</string>
+    <string name="config_maxStrokeWidth_title">Max linjebredde</string>
+    <string name="config_showStats_title">Vis statistik</string>
+    <string name="config_showTolerance_title">Vis tolerance</string>
+    <string name="config_tileCacheSize_title">Tern cache størrelse</string>
+    <string name="coordinates_out_of_range">Længdegrad skal være mellem -180°/+180°, breddegrad mellem -85°/85°</string>
+    <string name="default_">Standard</string>
+    <string name="delete">Slet</string>
+    <string name="deleterelation">Slet relation</string>
+    <string name="edit">Rediger</string>
+    <string name="enable">Aktiver</string>
+    <string name="find_message">Indtast søgetekst</string>
+    <string name="forward">Frem</string>
+    <string name="go_to_openstreetmap">Gå til openstreetmap.org</string>
+    <string name="gps_failure">Kunne ikke starte GPS</string>
+    <string name="help_addrelationmember">Relation valgt</string>
+    <string name="help_nodeselection">Knude valgt</string>
+    <string name="help_relationselection">Relation valgt</string>
+    <string name="help_upgrade_096">0.9.6 Release noter</string>
+    <string name="help_upgrade_097">0.9.7 Release noter</string>
+    <string name="help_upgrade_098">0.9.8 Release noter</string>
+    <string name="help_upgrade_099">0.9.9 Release noter</string>
+    <string name="help_wayselection">Vej valgt</string>
+    <string name="imagery_offset_author">Forfatter</string>
+    <string name="imagery_offset_date">Oprettet</string>
+    <string name="imagery_offset_description">Beskrivelse</string>
+    <string name="imagery_offset_distance">Afstand</string>
+    <string name="imagery_offset_not_found">Ingen forskydninger fundet i 10 km radius!</string>
+    <string name="imagery_offset_offset">Forskydning</string>
+    <string name="imagery_offset_zoom">Zoom</string>
+    <string name="internationalized_hint">%1$s (%2$s)</string>
+    <string name="keep">Behold</string>
+    <string name="key">nøgle</string>
+    <string name="last_edited">Senest rettet</string>
+    <string name="length_m">Længde (m)</string>
+    <string name="link_mapfeatures">http://wiki.openstreetmap.org/index.php/Map_Features</string>
+    <string name="location_choose_radius">Vælg radius:</string>
+    <string name="location_coordinates_text">Fra koordinater:</string>
+    <string name="location_current_text">Nuværende position:</string>
+    <string name="location_current_text_parameterized">Nuværende position: %1$s</string>
+    <string name="location_default_radius">300m</string>
+    <string name="location_last_text">Sidst kendte position:</string>
+    <string name="location_last_text_parameterized">Sidste kendte position: %1$s</string>
+    <string name="location_lat_label">Lat:</string>
+    <string name="location_load_dismiss">Gå til kort</string>
+    <string name="location_lon_label">Lon:</string>
+    <string name="location_search_label">Søg:</string>
+    <string name="locked">Låst</string>
+    <string name="members">Medlemmer</string>
+    <string name="membership_relation_heading">Medlem af relation</string>
+    <string name="menu_add">Ny</string>
+    <string name="menu_add_relation_member">Tilføj medlem</string>
+    <string name="menu_append">Fortsæt</string>
+    <string name="menu_camera">Kamera</string>
+    <string name="menu_config">Indstillinger</string>
+    <string name="menu_easyedit">EasyEdit</string>
+    <string name="menu_edit">Ret</string>
+    <string name="menu_edit_relation">Ret relation</string>
+    <string name="menu_erase">Slet knude</string>
+    <string name="menu_find">Find</string>
+    <string name="menu_gps_autodownload">Auto download</string>
+    <string name="menu_gps_show">Vis lokalitet</string>
+    <string name="menu_help">Hjælp</string>
+    <string name="menu_history">Historie</string>
+    <string name="menu_information">Info</string>
+    <string name="menu_join">Sammenlæg</string>
+    <string name="menu_merge">Sammenlæg</string>
+    <string name="menu_move">Flyt</string>
+    <string name="menu_reverse">Vend om</string>
+    <string name="menu_rotate">Rotér</string>
+    <string name="menu_set_position">Position</string>
+    <string name="menu_split">Opdel</string>
+    <string name="menu_tag">Ret tags</string>
+    <string name="menu_tools_background_align_reset">Nulstil</string>
+    <string name="menu_top">Top</string>
+    <string name="menu_transfer">Overfør…</string>
+    <string name="menu_transfer_bugs_clear">Nulstil</string>
+    <string name="menu_transfer_bugs_upload">Upload alt</string>
+    <string name="menu_transfer_download_current">Download nuværende udsnit</string>
+    <string name="menu_transfer_export">Eksporter ændringer til OSC fil</string>
+    <string name="menu_transfer_upload">Upload data til OSM server</string>
+    <string name="menu_unjoin">Adskil</string>
+    <string name="menu_up">Op</string>
+    <string name="mode_indoor">Indendørs</string>
+    <string name="name">Navn</string>
+    <string name="next">Næste</string>
+    <string name="no">Nej</string>
+    <string name="object">Objekt</string>
+    <string name="openstreetbug_bug_title">Problem</string>
+    <string name="openstreetbug_comment_label">Kommentar:</string>
+    <string name="overwrite">Overskriv</string>
+    <string name="problem">Problem</string>
+    <string name="progress_download_message">Downloader data fra server…</string>
+    <string name="progress_general_title">Vent</string>
+    <string name="progress_message">Læser ind i memory…</string>
+    <string name="progress_title">Læser</string>
+    <string name="read">Læs</string>
+    <string name="read_upgrade">Læs om den nye version</string>
+    <string name="redo">Gentag</string>
+    <string name="relation">Relation</string>
+    <string name="relations">Relationer</string>
+    <string name="replace">Erstat</string>
+    <string name="retry">Prøv igen</string>
+    <string name="role">Rolle</string>
+    <string name="save">Gem</string>
+    <string name="search">Søg</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Søg"</string>
+    <string name="search_results_title">Søgeresultater</string>
+    <string name="share">Del</string>
+    <string name="share_position">Del position</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tag_details">Detaljer</string>
+    <string name="tag_menu_address">Tilføj adresse tags</string>
+    <string name="tag_menu_addtorelation">Tilføj til relation</string>
+    <string name="tag_menu_download">Download</string>
+    <string name="tag_menu_i8n">Tilføj tags for %1$s</string>
+    <string name="tag_menu_move_bottom">Flyt til bund</string>
+    <string name="tag_menu_move_down">Flyt ned</string>
+    <string name="tag_menu_move_top">Flyt til top</string>
+    <string name="tag_menu_move_up">Flyt op</string>
+    <string name="tag_menu_revert">Tilbagefør</string>
+    <string name="tag_menu_sort">Sortere</string>
+    <string name="tag_restriction_add_expression">Tilføj udtryk</string>
+    <string name="tag_restriction_add_opening_hours">Tilføj åbningstider</string>
+    <string name="tag_restriction_add_simple_condition">Tilføj simpel betingelse</string>
+    <string name="tag_restriction_and">og</string>
+    <string name="tag_restriction_header">Værdi</string>
+    <string name="tag_restriction_when">når</string>
+    <string name="toast_export_success">Eksporteret til %1$s</string>
+    <string name="toast_file_not_found">%1$s ikke fundet.</string>
+    <string name="toast_no_changes">Du har ikke ændret noget endnu…</string>
+    <string name="toast_nothing_found">Intet fundet</string>
+    <string name="transfer_download_current_dialog_title">Advarsel!</string>
+    <string name="transfer_download_current_download">Afbryd &amp; download</string>
+    <string name="transfer_download_current_upload">Upload</string>
+    <string name="type">Type</string>
+    <string name="undo">Fortryd</string>
+    <string name="undo_nothing">intet at fortryde</string>
+    <string name="unknown">ukendt</string>
+    <string name="unsaved_data_proceed">Kassér &amp; fortsæt</string>
+    <string name="unsaved_data_title">Bemærk!</string>
+    <string name="upload_comment_label">Kommentar:</string>
+    <string name="upload_conflict_title">Upload konflikt</string>
+    <string name="upload_gpx_description_label">Beskrivelse</string>
+    <string name="upload_gpx_tags_label">Tags</string>
+    <string name="upload_gpx_visibility_label">Synlighed</string>
+    <string name="upload_source_label">Kilde:</string>
+    <string name="url">URL</string>
+    <string name="urldialog_add_api">Tilføj API</string>
+    <string name="urldialog_api_exists">En API med denne URL eksisterer allerede. Du kan tilføje en anden (f.eks. til nemt at skifte mellem konti)</string>
+    <string name="urldialog_nodata_text">Konfigurations-URL\'en indeholder ikke gyldige data</string>
+    <string name="use_local_version">Brug lokal version</string>
+    <string name="use_server_version">Brug version på server</string>
+    <string name="value">værdi</string>
+    <string name="version">Version</string>
+    <string name="yes">Ja</string>
+</resources>

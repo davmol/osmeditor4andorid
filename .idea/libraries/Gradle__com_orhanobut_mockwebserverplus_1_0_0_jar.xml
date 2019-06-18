@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.orhanobut:mockwebserverplus:1.0.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.orhanobut/mockwebserverplus/1.0.0/4fc516b12b088dc7eded072a301863f6507c6c47/mockwebserverplus-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.orhanobut/mockwebserverplus/1.0.0/c2c69b0c171ad5d2c016cdb8b40207991f74e165/mockwebserverplus-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

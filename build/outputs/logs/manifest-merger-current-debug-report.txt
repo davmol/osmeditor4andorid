@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:2:1-233:12
-INJECTED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:2:1-233:12
-INJECTED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:2:1-233:12
-MERGED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:2:1-233:12
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:2:1-233:12
+INJECTED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:2:1-233:12
+INJECTED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:2:1-233:12
+MERGED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:2:1-233:12
 MERGED from [com.heinrichreimersoftware:android-issue-reporter:1.3.1] /Users/david/.gradle/caches/transforms-1/files-1.1/android-issue-reporter-1.3.1.aar/dd694d47812af97b09aae5ad35ea82f5/AndroidManifest.xml:25:1-42:12
 MERGED from [com.nononsenseapps:filepicker:3.0.0] /Users/david/.gradle/caches/transforms-1/files-1.1/filepicker-3.0.0.aar/32b95948b9e23a6d610d877524345c04/AndroidManifest.xml:7:1-19:12
 MERGED from [com.pavelsikun:vintage-chroma:1.5] /Users/david/.gradle/caches/transforms-1/files-1.1/vintage-chroma-1.5.aar/b5c96f7201c53edf573e48931312ee2a/AndroidManifest.xml:2:1-14:12
@@ -38,30 +38,30 @@ MERGED from [ch.poole:rangebar:0.1.1] /Users/david/.gradle/caches/transforms-1/f
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/david/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5c4b9084e4c2b3d1186a96599e7b07a9/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /Users/david/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/37129e262d29d1a18ddb26a3ad5e4b5c/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/david/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/140e09be1f1c63ce15f7627cd57f3da3/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/david/Code/android/osmeditor4android-master/src/current/AndroidManifest.xml:2:1-15:12
-INJECTED from /Users/david/Code/android/osmeditor4android-master/src/current/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/david/Code/android/osmeditor4android/src/current/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/david/Code/android/osmeditor4android/src/current/AndroidManifest.xml:2:1-15:12
 	package
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:4:5-30
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:4:5-30
 	android:versionName
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:7:5-46
-		INJECTED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:7:5-46
-		INJECTED from /Users/david/Code/android/osmeditor4android-master/src/current/AndroidManifest.xml
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:7:5-46
+		INJECTED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:7:5-46
+		INJECTED from /Users/david/Code/android/osmeditor4android/src/current/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:3:5-51
 	xmlns:android
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:6:5-31
-		INJECTED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:6:5-31
-		INJECTED from /Users/david/Code/android/osmeditor4android-master/src/current/AndroidManifest.xml
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:6:5-31
+		INJECTED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:6:5-31
+		INJECTED from /Users/david/Code/android/osmeditor4android/src/current/AndroidManifest.xml
 	android:installLocation
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:5:5-35
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:5:5-35
 uses-sdk
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:9:5-10:231
-INJECTED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:9:5-10:231
-INJECTED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:9:5-10:231
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:9:5-10:231
+INJECTED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:9:5-10:231
+INJECTED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:9:5-10:231
 MERGED from [com.heinrichreimersoftware:android-issue-reporter:1.3.1] /Users/david/.gradle/caches/transforms-1/files-1.1/android-issue-reporter-1.3.1.aar/dd694d47812af97b09aae5ad35ea82f5/AndroidManifest.xml:30:5-32:41
 MERGED from [com.heinrichreimersoftware:android-issue-reporter:1.3.1] /Users/david/.gradle/caches/transforms-1/files-1.1/android-issue-reporter-1.3.1.aar/dd694d47812af97b09aae5ad35ea82f5/AndroidManifest.xml:30:5-32:41
 MERGED from [com.nononsenseapps:filepicker:3.0.0] /Users/david/.gradle/caches/transforms-1/files-1.1/filepicker-3.0.0.aar/32b95948b9e23a6d610d877524345c04/AndroidManifest.xml:13:5-15:41
@@ -130,68 +130,68 @@ MERGED from [android.arch.core:runtime:1.1.0] /Users/david/.gradle/caches/transf
 MERGED from [android.arch.core:runtime:1.1.0] /Users/david/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/37129e262d29d1a18ddb26a3ad5e4b5c/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/david/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/140e09be1f1c63ce15f7627cd57f3da3/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/david/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/140e09be1f1c63ce15f7627cd57f3da3/AndroidManifest.xml:20:5-44
-INJECTED from /Users/david/Code/android/osmeditor4android-master/src/current/AndroidManifest.xml:9:5-10:231
-INJECTED from /Users/david/Code/android/osmeditor4android-master/src/current/AndroidManifest.xml:9:5-10:231
+INJECTED from /Users/david/Code/android/osmeditor4android/src/current/AndroidManifest.xml:9:5-10:231
+INJECTED from /Users/david/Code/android/osmeditor4android/src/current/AndroidManifest.xml:9:5-10:231
 	tools:overrideLibrary
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:10:9-228
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:10:9-228
 	android:targetSdkVersion
-		INJECTED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml
-		INJECTED from /Users/david/Code/android/osmeditor4android-master/src/current/AndroidManifest.xml
+		INJECTED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml
+		INJECTED from /Users/david/Code/android/osmeditor4android/src/current/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml
-		INJECTED from /Users/david/Code/android/osmeditor4android-master/src/current/AndroidManifest.xml
+		INJECTED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml
+		INJECTED from /Users/david/Code/android/osmeditor4android/src/current/AndroidManifest.xml
 uses-feature#android.hardware.sensor.compass
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:18:5-20:36
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:18:5-20:36
 	android:required
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:20:9-33
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:20:9-33
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:19:9-55
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:19:9-55
 uses-feature#android.hardware.location
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:21:5-23:36
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:21:5-23:36
 	android:required
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:23:9-33
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:23:9-33
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:22:9-49
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:22:9-49
 uses-feature#android.hardware.location.gps
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:24:5-26:36
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:24:5-26:36
 	android:required
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:26:9-33
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:26:9-33
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:25:9-53
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:25:9-53
 uses-feature#android.hardware.location.network
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:27:5-29:36
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:27:5-29:36
 	android:required
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:29:9-33
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:29:9-33
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:28:9-57
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:28:9-57
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:31:5-79
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:31:5-79
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:31:22-76
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:31:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:32:5-81
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:32:5-81
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:32:22-78
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:32:22-78
 uses-permission#android.permission.INTERNET
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:33:5-67
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:33:5-67
 MERGED from [com.heinrichreimersoftware:android-issue-reporter:1.3.1] /Users/david/.gradle/caches/transforms-1/files-1.1/android-issue-reporter-1.3.1.aar/dd694d47812af97b09aae5ad35ea82f5/AndroidManifest.xml:34:5-67
 MERGED from [com.heinrichreimersoftware:android-issue-reporter:1.3.1] /Users/david/.gradle/caches/transforms-1/files-1.1/android-issue-reporter-1.3.1.aar/dd694d47812af97b09aae5ad35ea82f5/AndroidManifest.xml:34:5-67
 MERGED from [ch.acra:acra-http:5.0.2] /Users/david/.gradle/caches/transforms-1/files-1.1/acra-http-5.0.2.aar/b52ba2cae583cd33171ca678184adfec/AndroidManifest.xml:25:5-67
 MERGED from [ch.acra:acra-http:5.0.2] /Users/david/.gradle/caches/transforms-1/files-1.1/acra-http-5.0.2.aar/b52ba2cae583cd33171ca678184adfec/AndroidManifest.xml:25:5-67
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:33:22-64
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:33:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:34:5-79
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:34:5-79
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:34:22-76
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:34:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:35:5-81
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:35:5-81
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:35:22-78
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:35:22-78
 application
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:38:5-232:19
-MERGED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:38:5-232:19
-MERGED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:38:5-232:19
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:38:5-232:19
+MERGED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:38:5-232:19
+MERGED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:38:5-232:19
 MERGED from [com.heinrichreimersoftware:android-issue-reporter:1.3.1] /Users/david/.gradle/caches/transforms-1/files-1.1/android-issue-reporter-1.3.1.aar/dd694d47812af97b09aae5ad35ea82f5/AndroidManifest.xml:36:5-40:19
 MERGED from [com.heinrichreimersoftware:android-issue-reporter:1.3.1] /Users/david/.gradle/caches/transforms-1/files-1.1/android-issue-reporter-1.3.1.aar/dd694d47812af97b09aae5ad35ea82f5/AndroidManifest.xml:36:5-40:19
 MERGED from [com.nononsenseapps:filepicker:3.0.0] /Users/david/.gradle/caches/transforms-1/files-1.1/filepicker-3.0.0.aar/32b95948b9e23a6d610d877524345c04/AndroidManifest.xml:17:5-20
@@ -211,305 +211,305 @@ MERGED from [com.github.aakira:expandable-layout:1.4.3] /Users/david/.gradle/cac
 MERGED from [ch.acra:acra-core:5.0.2] /Users/david/.gradle/caches/transforms-1/files-1.1/acra-core-5.0.2.aar/8a1a31846d0ca99a17be3169ca4bb6d5/AndroidManifest.xml:25:5-37:19
 MERGED from [ch.acra:acra-core:5.0.2] /Users/david/.gradle/caches/transforms-1/files-1.1/acra-core-5.0.2.aar/8a1a31846d0ca99a17be3169ca4bb6d5/AndroidManifest.xml:25:5-37:19
 	android:supportsRtl
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:46:9-35
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:46:9-35
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:46:9-35
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:46:9-35
 	android:label
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:43:9-41
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:43:9-41
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:43:9-41
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:43:9-41
 	android:fullBackupContent
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:41:9-48
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:41:9-48
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:41:9-48
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:41:9-48
 	android:resizeableActivity
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:45:9-42
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:45:9-42
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:45:9-42
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:45:9-42
 	android:largeHeap
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:44:9-33
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:44:9-33
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:44:9-33
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:44:9-33
 	android:icon
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:42:9-45
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:42:9-45
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:42:9-45
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:42:9-45
 	android:allowBackup
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:40:9-35
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:40:9-35
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:40:9-35
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:40:9-35
 	android:theme
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:47:9-47
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:47:9-47
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:47:9-47
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:47:9-47
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:39:9-43
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:39:9-43
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:39:9-43
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:39:9-43
 activity#de.blau.android.Splash
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:48:9-57:20
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:48:9-57:20
 	android:theme
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:50:13-47
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:50:13-47
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:49:13-35
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:49:13-35
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.MULTIWINDOW_LAUNCHER
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:51:13-56:29
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:51:13-56:29
 action#android.intent.action.MAIN
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:52:17-69
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:52:17-69
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:52:25-66
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:52:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:53:17-77
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:53:17-77
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:53:27-74
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:53:27-74
 category#android.intent.category.MULTIWINDOW_LAUNCHER
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:55:17-89
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:55:17-89
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:55:27-86
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:55:27-86
 activity#de.blau.android.Main
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:58:9-66:20
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:58:9-66:20
 	android:launchMode
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:61:13-44
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:61:13-44
 	android:configChanges
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:60:13-102
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:60:13-102
 	android:theme
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:62:13-52
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:62:13-52
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:59:13-33
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:59:13-33
 meta-data#com.samsung.android.keepalive.density
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:63:13-65:40
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:63:13-65:40
 	android:value
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:65:17-37
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:65:17-37
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:64:17-69
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:64:17-69
 activity#de.blau.android.prefs.PrefEditor
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:67:9-70:59
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:67:9-70:59
 	android:label
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:69:13-48
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:69:13-48
 	android:theme
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:70:13-56
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:70:13-56
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:68:13-45
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:68:13-45
 activity#de.blau.android.prefs.AdvancedPrefEditor
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:71:9-74:59
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:71:9-74:59
 	android:label
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:73:13-53
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:73:13-53
 	android:theme
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:74:13-56
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:74:13-56
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:72:13-53
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:72:13-53
 activity#de.blau.android.BoxPicker
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:75:9-77:54
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:75:9-77:54
 	android:theme
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:77:13-51
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:77:13-51
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:76:13-37
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:76:13-37
 activity#de.blau.android.propertyeditor.PropertyEditor
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:78:9-81:60
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:78:9-81:60
 	android:configChanges
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:80:13-102
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:80:13-102
 	android:theme
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:81:13-57
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:81:13-57
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:79:13-58
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:79:13-58
 activity#de.blau.android.prefs.APIEditorActivity
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:82:9-85:54
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:82:9-85:54
 	android:label
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:84:13-48
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:84:13-48
 	android:theme
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:85:13-51
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:85:13-51
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:83:13-52
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:83:13-52
 activity#de.blau.android.prefs.PresetEditorActivity
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:86:9-89:54
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:86:9-89:54
 	android:label
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:88:13-51
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:88:13-51
 	android:theme
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:89:13-51
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:89:13-51
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:87:13-55
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:87:13-55
 activity#de.blau.android.prefs.GeocoderEditorActivity
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:90:9-93:54
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:90:9-93:54
 	android:label
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:92:13-53
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:92:13-53
 	android:theme
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:93:13-51
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:93:13-51
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:91:13-57
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:91:13-57
 activity#de.blau.android.prefs.VespucciURLActivity
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:94:9-103:20
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:94:9-103:20
 	tools:ignore
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:96:13-44
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:96:13-44
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:95:13-54
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:95:13-54
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:vespucci
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:97:13-102:29
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:97:13-102:29
 action#android.intent.action.VIEW
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:98:17-69
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:98:17-69
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:98:25-66
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:98:25-66
 category#android.intent.category.DEFAULT
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:99:17-76
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:99:17-76
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:99:27-73
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:99:27-73
 category#android.intent.category.BROWSABLE
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:100:17-78
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:100:17-78
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:100:27-75
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:100:27-75
 data
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:101:17-51
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:101:17-51
 	android:scheme
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:101:23-48
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:101:23-48
 activity#de.blau.android.GeoUrlActivity
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:104:9-115:20
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:104:9-115:20
 	tools:ignore
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:106:13-44
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:106:13-44
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:105:13-58
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:105:13-58
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:geo
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:107:13-114:29
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:107:13-114:29
 activity#de.blau.android.ShareOnOpenStreetMap
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:116:9-129:20
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:116:9-129:20
 	android:label
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:118:13-59
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:118:13-59
 	tools:ignore
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:119:13-44
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:119:13-44
 	android:icon
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:120:13-46
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:120:13-46
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:117:13-64
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:117:13-64
 activity#de.blau.android.RemoteControlUrlActivity
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:130:9-158:20
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:130:9-158:20
 	tools:ignore
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:132:13-44
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:132:13-44
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:131:13-68
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:131:13-68
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:josm
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:133:13-140:29
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:133:13-140:29
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:127.0.0.1+data:host:127.0.0.1+data:pathPattern:/.*+data:pathPattern:/.*+data:port:8111+data:port:8112+data:scheme:http+data:scheme:https
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:141:13-157:29
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:141:13-157:29
 activity#de.blau.android.Authorize
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:159:9-162:54
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:159:9-162:54
 	android:launchMode
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:161:13-44
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:161:13-44
 	android:theme
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:162:13-51
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:162:13-51
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:160:13-37
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:160:13-37
 activity#de.blau.android.LicenseViewer
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:163:9-165:54
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:163:9-165:54
 	android:theme
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:165:13-51
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:165:13-51
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:164:13-41
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:164:13-41
 activity#de.blau.android.DebugInformation
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:166:9-168:54
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:166:9-168:54
 	android:theme
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:168:13-51
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:168:13-51
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:167:13-44
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:167:13-44
 activity#de.blau.android.HelpViewer
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:169:9-171:61
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:169:9-171:61
 	android:theme
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:171:13-58
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:171:13-58
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:170:13-38
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:170:13-38
 activity#de.blau.android.util.ThemedFilePickerActivity
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:172:9-176:20
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:172:9-176:20
 	android:label
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:174:13-45
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:174:13-45
 	android:theme
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:175:13-51
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:175:13-51
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:173:13-58
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:173:13-58
 activity#de.blau.android.filter.TagFilterActivity
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:177:9-179:60
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:177:9-179:60
 	android:theme
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:179:13-57
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:179:13-57
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:178:13-53
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:178:13-53
 activity#de.blau.android.filter.PresetFilterActivity
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:180:9-182:60
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:180:9-182:60
 	android:theme
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:182:13-57
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:182:13-57
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:181:13-56
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:181:13-56
 activity#org.acra.dialog.CrashReportDialog
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:183:9-190:47
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:183:9-190:47
 MERGED from [ch.acra:acra-dialog:5.0.2] /Users/david/.gradle/caches/transforms-1/files-1.1/acra-dialog-5.0.2.aar/43fefb1f0b4e1204426478387c6b124e/AndroidManifest.xml:26:9-32:59
 MERGED from [ch.acra:acra-dialog:5.0.2] /Users/david/.gradle/caches/transforms-1/files-1.1/acra-dialog-5.0.2.aar/43fefb1f0b4e1204426478387c6b124e/AndroidManifest.xml:26:9-32:59
 	android:process
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:188:13-44
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:188:13-44
 		REJECTED from [ch.acra:acra-dialog:5.0.2] /Users/david/.gradle/caches/transforms-1/files-1.1/acra-dialog-5.0.2.aar/43fefb1f0b4e1204426478387c6b124e/AndroidManifest.xml:31:13-36
 	android:excludeFromRecents
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:185:13-46
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:185:13-46
 	android:launchMode
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:187:13-48
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:187:13-48
 	android:theme
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:189:13-56
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:189:13-56
 	android:finishOnTaskLaunch
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:186:13-46
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:186:13-46
 	tools:replace
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:190:13-44
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:190:13-44
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:184:13-61
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:184:13-61
 service#org.acra.sender.SenderService
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:192:9-195:39
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:192:9-195:39
 MERGED from [ch.acra:acra-core:5.0.2] /Users/david/.gradle/caches/transforms-1/files-1.1/acra-core-5.0.2.aar/8a1a31846d0ca99a17be3169ca4bb6d5/AndroidManifest.xml:26:9-29:39
 MERGED from [ch.acra:acra-core:5.0.2] /Users/david/.gradle/caches/transforms-1/files-1.1/acra-core-5.0.2.aar/8a1a31846d0ca99a17be3169ca4bb6d5/AndroidManifest.xml:26:9-29:39
 	android:process
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:195:13-36
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:195:13-36
 	android:exported
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:194:13-37
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:194:13-37
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:193:13-57
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:193:13-57
 service#de.blau.android.services.MapTileProviderService
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:198:9-206:19
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:198:9-206:19
 	android:process
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:202:13-38
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:202:13-38
 	android:label
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:201:13-51
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:201:13-51
 	android:exported
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:200:13-37
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:200:13-37
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:199:13-60
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:199:13-60
 intent-filter#action:name:de.blau.android.services.IMapTileProviderService
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:203:13-205:29
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:203:13-205:29
 action#de.blau.android.services.IMapTileProviderService
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:204:17-91
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:204:17-91
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:204:25-88
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:204:25-88
 service#de.blau.android.services.TrackerService
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:208:9-210:46
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:208:9-210:46
 	android:label
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:210:13-43
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:210:13-43
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:209:13-52
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:209:13-52
 provider#android.support.v4.content.FileProvider
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:212:9-220:20
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:212:9-220:20
 	android:grantUriPermissions
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:216:13-47
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:216:13-47
 	android:authorities
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:214:13-59
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:214:13-59
 	android:exported
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:215:13-37
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:215:13-37
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:213:13-67
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:213:13-67
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:217:13-219:53
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:217:13-219:53
 	android:resource
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:219:17-50
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:219:17-50
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:218:17-67
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:218:17-67
 uses-library#com.sec.android.app.multiwindow
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:223:9-226:24
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:223:9-226:24
 	android:required
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:225:13-37
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:225:13-37
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:224:13-59
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:224:13-59
 meta-data#com.sec.android.support.multiwindow
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:228:9-230:36
+ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:228:9-230:36
 	android:value
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:230:13-33
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:230:13-33
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/main/AndroidManifest.xml:229:13-63
+		ADDED from /Users/david/Code/android/osmeditor4android/src/main/AndroidManifest.xml:229:13-63
 activity#de.blau.android.Feedback
-ADDED from /Users/david/Code/android/osmeditor4android-master/src/current/AndroidManifest.xml:10:9-12:58
+ADDED from /Users/david/Code/android/osmeditor4android/src/current/AndroidManifest.xml:10:9-12:58
 	android:theme
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/current/AndroidManifest.xml:12:13-55
+		ADDED from /Users/david/Code/android/osmeditor4android/src/current/AndroidManifest.xml:12:13-55
 	android:name
-		ADDED from /Users/david/Code/android/osmeditor4android-master/src/current/AndroidManifest.xml:11:13-36
+		ADDED from /Users/david/Code/android/osmeditor4android/src/current/AndroidManifest.xml:11:13-36
 activity#com.heinrichreimersoftware.androidissuereporter.IssueReporterLauncher$Activity
 ADDED from [com.heinrichreimersoftware:android-issue-reporter:1.3.1] /Users/david/.gradle/caches/transforms-1/files-1.1/android-issue-reporter-1.3.1.aar/dd694d47812af97b09aae5ad35ea82f5/AndroidManifest.xml:37:9-39:58
 	android:theme

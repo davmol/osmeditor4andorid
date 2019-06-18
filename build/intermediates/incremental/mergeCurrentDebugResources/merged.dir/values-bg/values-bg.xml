@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="address_tags_entries">
+    <item>Номер (addr:housenumber)</item>
+    <item>Улица (addr:street)</item>
+    <item>Пощенски код (addr:postcode)</item>
+    <item>Град, село (addr:city)</item>
+    <item>Държава (addr:country)</item>
+    <item>Пълен адрес (addr:full)</item>
+    <item>Местност (addr:place)</item>
+    <item>Махала (addr:hamlet)</item>
+    <item>Квартал (addr:suburb)</item>
+    <item>Подрайон (addr:subdistrict)</item>
+    <item>Район (addr:district)</item>
+    <item>Област (addr:province)</item>
+    <item>Щат (addr:state)</item>
+    <item>Апартаменти (addr:flats)</item>
+    <item>Апартамент (addr:door)</item>
+    <item>Секция (addr:unit)</item>
+  </string-array>
+    <array name="help_files" translatable="false">
+        <item>Introduction</item>
+        <item>Main map display</item>
+        <item>Simple actions</item>
+        <item>Property editor</item>
+        <item>Node selected</item>
+    	<item>Way selected</item>
+    	<item>Relation selected</item>
+    	<item>Multiselect</item>
+    	<item>Creating new objects</item>
+        <item>Preferences</item>
+        <item>Advanced preferences</item>
+    	<item>Presets</item>	
+    	<item>Aligning background imagery</item>
+    	<item>Conflict resolution</item>
+    	<item>GPS sources</item>
+    	<item>Keyboard</item>
+    	<item>Tag filter</item>
+    	<item>Preset filter</item>
+    	<item>Opening hours</item>
+        <item>New Note selected</item>
+        <item>Voice commands</item>
+        <item>13.0.0 Release notes</item>
+        <item>12.1.0 Release notes</item>
+        <item>12.0.0 Release notes</item>
+        <item>11.2.0 Release notes</item>
+        <item>11.1.0 Release notes</item>
+        <item>11.0.0 Release notes</item>
+        <item>10.2.0 Release notes</item>
+    	<item>10.1.0 Release notes</item>
+    	<item>10.0.0 Release notes</item>
+    	<item>0.9.9 Release notes</item>
+    	<item>0.9.8 Release notes</item>
+    	<item>0.9.7 Release notes</item>
+    	<item>0.9.6 Release notes</item>
+        <item>Privacy</item>
+    </array>
+    <array name="help_tableofcontents" translatable="false">
+        <item>@string/help_introduction</item>
+        <item>@string/help_main</item>
+        <item>@string/help_simple_actions</item>
+        <item>@string/help_propertyeditor</item>
+        <item>@string/help_nodeselection</item>
+    	<item>@string/help_wayselection</item>
+    	<item>@string/help_relationselection</item>
+    	<item>@string/help_multiselect</item>
+    	<item>@string/help_longclick</item>
+        <item>@string/help_preferences</item>
+        <item>@string/help_advanced_preferences</item>
+    	<item>@string/help_presets</item>	
+    	<item>@string/help_aligningbackgroundiamgery</item>
+    	<item>@string/help_conflictresolution</item>
+    	<item>@string/help_gpssources</item>
+    	<item>@string/help_keyboard</item>
+    	<item>@string/help_tagfilter</item>
+    	<item>@string/help_presetfilter</item>
+    	<item>@string/help_opening_hours</item>
+        <item>@string/help_newnoteselection</item>
+        <item>@string/help_voice_commands</item>
+    	<item>@string/help_upgrade</item>
+        <item>@string/help_upgrade_121</item>
+        <item>@string/help_upgrade_120</item>
+        <item>@string/help_upgrade_112</item>
+        <item>@string/help_upgrade_111</item>
+        <item>@string/help_upgrade_110</item>
+        <item>@string/help_upgrade_102</item>
+        <item>@string/help_upgrade_101</item>
+    	<item>@string/help_upgrade_100</item>
+    	<item>@string/help_upgrade_099</item>
+    	<item>@string/help_upgrade_098</item>
+    	<item>@string/help_upgrade_097</item>
+    	<item>@string/help_upgrade_096</item>
+        <item>@string/help_privacy</item>
+    </array>
+    <string-array name="scale_entries">
+    <item>None</item>
+    <item>Мащаб (метричен)</item>
+    <item>Координатна мрежа (метрична)</item>
+    <item>Мащаб (имперски)</item>
+    <item>Координатна мрежа (имперска)</item>
+  </string-array>
+    <string name="WGS84">WGS84</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Придвижване към „Начало“"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Придвижване нагоре"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Още опции"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Вижте всички"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Изберете приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ИЗКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Търсете…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Изчистване на заявката"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Заявка за търсене"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Търсене"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Изпращане на заявката"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Гласово търсене"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Споделяне със:"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Споделяне със: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свиване"</string>
+    <string name="add_layer_title">Добавете слой</string>
+    <string name="add_members">Добави членове</string>
+    <string name="age">Възраст</string>
+    <string name="altitude">Надморска височина</string>
+    <string name="attached_object_warning_title">Това действие засяга филтрирани прикачени обекти!</string>
+    <string name="bad_request_message">API-то отговори с грешка, моля запишете данните и докладвайте проблема:\n\n</string>
+    <string name="bounding_box_too_large_title">Районът за сваляне е твърде голям.</string>
+    <string name="boxpicker_firsttimetitle">Свалете OpenStreetMap данни</string>
+    <string name="bugfilter_custom_entry">Персонализиран</string>
+    <string name="bugfilter_notes_entry">Бележки</string>
+    <string name="bugfilter_osmose_error_entry">Osmose грешка</string>
+    <string name="bugfilter_osmose_minor_issue_entry">Osmose дребен проблем</string>
+    <string name="bugfilter_osmose_warning_entry">Osmose предупреждение</string>
+    <string name="closed">Затворен</string>
+    <string name="coordinates_out_of_range">Географската дължина трябва да е между -180°/+180°, географската дължина между -85°/85°</string>
+    <string name="coverage">Покритие</string>
+    <string name="coverage_bottom">Долу</string>
+    <string name="coverage_left">Ляво</string>
+    <string name="coverage_right">Дясно</string>
+    <string name="coverage_top">Горе</string>
+    <string name="created">Създаден</string>
+    <string name="current">Текущ</string>
+    <string name="custom_layer_title">Персонализирани изображения</string>
+    <string name="delete_layer">Изтрий слой?</string>
+    <string name="description">Описание</string>
+    <string name="digit_one">1</string>
+    <string name="edit_layer_title">Редактирайте слой</string>
+    <string name="evaluate">Оцени</string>
+    <string name="find_message">Въведете низ за търсене</string>
+    <string name="forbidden_login_title">Входът забранен</string>
+    <string name="geocoder_prompt">с</string>
+    <string name="go_to_openstreetmap">Отидете на openstreetmap.org</string>
+    <string name="help_addrelationmember">Избрана релация</string>
+    <string name="help_advanced_preferences">Предпочитания за напреднали</string>
+    <string name="help_aligningbackgroundiamgery">Подравняване на фоновото изображение</string>
+    <string name="help_conflictresolution">Разрешаване на конфликти</string>
+    <string name="help_gpssources">GPS източници</string>
+    <string name="help_introduction">Въведение</string>
+    <string name="help_keyboard">Клавиатура</string>
+    <string name="help_longclick">Създаване на нови обекти</string>
+    <string name="help_main">Главен изглед на картата</string>
+    <string name="help_multiselect">Избор на много обекти</string>
+    <string name="help_nodeselection">Избран възел</string>
+    <string name="help_opening_hours">Работно време</string>
+    <string name="help_pathcreation">Създаване на нови обекти</string>
+    <string name="help_preferences">Предпочитания</string>
+    <string name="help_presetfilter">Филтър на настройките</string>
+    <string name="help_presets">Настройки</string>
+    <string name="help_privacy">Поверителност</string>
+    <string name="help_propertyeditor">Редактор на свойствата</string>
+    <string name="help_relationselection">Избрана релация</string>
+    <string name="help_tagfilter">Филтър на таговете</string>
+    <string name="help_upgrade">Бележки към версията</string>
+    <string name="help_upgrade_096">0.9.6 Бележки към версията</string>
+    <string name="help_upgrade_097">0.9.7 Бележки към версията</string>
+    <string name="help_upgrade_098">0.9.8 Бележки към версията</string>
+    <string name="help_upgrade_099">0.9.9 Бележки към версията</string>
+    <string name="help_upgrade_100">10.0 Бележки към версията</string>
+    <string name="help_upgrade_101">10.1 Бележки към версията</string>
+    <string name="help_upgrade_102">10.2 Бележки към версията</string>
+    <string name="help_wayselection">Избран път</string>
+    <string name="imagery_offset_author">Автор</string>
+    <string name="imagery_offset_date">Създаден</string>
+    <string name="imagery_offset_description">Описание</string>
+    <string name="imagery_offset_distance">Разстояние</string>
+    <string name="imagery_offset_not_found">Не са намерени отмествания в радиус 10km!</string>
+    <string name="imagery_offset_offset">Отместване</string>
+    <string name="imagery_offset_zoom">Приближение</string>
+    <string name="js_console_msg_debug">Дебъг режим!</string>
+    <string name="js_console_msg_live">Режим на живо!</string>
+    <string name="json_array_not_displayed">JSON масив (скрит)</string>
+    <string name="json_object_not_displayed">JSON обект (скрит)</string>
+    <string name="last_edited">Последно обновен</string>
+    <string name="layer_change_style">Смяна стил</string>
+    <string name="layer_flush_tile_cache">Изчистете кеша на тайлове</string>
+    <string name="layer_geojson">GeoJSON</string>
+    <string name="layer_gpx">GPX</string>
+    <string name="layer_grid">Координатна мрежа</string>
+    <string name="layer_photos">Снимки</string>
+    <string name="layer_select_imagery">Изберете изображение</string>
+    <string name="layer_style_color">Цвят</string>
+    <string name="layer_style_label">Надпис</string>
+    <string name="layer_style_stroke_width">Дебелина на линия</string>
+    <string name="layer_style_title">Стил на слой</string>
+    <string name="layer_tasks">Задачи</string>
+    <string name="leave_empty">Остави празно</string>
+    <string name="length_m">Дължина (m)</string>
+    <string name="max_age">Максимална вързраст</string>
+    <string name="members">Членове</string>
+    <string name="minus_sign">-</string>
+    <string name="mode_correct">C-мод</string>
+    <string name="mode_easy">Нормален</string>
+    <string name="mode_indoor">На закрито</string>
+    <string name="mode_tag_only">Само тагове</string>
+    <string name="no_valid_preset">Невалидна настройка</string>
+    <string name="nodes">Възли</string>
+    <string name="not_downloaded">Не е свалено</string>
+    <string name="oam_layer_title">OAM изображения</string>
+    <string name="openstreetbug_bug_title">Проблем</string>
+    <string name="openstreetbug_comment_label">Коментар:</string>
+    <string name="openstreetbug_not_supported">%1$s не се поддържа.</string>
+    <string name="openstreetbug_unknown_task_type">Неизвестен вид задача</string>
+    <string name="original">Оригинален</string>
+    <string name="overlay">Подложка</string>
+    <string name="plus_sign">+</string>
+    <string name="preset_search_hint">Предварително зададен низ за търсене</string>
+    <string name="problem">Проблем</string>
+    <string name="progress_deleting_message">Изтриване...</string>
+    <string name="progress_download_message">Сваляне на данните от сървъра...</string>
+    <string name="progress_general_title">Моля почакайте</string>
+    <string name="progress_message">Зареждане на данните в паметта...</string>
+    <string name="progress_oauth">Зареждане на вашия акаунт в openstreetmap.org за OAuth автентикация...</string>
+    <string name="progress_preset_message">Сваляне на настройка...</string>
+    <string name="progress_running_message">Стартиране...</string>
+    <string name="progress_saving_message">Записване...</string>
+    <string name="progress_searching_message">Търсене...</string>
+    <string name="progress_title">Зареждане</string>
+    <string name="progress_uploading_message">Качване...</string>
+    <string name="read_upgrade">Прочетете за новата версия</string>
+    <string name="relation_membership">Членство в релация</string>
+    <string name="search">Търсене</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Търсене"</string>
+    <string name="search_results_title">Резултати от търсенето</string>
+    <string name="set_position_datum_label">Изходни геодезически данни</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tag_editor_name_suggestion">Предложение за име</string>
+    <string name="toast_download_failed">Свалянето се провали с код за грешка %1$d, съобщение %2$s</string>
+    <string name="toast_export_success">Експортнато към %1$s</string>
+    <string name="toast_file_not_found">%1$s не е намерен.</string>
+    <string name="toast_invalid_apiurl">Невалиден URL на API</string>
+    <string name="toast_invalid_box">Невалиден или непълен ограждащ правоъгълник</string>
+    <string name="toast_invalid_filter_regexp">Невалиден израз във филтър с ключ=\"%1$s\" стойност=\"%2$s\"</string>
+    <string name="toast_invalid_readonlyurl">Невалиден URL на ReadOnly API  </string>
+    <string name="toast_min_one_geocoder">Поне един геокодер трябва да бъде избран!</string>
+    <string name="toast_needs_resurvey">Обектът може да е остарял</string>
+    <string name="toast_no_changes">Не сте променили все още нищо...</string>
+    <string name="toast_no_coverage">%1$s няма покритие тук</string>
+    <string name="toast_no_oauth">Не е достъпна OAuth конфигурация за текущото API, моля използвайте потребител и парола.</string>
+    <string name="toast_no_suitable_storage">Системата не върна подходящо местоположение за базата данни от тайлове</string>
+    <string name="toast_no_voice">Няма инструмент за разпознаване на глас</string>
+    <string name="toast_nothing_found">Нищо не е намерено</string>
+    <string name="toast_oauth">Моля позволете OAuth достъп до вашия OSM акаунт,</string>
+    <string name="toast_oauth_not_enabled">OAuth не е позволен за текущото API.</string>
+    <string name="toast_openinghours_invalid">Невалидна стойност за работно време за %1$s</string>
+    <string name="toast_photo_indexing_finished">Приключи търсене на геореферирани снимки</string>
+    <string name="toast_photo_indexing_started">Стартира търсене на геореферирани снимки</string>
+    <string name="toast_split_from">Разделен път \"от\"</string>
+    <string name="toast_split_from_and_via">Разделени пътища \"от\" и \"през\"</string>
+    <string name="toast_split_to">Разделен път \"до\"</string>
+    <string name="toast_split_via">Разделен път \"през\"</string>
+    <string name="toast_tile_database_issue_short">Проблем с базата данни от тайлове</string>
+    <string name="toast_unlock_to_edit">Отключете, за да редактирате</string>
+    <string name="toast_unsurveyed_road">Неизмерен път</string>
+    <string name="transfer_download_current_dialog_title">Внимание!</string>
+    <string name="transfer_download_current_download">Отхвърляне &amp; сваляне</string>
+    <string name="transfer_download_current_upload">Качване</string>
+    <string name="unsaved_data_proceed">Отхвърляне &amp; продължаване</string>
+    <string name="unsaved_data_title">Внимание!</string>
+    <string name="upload_close_changeset_label">Затвори промяна:</string>
+    <string name="upload_comment_label">Коментар:</string>
+    <string name="upload_conflict_message_deleted">%1$s \nима локална версия %2$d \nи беше изтрит от сървъра</string>
+    <string name="upload_conflict_title">Конфликт при качване</string>
+    <string name="upload_gpx_description_label">Описание</string>
+    <string name="upload_gpx_tags_label">Тагове</string>
+    <string name="upload_gpx_visibility_label">Видимост</string>
+    <string name="upload_source_label">Източник:</string>
+    <string name="upload_validation_error_empty_comment">Коментарът не трябва да е празен</string>
+    <string name="upload_validation_error_empty_source">Източникът не трябва да е празен</string>
+    <string name="use_local_version">Използвайте локална версия</string>
+    <string name="use_server_version">Използвайте версията на сървъра</string>
+    <string name="validator_title">Правила на валидатора %1$s</string>
+    <string name="version">Версия</string>
+    <string name="waypoint_description">Точка: %1$s</string>
+</resources>

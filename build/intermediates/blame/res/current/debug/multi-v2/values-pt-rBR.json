@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/david/Code/android/osmeditor4android-master/build/intermediates/incremental/mergeCurrentDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
+            "outputFile": "/Users/david/Code/android/osmeditor4android/build/intermediates/incremental/mergeCurrentDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
-                    "source": "/Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/values-pt-rBR/values-pt-rBR.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,225,331,438,527,628,746,829,909,996,1103,1215,1317,1425,1532,1642,1804,1904",
-                        "endColumns": "119,105,106,88,100,117,82,79,86,106,111,101,107,106,109,161,99,84",
-                        "endOffsets": "220,326,433,522,623,741,824,904,991,1098,1210,1312,1420,1527,1637,1799,1899,1984"
-                    },
-                    "to": {
-                        "startLines": "115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,303",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "4517,4637,4743,4850,4939,5040,5158,5241,5321,5408,5515,5627,5729,5837,5944,6054,6216,15706",
-                        "endColumns": "119,105,106,88,100,117,82,79,86,106,111,101,107,106,109,161,99,84",
-                        "endOffsets": "4632,4738,4845,4934,5035,5153,5236,5316,5403,5510,5622,5724,5832,5939,6049,6211,6311,15786"
-                    }
-                },
-                {
-                    "source": "/Users/david/Code/android/osmeditor4android-master/src/main/res/values-pt-rBR/strings.xml",
+                    "source": "/Users/david/Code/android/osmeditor4android/src/main/res/values-pt-rBR/strings.xml",
                     "from": {
                         "startLines": "219,92,94,156,157,154,155,153,191,199,189,80,84,77,46,164,185,179,161,169,168,163,176,175,173,162,165,182,172,196,193,151,215,192,89,85,35,36,34,38,37,86,91,48,95,102,103,106,107,104,105,78,45,210,111,119,123,134,112,129,130,122,110,115,113,124,114,148,135,127,149,109,131,132,118,150,133,120,116,117,121,146,139,140,141,144,136,125,126,128,99,6,3,5,4,194,79,76,43,214,30,44,19,17,18,16,21,20,15,14,201,211,212,82,209,83,41,81,98,96,97,100,71,72,70,8,10,9,213,200,202,32,23,11,26,27,28,24,195,12,13,93,47,75",
                         "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",
@@ -40,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/david/Code/android/osmeditor4android-master/src/main/res/values-pt-rBR/helptopics.xml",
+                    "source": "/Users/david/Code/android/osmeditor4android/src/main/res/values-pt-rBR/helptopics.xml",
                     "from": {
                         "startLines": "46,8,2,3,4,7,5,6",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -59,22 +42,39 @@
                     }
                 },
                 {
-                    "source": "/Users/david/Code/android/osmeditor4android-master/src/main/res/values-pt-rBR/scale.xml",
+                    "source": "/Users/david/Code/android/osmeditor4android/src/main/res/values-pt-rBR/addresstags.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "2",
                         "startOffsets": "53",
-                        "endLines": "8",
+                        "endLines": "19",
                         "endColumns": "17",
-                        "endOffsets": "264"
+                        "endOffsets": "766"
                     },
                     "to": {
-                        "startLines": "100",
+                        "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "3996",
-                        "endLines": "106",
+                        "startOffsets": "105",
+                        "endLines": "19",
                         "endColumns": "17",
-                        "endOffsets": "4207"
+                        "endOffsets": "818"
+                    }
+                },
+                {
+                    "source": "/Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,746,829,909,996,1103,1215,1317,1425,1532,1642,1804,1904",
+                        "endColumns": "119,105,106,88,100,117,82,79,86,106,111,101,107,106,109,161,99,84",
+                        "endOffsets": "220,326,433,522,623,741,824,904,991,1098,1210,1312,1420,1527,1637,1799,1899,1984"
+                    },
+                    "to": {
+                        "startLines": "115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,303",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4517,4637,4743,4850,4939,5040,5158,5241,5321,5408,5515,5627,5729,5837,5944,6054,6216,15706",
+                        "endColumns": "119,105,106,88,100,117,82,79,86,106,111,101,107,106,109,161,99,84",
+                        "endOffsets": "4632,4738,4845,4934,5035,5153,5236,5316,5403,5510,5622,5724,5832,5939,6049,6211,6311,15786"
                     }
                 },
                 {
@@ -95,22 +95,22 @@
                     }
                 },
                 {
-                    "source": "/Users/david/Code/android/osmeditor4android-master/src/main/res/values-pt-rBR/addresstags.xml",
+                    "source": "/Users/david/Code/android/osmeditor4android/src/main/res/values-pt-rBR/scale.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "2",
                         "startOffsets": "53",
-                        "endLines": "19",
+                        "endLines": "8",
                         "endColumns": "17",
-                        "endOffsets": "766"
+                        "endOffsets": "264"
                     },
                     "to": {
-                        "startLines": "2",
+                        "startLines": "100",
                         "startColumns": "4",
-                        "startOffsets": "105",
-                        "endLines": "19",
+                        "startOffsets": "3996",
+                        "endLines": "106",
                         "endColumns": "17",
-                        "endOffsets": "818"
+                        "endOffsets": "4207"
                     }
                 },
                 {

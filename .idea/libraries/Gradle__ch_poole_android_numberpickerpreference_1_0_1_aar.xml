@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: ch.poole.android:numberpickerpreference:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/numberpickerpreference-1.0.1.aar/78fedc00b86aae25fb34a0a03c6ee717/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/numberpickerpreference-1.0.1.aar/78fedc00b86aae25fb34a0a03c6ee717/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.poole.android/numberpickerpreference/1.0.1/5f7beb27576e1b168baa75648e1a60b9fb6e8d7c/numberpickerpreference-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

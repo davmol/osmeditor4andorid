@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/david/Code/android/osmeditor4android-master/build/intermediates/incremental/mergeCurrentDebugResources/merged.dir/values-v14/values-v14.xml",
+            "outputFile": "/Users/david/Code/android/osmeditor4android/build/intermediates/incremental/mergeCurrentDebugResources/merged.dir/values-v14/values-v14.xml",
             "map": [
                 {
                     "source": "/Users/david/.gradle/caches/transforms-1/files-1.1/rangebar-0.1.1.aar/cd38f78c142cf710ad724bb0a6e64e00/res/values-v14/values-v14.xml",

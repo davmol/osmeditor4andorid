@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="address_tags_entries">
+    <item>پلاک خانه (addr:housenumber)</item>
+    <item>خیابان (addr:street)</item>
+    <item>کد پستی (addr:postcode)</item>
+    <item>شهر/شهرک/روستا/..  (addr:city)</item>
+    <item>کشور (addr:country)</item>
+    <item>آدرس کامل (addr:full)</item>
+    <item>مکان (addr:place)</item>
+    <item>دهکده (addr:hamlet)</item>
+    <item>حومه شهر (addr:suburb)</item>
+    <item>حوزه (addr:subdistrict)</item>
+    <item>ناحیه (addr:district)</item>
+    <item>استان (addr:province)</item>
+    <item>ایالت (addr:state)</item>
+    <item>آپارتمان (addr:flats)</item>
+    <item>درب (addr:door)</item>
+    <item>واحد (addr:unit)</item>
+  </string-array>
+    <array name="help_files" translatable="false">
+        <item>Introduction</item>
+        <item>Main map display</item>
+        <item>Simple actions</item>
+        <item>Property editor</item>
+        <item>Node selected</item>
+    	<item>Way selected</item>
+    	<item>Relation selected</item>
+    	<item>Multiselect</item>
+    	<item>Creating new objects</item>
+        <item>Preferences</item>
+        <item>Advanced preferences</item>
+    	<item>Presets</item>	
+    	<item>Aligning background imagery</item>
+    	<item>Conflict resolution</item>
+    	<item>GPS sources</item>
+    	<item>Keyboard</item>
+    	<item>Tag filter</item>
+    	<item>Preset filter</item>
+    	<item>Opening hours</item>
+        <item>New Note selected</item>
+        <item>Voice commands</item>
+        <item>13.0.0 Release notes</item>
+        <item>12.1.0 Release notes</item>
+        <item>12.0.0 Release notes</item>
+        <item>11.2.0 Release notes</item>
+        <item>11.1.0 Release notes</item>
+        <item>11.0.0 Release notes</item>
+        <item>10.2.0 Release notes</item>
+    	<item>10.1.0 Release notes</item>
+    	<item>10.0.0 Release notes</item>
+    	<item>0.9.9 Release notes</item>
+    	<item>0.9.8 Release notes</item>
+    	<item>0.9.7 Release notes</item>
+    	<item>0.9.6 Release notes</item>
+        <item>Privacy</item>
+    </array>
+    <array name="help_tableofcontents" translatable="false">
+        <item>@string/help_introduction</item>
+        <item>@string/help_main</item>
+        <item>@string/help_simple_actions</item>
+        <item>@string/help_propertyeditor</item>
+        <item>@string/help_nodeselection</item>
+    	<item>@string/help_wayselection</item>
+    	<item>@string/help_relationselection</item>
+    	<item>@string/help_multiselect</item>
+    	<item>@string/help_longclick</item>
+        <item>@string/help_preferences</item>
+        <item>@string/help_advanced_preferences</item>
+    	<item>@string/help_presets</item>	
+    	<item>@string/help_aligningbackgroundiamgery</item>
+    	<item>@string/help_conflictresolution</item>
+    	<item>@string/help_gpssources</item>
+    	<item>@string/help_keyboard</item>
+    	<item>@string/help_tagfilter</item>
+    	<item>@string/help_presetfilter</item>
+    	<item>@string/help_opening_hours</item>
+        <item>@string/help_newnoteselection</item>
+        <item>@string/help_voice_commands</item>
+    	<item>@string/help_upgrade</item>
+        <item>@string/help_upgrade_121</item>
+        <item>@string/help_upgrade_120</item>
+        <item>@string/help_upgrade_112</item>
+        <item>@string/help_upgrade_111</item>
+        <item>@string/help_upgrade_110</item>
+        <item>@string/help_upgrade_102</item>
+        <item>@string/help_upgrade_101</item>
+    	<item>@string/help_upgrade_100</item>
+    	<item>@string/help_upgrade_099</item>
+    	<item>@string/help_upgrade_098</item>
+    	<item>@string/help_upgrade_097</item>
+    	<item>@string/help_upgrade_096</item>
+        <item>@string/help_privacy</item>
+    </array>
+    <string name="Delete">Delete</string>
+    <string name="End">End</string>
+    <string name="No">نه</string>
+    <string name="Save">ذخیره کن</string>
+    <string name="Yes">بله</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"پیمایش به صفحه اصلی"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"پیمایش به بالا"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"گزینه‌های بیشتر"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"تمام"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"مشاهده همه"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"انتخاب برنامه"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"خاموش"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"روشن"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"جستجو…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"پاک کردن عبارت جستجو"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"عبارت جستجو"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"جستجو"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"ارسال عبارت جستجو"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"جستجوی گفتاری"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"اشتراک‌گذاری با"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"اشتراک‌گذاری با <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"کوچک کردن"</string>
+    <string name="actionmode_createpath">ایجاد مسیر</string>
+    <string name="actionmode_nodeselect">گره انتخاب شد</string>
+    <string name="actionmode_wayselect">راه انتخاب شد</string>
+    <string name="add">افزودن</string>
+    <string name="all_keys">همه</string>
+    <string name="api">ای پی آی</string>
+    <string name="bad_request_message">‏API با خطا پاسخ داد. لطفاً اطلاعاتتان را ذخیره کنید و این مشکل را گزارش دهید:\n\n</string>
+    <string name="bugfilter_custom_entry">سفارشی</string>
+    <string name="bugfilter_notes_entry">يادداشت</string>
+    <string name="bugfilter_osmose_error_entry">خطای موتور جستجوی اپن استریت مپ</string>
+    <string name="bugfilter_osmose_minor_issue_entry">مسایل جزیی موتور جستجوی اپن استریت مپ</string>
+    <string name="bugfilter_osmose_warning_entry">اخطار موتور جستجوی اپن استریت مپ</string>
+    <string name="cancel">لغو کردن</string>
+    <string name="changes_changed">\"%1$s\" تغییر کرد</string>
+    <string name="changes_created">\"%1$s\" ایجاد شد</string>
+    <string name="changes_deleted">\"%1$s\" حذف شد</string>
+    <string name="closed">بسته شده</string>
+    <string name="config_advancedprefs">ترجیحات پیشرفته</string>
+    <string name="config_apibutton_title">آدرس ای پی آی OSM</string>
+    <string name="config_backgroundLayer_title">نقشه پس زمینه</string>
+    <string name="config_category_info">درباره</string>
+    <string name="config_enableAntiAliasing_summary">خط ها را صافتر می سازد.</string>
+    <string name="config_iconbutton_summary">نمایش آیکون بهترین پیش تنظیم سازگار دور گره ها.</string>
+    <string name="config_iconbutton_title">نمایش آیکون های گره</string>
+    <string name="config_loginbutton_title">حساب کاربری</string>
+    <string name="config_maxStrokeWidth_title">حداکثر عرض خط</string>
+    <string name="config_presetbutton_title">پیش تنظیم</string>
+    <string name="config_showStats_title">نمایش آمار</string>
+    <string name="config_showTolerance_title">نمایش تحمل</string>
+    <string name="date_range">محدوده زمانی</string>
+    <string name="default_">پیش فرض</string>
+    <string name="delete">حذف</string>
+    <string name="edit">ویرایش</string>
+    <string name="find_message">ورود متن جستجو</string>
+    <string name="forward">به جلو</string>
+    <string name="geocoder_prompt">با</string>
+    <string name="go_to_openstreetmap">برو به openstreetmap.org</string>
+    <string name="gps_failure">خطا در فعالسازی جی پی اس</string>
+    <string name="help_addrelationmember">رابطه انتخاب شده است</string>
+    <string name="help_gpssources">منابع GPS</string>
+    <string name="help_introduction">معرفی</string>
+    <string name="help_keyboard">صفحه کلید</string>
+    <string name="help_longclick">ایجاد اشیاء جدید</string>
+    <string name="help_main">نمایش نقشه اصلی</string>
+    <string name="help_multiselect">انتخاب چندگانه</string>
+    <string name="help_nodeselection">گره انتخاب شد</string>
+    <string name="help_opening_hours">ساعات کار</string>
+    <string name="help_pathcreation">ایجاد اشیاء جدید</string>
+    <string name="help_presets">پیش تنظیم</string>
+    <string name="help_propertyeditor">ویژگی ویرایشگر</string>
+    <string name="help_relationselection">رابطه انتخاب شده است</string>
+    <string name="help_tagfilter">فیلتر برچسب</string>
+    <string name="help_wayselection">راه انتخاب شده است</string>
+    <string name="imagery_offset_author">خالق</string>
+    <string name="imagery_offset_date">ایجاد شده</string>
+    <string name="imagery_offset_description">شرح</string>
+    <string name="imagery_offset_distance">مسافت</string>
+    <string name="imagery_offset_not_found">تطبیقی در شعاع ۱۰ کیلومتری یافت نشد! </string>
+    <string name="imagery_offset_offset">تطبیق</string>
+    <string name="imagery_offset_zoom">زووم</string>
+    <string name="key">کليد</string>
+    <string name="link_mapfeatures">http://wiki.openstreetmap.org/index.php/Map_Features</string>
+    <string name="location_choose_radius">انتخاب شعاع:</string>
+    <string name="location_coordinates_text">از مختصات:</string>
+    <string name="location_current_text">مکان فعلی:</string>
+    <string name="location_current_text_parameterized">مکان فعلی: %1$s</string>
+    <string name="location_default_radius">300 متر</string>
+    <string name="location_last_text">آخرین مکان شناخته شده:</string>
+    <string name="location_last_text_parameterized">آخرین مکان شناخته شده: %1$s</string>
+    <string name="location_lat_label">عرض:</string>
+    <string name="location_load_button">بارگیری</string>
+    <string name="location_lon_label">طول:</string>
+    <string name="locked">قفل شده</string>
+    <string name="menu_add">جديد</string>
+    <string name="menu_append">پیوست کردن</string>
+    <string name="menu_camera">دوربین</string>
+    <string name="menu_config">ترجیحات</string>
+    <string name="menu_easyedit">ویرایش ساده</string>
+    <string name="menu_edit">ويرايش</string>
+    <string name="menu_erase">پاک کردن گره</string>
+    <string name="menu_gps_show">نمایش مکان</string>
+    <string name="menu_help">کمک</string>
+    <string name="menu_history">تاریخچه</string>
+    <string name="menu_join">پیوستن</string>
+    <string name="menu_merge">پیوند دادن</string>
+    <string name="menu_move">جابجایی</string>
+    <string name="menu_reverse">معکوس کردن</string>
+    <string name="menu_rotate">چرخش</string>
+    <string name="menu_set_position">مکان</string>
+    <string name="menu_split">جدا کردن</string>
+    <string name="menu_tag">ویرایش برچسب ها</string>
+    <string name="menu_tools_background_align_reset">باز نشانی</string>
+    <string name="menu_transfer">انتقال...</string>
+    <string name="menu_transfer_download_current">دانلود نمای فعلی</string>
+    <string name="menu_transfer_upload">آپلود داده ها در سرور OSM</string>
+    <string name="menu_unjoin">جدا کردن</string>
+    <string name="menu_up">بالا</string>
+    <string name="mode_easy">عادی</string>
+    <string name="mode_indoor">فضای داخلی</string>
+    <string name="mode_tag_only">فقط برچسب</string>
+    <string name="name">نام</string>
+    <string name="no">خير</string>
+    <string name="openstreetbug_bug_title">موضوع</string>
+    <string name="openstreetbug_comment_label">نظر: </string>
+    <string name="preset">پیش تنظیم</string>
+    <string name="preset_download_parse_failed">پرونده ی پیش تنظیم ها نامعتبر است. پیش تنظیم ها کار نمی کنند.</string>
+    <string name="preset_update">بروزرسانی پیش تنظیم ها</string>
+    <string name="progress_deleting_message">در حال حذف… </string>
+    <string name="progress_download_message">دانلود داده ها از سرور… </string>
+    <string name="progress_general_title">لطفا صبر کنید</string>
+    <string name="progress_message">بارگزاری داده ها در حافظه… </string>
+    <string name="progress_running_message">در حال اجرا...</string>
+    <string name="progress_saving_message">ذخیره‌سازی… </string>
+    <string name="progress_searching_message">جستجو… </string>
+    <string name="progress_title">در حال بارگزاری</string>
+    <string name="progress_uploading_message">در حال آپلود...</string>
+    <string name="redo">به جلو</string>
+    <string name="relation">رابطه</string>
+    <string name="role">نقش</string>
+    <string name="save">ذخیره</string>
+    <string name="search">جستجو</string>
+    <string msgid="146198913615257606" name="search_menu_title">"جستجو"</string>
+    <string name="search_results_title">نتایج جستجو</string>
+    <string name="set_position_datum_label">مبنای Geodetic</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"۹۹۹+"</string>
+    <string name="tag_details">جزئیات</string>
+    <string name="tag_editor_name_suggestion">پیشنهاد نام</string>
+    <string name="tag_menu_addtorelation">افزودن به رابطه</string>
+    <string name="tag_menu_preset">پیش تنظیم</string>
+    <string name="tag_menu_revert">برگشت</string>
+    <string name="tag_menu_sourcesurvey">بررسی</string>
+    <string name="toast_export_success">خارج سازی به %1$s</string>
+    <string name="toast_no_changes">شما هنوز چیزی را تغییر نداده اید… </string>
+    <string name="toast_unlock_to_edit">قفل گشایی برای ویرایش</string>
+    <string name="transfer_download_current_dialog_message">شما تغییراتی انجام داده‌اید. می‌خواهید به‌جای دورانداختن، آن‌ها را آپلود کنید؟ </string>
+    <string name="transfer_download_current_dialog_title">احتیاط! </string>
+    <string name="transfer_download_current_download">دورانداختن و دانلود</string>
+    <string name="transfer_download_current_upload">آپلود</string>
+    <string name="type">نوع</string>
+    <string name="undo">به عقب</string>
+    <string name="undo_nothing">چیزی برای به عقب نیست</string>
+    <string name="unknown">ناشناخته</string>
+    <string name="unsaved_data_proceed">دور انداختن و پیش روی</string>
+    <string name="unsaved_data_title">احتیاط! </string>
+    <string name="upload_comment_label">نظر:</string>
+    <string name="upload_conflict_title">تداخل آپلود</string>
+    <string name="upload_gpx_description_label">توضیح</string>
+    <string name="upload_gpx_tags_label">برچسب ها</string>
+    <string name="upload_gpx_visibility_label">دید</string>
+    <string name="upload_source_label">منبع: </string>
+    <string name="url">URL</string>
+    <string name="urldialog_add_api">افزودن ای پی آی</string>
+    <string name="urldialog_add_preset">افزودن پیش تنظیم</string>
+    <string name="urldialog_api_exists">یک ای پی آی با این آدرس از قبل وجود دارد. هرچند، میتوانید یکی دیگر اضاف کنید (مثلا : با تغییر حساب به سادگی)</string>
+    <string name="urldialog_nodata_text">آدرس پیکربندی دارای داده های معتبر نیست.</string>
+    <string name="urldialog_preset_exists">این پیش تنظیم از قبل وجود دارد</string>
+    <string name="use_local_version">از نسخهٔ من استفاده کن</string>
+    <string name="use_server_version">از نسخهٔ سرور استفاده کن</string>
+    <string name="value">مقدار</string>
+    <string name="version">نسخه</string>
+    <string name="yes">بله</string>
+</resources>

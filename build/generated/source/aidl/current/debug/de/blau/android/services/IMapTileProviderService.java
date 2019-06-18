@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /Users/david/Code/android/osmeditor4android-master/src/main/aidl/de/blau/android/services/IMapTileProviderService.aidl
+ * Original file: /Users/david/Code/android/osmeditor4android/src/main/aidl/de/blau/android/services/IMapTileProviderService.aidl
  */
 package de.blau.android.services;
 public interface IMapTileProviderService extends android.os.IInterface

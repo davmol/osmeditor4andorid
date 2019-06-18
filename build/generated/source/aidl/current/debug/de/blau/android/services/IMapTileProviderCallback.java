@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /Users/david/Code/android/osmeditor4android-master/src/main/aidl/de/blau/android/services/IMapTileProviderCallback.aidl
+ * Original file: /Users/david/Code/android/osmeditor4android/src/main/aidl/de/blau/android/services/IMapTileProviderCallback.aidl
  */
 package de.blau.android.services;
 public interface IMapTileProviderCallback extends android.os.IInterface

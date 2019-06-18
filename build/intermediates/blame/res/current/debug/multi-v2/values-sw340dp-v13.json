@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/david/Code/android/osmeditor4android-master/build/intermediates/incremental/mergeCurrentDebugResources/merged.dir/values-sw340dp-v13/values-sw340dp-v13.xml",
+            "outputFile": "/Users/david/Code/android/osmeditor4android/build/intermediates/incremental/mergeCurrentDebugResources/merged.dir/values-sw340dp-v13/values-sw340dp-v13.xml",
             "map": [
                 {
                     "source": "/Users/david/.gradle/caches/transforms-1/files-1.1/vintage-chroma-1.5.aar/b5c96f7201c53edf573e48931312ee2a/res/values-sw340dp-v13/values-sw340dp-v13.xml",

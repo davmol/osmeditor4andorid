@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: ch.poole:rangebar:0.1.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rangebar-0.1.1.aar/cd38f78c142cf710ad724bb0a6e64e00/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rangebar-0.1.1.aar/cd38f78c142cf710ad724bb0a6e64e00/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.poole/rangebar/0.1.1/1b82445eae4f1f5acfec4e22e56a81cb440bab7f/rangebar-0.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -127,6 +127,7 @@ public class Logic {
 
     private static final String DEBUG_TAG = Logic.class.getSimpleName();
 
+
     /**
      * Enums for directions. Used for translation via cursor-pad.
      */
@@ -1642,8 +1643,11 @@ public class Logic {
      * @return the created node
      */
     public synchronized Node performAddNode(@Nullable final Activity activity, Double lonD, Double latD) {
+
+
         int lon = (int) (lonD * 1E7D);
         int lat = (int) (latD * 1E7D);
+
         return performAddNode(activity, lon, lat);
     }
 
@@ -1655,7 +1659,23 @@ public class Logic {
      * @param latE7 WGS84*1E7 latitude
      * @return the created node
      */
-    public Node performAddNode(final Activity activity, int lonE7, int latE7) {
+
+    public Node performAddNode(final Main activity, boolean loc, int lonE7, int latE7) {
+        if (loc) {
+
+            Location lastLocation = activity.getLastLocation();
+            double lonD = lastLocation.getLongitude();
+            double latD = lastLocation.getLatitude();
+            latE7 = (int) (lonD * 1E7D);
+            lonE7 = (int) (latD * 1E7D);
+        }
+        return performAddNode(activity, lonE7, latE7);
+    }
+
+
+
+        public Node performAddNode(final Activity activity, int lonE7, int latE7) {
+
         Log.d(DEBUG_TAG, "performAddNode");
         createCheckpoint(activity, R.string.undo_action_add);
         Node newNode = getDelegator().getFactory().createNodeWithNewId(latE7, lonE7);

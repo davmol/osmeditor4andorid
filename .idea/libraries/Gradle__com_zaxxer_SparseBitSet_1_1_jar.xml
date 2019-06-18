@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.zaxxer:SparseBitSet:1.1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zaxxer/SparseBitSet/1.1/e7d37c40d76cb0ff4d05e69765ee7154138f61/SparseBitSet-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zaxxer/SparseBitSet/1.1/42c8eca0fd88c9c251fa43b480338a00c6d91f54/SparseBitSet-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

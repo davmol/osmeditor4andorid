@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="Delete">Delete</string>
+    <string name="End">End</string>
+    <string name="No">Nu</string>
+    <string name="Yes">Da</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigați la ecranul de pornire"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigați în sus"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mai multe opțiuni"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Terminat"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Afișați-le pe toate"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Alegeți o aplicație"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DEZACTIVAȚI"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVAT"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Căutați…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ștergeți interogarea"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Interogare de căutare"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Căutați"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Trimiteți interogarea"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Căutare vocală"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Trimiteți la"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Trimiteți folosind <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Restrângeți"</string>
+    <string name="add">Adaugă</string>
+    <string name="all_keys">Tot</string>
+    <string name="apply">Aplică</string>
+    <string name="cancel">Renunţă</string>
+    <string name="changes_changed">\"%1$s\" modificat</string>
+    <string name="changes_created">\"%1$s\" creat</string>
+    <string name="changes_deleted">\"%1$s\" sters</string>
+    <string name="closed">închis </string>
+    <string name="config_advancedprefs">Setări avansate</string>
+    <string name="config_backgroundLayer_title">Hartă de fundal</string>
+    <string name="config_category_info">Despre</string>
+    <string name="config_loginbutton_title">Cont utilizator</string>
+    <string name="config_showStats_title">Arată statistici</string>
+    <string name="config_showTolerance_title">Arată toleranţa</string>
+    <string name="date">Dată</string>
+    <string name="default_">Implicit</string>
+    <string name="delete">Sterge</string>
+    <string name="edit">Editează</string>
+    <string name="exit_text">Sunteţi sigur că doriţi să ieșiţi?</string>
+    <string name="forward">Înainte</string>
+    <string name="imagery_offset_author">Autor</string>
+    <string name="imagery_offset_date">Creat</string>
+    <string name="imagery_offset_description">Descriere</string>
+    <string name="imagery_offset_distance">Distanţă</string>
+    <string name="imagery_offset_zoom">Zoom</string>
+    <string name="key">cheie</string>
+    <string name="link_mapfeatures">http://wiki.openstreetmap.org/index.php/Map_Features</string>
+    <string name="location_choose_radius">Alegeţi raza:</string>
+    <string name="location_coordinates_text">De la coordonatele:</string>
+    <string name="location_current_text">Locaţia curentă:</string>
+    <string name="location_current_text_parameterized">Locaţie curentă: %1$s</string>
+    <string name="location_default_radius">300m</string>
+    <string name="location_last_text">Ultima locaţie cunoscută:</string>
+    <string name="location_last_text_parameterized">Ultima locaţie cunoscută: %1$s</string>
+    <string name="location_lat_label">Latitudine:</string>
+    <string name="location_load_button">Încarcă</string>
+    <string name="location_load_dismiss">Mergeţi la hartă</string>
+    <string name="location_lon_label">Longitudine:</string>
+    <string name="location_search_label">Caută:</string>
+    <string name="menu_add">Nou</string>
+    <string name="menu_append">Lipește</string>
+    <string name="menu_camera">Cameră</string>
+    <string name="menu_circulize">Aranjează în cerc</string>
+    <string name="menu_config">Preferinţe</string>
+    <string name="menu_cut">Taie</string>
+    <string name="menu_edit">Editează</string>
+    <string name="menu_gps_show">Arată locaţia</string>
+    <string name="menu_help">Ajutor</string>
+    <string name="menu_history">Istoric</string>
+    <string name="menu_join">Participă</string>
+    <string name="menu_merge">Participă</string>
+    <string name="menu_move">Mută</string>
+    <string name="menu_reverse">Întoarce</string>
+    <string name="menu_rotate">Rotește</string>
+    <string name="menu_set_position">Poziţie</string>
+    <string name="menu_split">Separă</string>
+    <string name="menu_tools_background_align_reset">Resetează</string>
+    <string name="menu_tools_background_align_zero">Zero</string>
+    <string name="menu_tools_background_properties">Proprietăţile fundalului</string>
+    <string name="menu_transfer">Transfer...</string>
+    <string name="menu_transfer_download_current">Descarcă conţinutul curent</string>
+    <string name="menu_up">Sus</string>
+    <string name="mode_indoor">Înăuntru</string>
+    <string name="name">Nume</string>
+    <string name="next">Următor</string>
+    <string name="no">Nu</string>
+    <string name="object">Obiect</string>
+    <string name="openstreetbug_comment_label">Comentariu:</string>
+    <string name="preset">Curent</string>
+    <string name="progress_deleting_message">Se șterge….</string>
+    <string name="progress_download_message">Descarcă informaţia de la server…</string>
+    <string name="progress_general_title">Vă rugăm așteptaţi</string>
+    <string name="progress_message">Încarcă informaţia în memorie...</string>
+    <string name="progress_saving_message">Salvează…</string>
+    <string name="progress_searching_message">Caută…</string>
+    <string name="progress_title">Încarcă</string>
+    <string name="relation">Relație</string>
+    <string name="replace">Inlocuiește</string>
+    <string name="role">Rol</string>
+    <string name="save">Salveaza</string>
+    <string name="search">Caută</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Căutați"</string>
+    <string name="search_results_title">Rezultatele căutării</string>
+    <string name="set">Setează</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"˃999"</string>
+    <string name="tag_details">Detalii</string>
+    <string name="toast_export_success">Exportat la %1$s</string>
+    <string name="toast_no_changes">Nu aţi facut nici o modificare...</string>
+    <string name="toast_nothing_found">Nu am găsit nimic</string>
+    <string name="transfer_download_current_dialog_title">Atenţie!</string>
+    <string name="transfer_download_current_download">Renunţă şi descarcă</string>
+    <string name="transfer_download_current_upload">Încarcă</string>
+    <string name="type">Scrie</string>
+    <string name="unknown">necunoscut</string>
+    <string name="unsaved_data_proceed">Renunţă și continuă</string>
+    <string name="unsaved_data_title">Atenţie!</string>
+    <string name="upload_comment_label">Comentariu:</string>
+    <string name="upload_gpx_description_label">Descripție</string>
+    <string name="upload_gpx_visibility_label">Vizibilitate</string>
+    <string name="upload_source_label">Sursa:</string>
+    <string name="value">valoare</string>
+    <string name="version">Versiune</string>
+    <string name="yes">Da</string>
+</resources>

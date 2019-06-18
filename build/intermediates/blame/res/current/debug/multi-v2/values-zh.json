@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/david/Code/android/osmeditor4android-master/build/intermediates/incremental/mergeCurrentDebugResources/merged.dir/values-zh/values-zh.xml",
+            "outputFile": "/Users/david/Code/android/osmeditor4android/build/intermediates/incremental/mergeCurrentDebugResources/merged.dir/values-zh/values-zh.xml",
             "map": [
                 {
-                    "source": "/Users/david/Code/android/osmeditor4android-master/src/main/res/values-zh/addresstags.xml",
+                    "source": "/Users/david/Code/android/osmeditor4android/src/main/res/values-zh/addresstags.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "2",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/david/Code/android/osmeditor4android-master/src/main/res/values-zh/strings.xml",
+                    "source": "/Users/david/Code/android/osmeditor4android/src/main/res/values-zh/strings.xml",
                     "from": {
                         "startLines": "300,294,111,113,204,205,201,202,199,200,198,259,279,281,280,268,257,99,103,96,20,21,19,54,213,246,237,208,218,242,233,226,211,229,210,232,231,230,235,222,221,212,238,227,209,215,214,223,243,224,225,240,89,264,261,290,196,289,260,277,108,46,104,272,37,39,35,41,36,38,40,105,110,56,114,131,138,134,136,132,133,135,139,142,143,140,141,137,97,53,284,147,157,155,161,176,148,171,172,160,146,151,178,154,149,163,162,150,192,179,169,193,145,173,174,127,156,194,175,158,152,153,177,159,190,183,184,185,188,180,126,164,168,165,166,167,170,125,262,98,95,50,57,288,30,267,249,248,52,15,13,14,12,17,16,11,10,270,285,51,286,101,195,283,102,48,45,100,42,124,43,115,120,118,122,117,121,119,116,123,129,128,85,81,91,79,88,90,87,84,83,82,80,86,4,6,5,287,269,271,33,32,24,22,7,26,27,28,23,263,254,251,253,255,252,8,9,112,55,94",
                         "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "/Users/david/Code/android/osmeditor4android-master/src/main/res/values-zh/helptopics.xml",
+                    "source": "/Users/david/Code/android/osmeditor4android/src/main/res/values-zh/helptopics.xml",
                     "from": {
                         "startLines": "46,8,2,3,4,7,5,6",
                         "startColumns": "4,4,4,4,4,4,4,4",

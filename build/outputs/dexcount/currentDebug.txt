@@ -232,9 +232,9 @@ methods  fields   package/class name
 87       37       com.zaxxer.sparsebits
 4        0        dalvik
 4        0        dalvik.system
-8755     10702    de
-8717     10690    de.blau
-8717     10690    de.blau.android
+8756     10702    de
+8718     10690    de.blau
+8718     10690    de.blau.android
 6        43       de.blau.android.contract
 694      373      de.blau.android.dialogs
 309      340      de.blau.android.easyedit

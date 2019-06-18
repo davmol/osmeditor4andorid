@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/david/Code/android/osmeditor4android-master/build/intermediates/incremental/mergeCurrentDebugResources/merged.dir/values-nn/values-nn.xml",
+            "outputFile": "/Users/david/Code/android/osmeditor4android/build/intermediates/incremental/mergeCurrentDebugResources/merged.dir/values-nn/values-nn.xml",
             "map": [
                 {
-                    "source": "/Users/david/Code/android/osmeditor4android-master/src/main/res/values-nn/strings.xml",
+                    "source": "/Users/david/Code/android/osmeditor4android/src/main/res/values-nn/strings.xml",
                     "from": {
                         "startLines": "100,99,98,133,141,53,12,13,11,105,104,109,113,112,118,106,121,114,138,135,134,145,57,59,64,70,67,69,65,66,68,71,72,76,81,77,75,79,83,78,94,87,95,74,96,80,82,84,85,86,136,52,18,126,125,9,8,7,143,61,62,60,48,47,4,6,5,142,144,21,20,14,16,137,129,128,130,58,51",
                         "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/david/Code/android/osmeditor4android-master/src/main/res/values-nn/helptopics.xml",
+                    "source": "/Users/david/Code/android/osmeditor4android/src/main/res/values-nn/helptopics.xml",
                     "from": {
                         "startLines": "37,5,2,4,3",
                         "startColumns": "4,4,4,4,4",

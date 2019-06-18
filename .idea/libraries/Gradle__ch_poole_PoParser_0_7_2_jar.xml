@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ch.poole:PoParser:0.7.2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.poole/PoParser/0.7.2/e043870c93ae69cc35729fd8af142f217d7eb256/PoParser-0.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.poole/PoParser/0.7.2/5f1e2e2038cd2103ad0a592b1f306857e93ad672/PoParser-0.7.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

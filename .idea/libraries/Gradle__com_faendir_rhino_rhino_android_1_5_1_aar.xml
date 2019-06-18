@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.faendir.rhino:rhino-android:1.5.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rhino-android-1.5.1.aar/04e708af35a8c127925b2e93be8cb6f5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rhino-android-1.5.1.aar/04e708af35a8c127925b2e93be8cb6f5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.faendir.rhino/rhino-android/1.5.1/7be1146b31e7e993873b6aed0fe3820c52a7ac52/rhino-android-1.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

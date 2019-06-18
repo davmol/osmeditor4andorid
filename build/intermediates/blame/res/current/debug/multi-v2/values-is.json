@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/david/Code/android/osmeditor4android-master/build/intermediates/incremental/mergeCurrentDebugResources/merged.dir/values-is/values-is.xml",
+            "outputFile": "/Users/david/Code/android/osmeditor4android/build/intermediates/incremental/mergeCurrentDebugResources/merged.dir/values-is/values-is.xml",
             "map": [
                 {
-                    "source": "/Users/david/Code/android/osmeditor4android-master/src/main/res/values-is/helptopics.xml",
+                    "source": "/Users/david/Code/android/osmeditor4android/src/main/res/values-is/helptopics.xml",
                     "from": {
                         "startLines": "46,8,3,2,4,7,5,6",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -57,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "/Users/david/Code/android/osmeditor4android-master/src/main/res/values-is/strings.xml",
+                    "source": "/Users/david/Code/android/osmeditor4android/src/main/res/values-is/strings.xml",
                     "from": {
                         "startLines": "296,290,111,113,200,201,198,196,197,195,255,275,277,276,264,253,99,103,96,20,21,19,54,209,242,233,204,214,238,229,222,207,225,206,228,227,226,231,218,217,208,234,223,205,211,210,219,239,220,221,236,89,260,257,286,193,285,256,273,108,46,10,104,268,37,39,35,41,36,38,40,105,110,56,114,129,136,132,134,130,131,133,137,140,141,138,139,135,97,53,280,145,155,153,159,174,146,169,170,158,144,149,176,152,147,161,160,148,189,177,167,190,143,171,172,154,191,173,156,150,151,175,157,181,182,183,186,178,125,162,166,163,164,165,168,124,258,98,95,50,57,284,30,263,245,244,52,15,13,14,12,17,16,11,266,281,51,282,101,192,279,102,48,45,100,42,123,43,115,120,118,122,117,121,119,116,127,126,85,81,91,79,88,90,87,84,83,82,80,86,4,6,5,283,265,267,33,32,24,22,7,26,27,28,23,259,250,247,249,251,248,8,9,112,55,94",
                         "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",

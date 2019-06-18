@@ -47,12 +47,13 @@ public class SimpleActionModeCallback extends EasyEditActionModeCallback impleme
         NODE_TAGS(R.string.menu_add_node_tags, R.string.simple_add_node, new SimpleActionCallback() {
 
             @Override
-            public void action(final Main main, final EasyEditManager manager, final float x, final float y) {
+            public void action(Main main, final EasyEditManager manager, final float x, final float y) {
                 de.blau.android.Map map = main.getMap();
                 ViewBox box = map.getViewBox();
                 int width = map.getWidth();
                 int height = map.getHeight();
-                Node node = App.getLogic().performAddNode(main, GeoMath.xToLonE7(width, box, x), GeoMath.yToLatE7(height, width, box, y));
+                boolean loc = main.loc;
+                Node node = App.getLogic().performAddNode(main, loc, GeoMath.xToLonE7(width, box, x), GeoMath.yToLatE7(height, width, box, y));
                 main.startSupportActionMode(new NodeSelectionActionModeCallback(manager, node));
                 main.performTagEdit(node, null, false, true, false);
             }

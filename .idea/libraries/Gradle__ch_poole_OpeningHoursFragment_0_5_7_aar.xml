@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: ch.poole:OpeningHoursFragment:0.5.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/OpeningHoursFragment-0.5.7.aar/1600d3a3a6191ea58b2cec6bc52368ef/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/OpeningHoursFragment-0.5.7.aar/1600d3a3a6191ea58b2cec6bc52368ef/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.poole/OpeningHoursFragment/0.5.7/4b08683937b65542ebccf82cdf257f510982418c/OpeningHoursFragment-0.5.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

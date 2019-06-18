@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/david/Code/android/osmeditor4android-master/build/intermediates/incremental/mergeCurrentDebugResources/merged.dir/values-ar/values-ar.xml",
+            "outputFile": "/Users/david/Code/android/osmeditor4android/build/intermediates/incremental/mergeCurrentDebugResources/merged.dir/values-ar/values-ar.xml",
             "map": [
                 {
-                    "source": "/Users/david/Code/android/osmeditor4android-master/src/main/res/values-ar/strings.xml",
+                    "source": "/Users/david/Code/android/osmeditor4android/src/main/res/values-ar/strings.xml",
                     "from": {
                         "startLines": "69,80,81,32,55,72,70,10,9,11,44,41,49,40,50,45,42,43,46,37,3,71,30,31,84,83,33,12,36,5,85,7,8,14,6,29",
                         "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",

@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="address_tags_entries">
+    <item>Numer domu (addr:housenumber)</item>
+    <item>Ulica (addr:street)</item>
+    <item>Kod pocztowy (addr:postcode)</item>
+    <item>Miasto/Wieś/.. (addr:city)</item>
+    <item>Państwo (addr:country)</item>
+    <item>Pełny adres (addr:full)</item>
+    <item>Miejscowość (addr:place)</item>
+    <item>Hamlet (addr:hamlet)</item>
+    <item>Dzielnica (addr:suburb)</item>
+    <item>Subdistrict (addr:subdistrict)</item>
+    <item>District (addr:district)</item>
+    <item>Województwo (addr:province)</item>
+    <item>State (addr:state)</item>
+    <item>Flats (addr:flats)</item>
+    <item>Mieszkanie (addr:door)</item>
+    <item>Unit (addr:unit)</item>
+  </string-array>
+    <string-array name="bug_state">
+    <item>Otwarta</item>
+    <item>Zamknięta</item>
+    <item>Fałszywy alarm</item>
+  </string-array>
+    <string-array name="followGPSbutton_entries">
+    <item>Lewo</item>
+    <item>Prawo</item>
+    <item>Wyłącz</item>
+  </string-array>
+    <string-array name="full_screen_preference_entries">
+    <item>Automatycznie</item>
+    <item>Nigdy</item>
+    <item>Wymuś</item>
+    <item>Brak paska</item>
+  </string-array>
+    <string-array name="full_screen_preference_no_auto_entries">
+    <item>Nigdy</item>
+    <item>Wymuś</item>
+    <item>Bez wstążki statusu</item>
+  </string-array>
+    <string-array name="gps_source">
+    <item>Wbudowane</item>
+    <item>Wbudowane NMEA</item>
+    <item>NMEA z klientaTCP</item>
+    <item>NMEA z serwera TCP</item>
+  </string-array>
+    <string-array name="gpx_visibility">
+    <item>prywatny</item>
+    <item>publiczny</item>
+    <item>do prześledzenia</item>
+    <item>identyfikowalny</item>
+  </string-array>
+    <array name="help_files" translatable="false">
+        <item>Introduction</item>
+        <item>Main map display</item>
+        <item>Simple actions</item>
+        <item>Property editor</item>
+        <item>Node selected</item>
+    	<item>Way selected</item>
+    	<item>Relation selected</item>
+    	<item>Multiselect</item>
+    	<item>Creating new objects</item>
+        <item>Preferences</item>
+        <item>Advanced preferences</item>
+    	<item>Presets</item>	
+    	<item>Aligning background imagery</item>
+    	<item>Conflict resolution</item>
+    	<item>GPS sources</item>
+    	<item>Keyboard</item>
+    	<item>Tag filter</item>
+    	<item>Preset filter</item>
+    	<item>Opening hours</item>
+        <item>New Note selected</item>
+        <item>Voice commands</item>
+        <item>13.0.0 Release notes</item>
+        <item>12.1.0 Release notes</item>
+        <item>12.0.0 Release notes</item>
+        <item>11.2.0 Release notes</item>
+        <item>11.1.0 Release notes</item>
+        <item>11.0.0 Release notes</item>
+        <item>10.2.0 Release notes</item>
+    	<item>10.1.0 Release notes</item>
+    	<item>10.0.0 Release notes</item>
+    	<item>0.9.9 Release notes</item>
+    	<item>0.9.8 Release notes</item>
+    	<item>0.9.7 Release notes</item>
+    	<item>0.9.6 Release notes</item>
+        <item>Privacy</item>
+    </array>
+    <array name="help_tableofcontents" translatable="false">
+        <item>@string/help_introduction</item>
+        <item>@string/help_main</item>
+        <item>@string/help_simple_actions</item>
+        <item>@string/help_propertyeditor</item>
+        <item>@string/help_nodeselection</item>
+    	<item>@string/help_wayselection</item>
+    	<item>@string/help_relationselection</item>
+    	<item>@string/help_multiselect</item>
+    	<item>@string/help_longclick</item>
+        <item>@string/help_preferences</item>
+        <item>@string/help_advanced_preferences</item>
+    	<item>@string/help_presets</item>	
+    	<item>@string/help_aligningbackgroundiamgery</item>
+    	<item>@string/help_conflictresolution</item>
+    	<item>@string/help_gpssources</item>
+    	<item>@string/help_keyboard</item>
+    	<item>@string/help_tagfilter</item>
+    	<item>@string/help_presetfilter</item>
+    	<item>@string/help_opening_hours</item>
+        <item>@string/help_newnoteselection</item>
+        <item>@string/help_voice_commands</item>
+    	<item>@string/help_upgrade</item>
+        <item>@string/help_upgrade_121</item>
+        <item>@string/help_upgrade_120</item>
+        <item>@string/help_upgrade_112</item>
+        <item>@string/help_upgrade_111</item>
+        <item>@string/help_upgrade_110</item>
+        <item>@string/help_upgrade_102</item>
+        <item>@string/help_upgrade_101</item>
+    	<item>@string/help_upgrade_100</item>
+    	<item>@string/help_upgrade_099</item>
+    	<item>@string/help_upgrade_098</item>
+    	<item>@string/help_upgrade_097</item>
+    	<item>@string/help_upgrade_096</item>
+        <item>@string/help_privacy</item>
+    </array>
+    <string-array name="note_state">
+    <item>Otwarte</item>
+    <item>Zamknięte</item>
+  </string-array>
+    <string-array name="scale_entries">
+    <item>Brak</item>
+    <item>Skala (metryczna)</item>
+    <item>Siatka (metryczna)</item>
+    <item>Skala (bryt. system miar)</item>
+    <item>Siatka (bryt. system miar)</item>
+  </string-array>
+    <string name="Delete">Usuń</string>
+    <string name="Done">Gotowe</string>
+    <string name="End">Koniec</string>
+    <string name="Key">Klucz</string>
+    <string name="No">Nie</string>
+    <string name="Save">Zapisz</string>
+    <string name="Start">Początek</string>
+    <string name="Value">Wartość</string>
+    <string name="WGS84">WGS84</string>
+    <string name="Yes">Tak</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Przejdź do strony głównej"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Przejdź wyżej"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Więcej opcji"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gotowe"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobacz wszystkie"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Wybierz aplikację"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"WYŁ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"WŁ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Szukaj…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Wyczyść zapytanie"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Wyszukiwane hasło"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Szukaj"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Wyślij zapytanie"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Wyszukiwanie głosowe"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Udostępnij dla"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Udostępnij przez: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Zwiń"</string>
+    <string name="actionmode_closed_way_split_1">Podziel zamkniętą linię, pierwszy węzeł </string>
+    <string name="actionmode_closed_way_split_2">Podziel zamkniętą linię, drugi węzeł </string>
+    <string name="actionmode_createpath">Tworzenie linii</string>
+    <string name="actionmode_multiselect">Zaznacz wiele</string>
+    <string name="actionmode_nodeselect">Zaznaczony węzeł</string>
+    <string name="actionmode_relationselect">Wybrano relację</string>
+    <string name="actionmode_restriction">Dodaj nakaz/zakaz skrętu</string>
+    <string name="actionmode_restriction_restart_from">Ponownie wybierz segment \"from\"</string>
+    <string name="actionmode_restriction_restart_to">Ponownie wybierz segment \"to\"</string>
+    <string name="actionmode_restriction_restart_via">Ponownie wybierz segment \"via\"</string>
+    <string name="actionmode_restriction_to">Dodaj segment \"to\"</string>
+    <string name="actionmode_restriction_via">Dodaj segment/węzeł \"via\"</string>
+    <string name="actionmode_rotateway">Obróć linię</string>
+    <string name="actionmode_wayselect">Wybrano linię</string>
+    <string name="add">Dodaj</string>
+    <string name="add_check_entry">Dodaj sprawdzenie</string>
+    <string name="add_check_title">Dodaj sprawdzenie</string>
+    <string name="add_holiday">Dodaj dni wolne</string>
+    <string name="add_layer_title">Dodaj warstwę</string>
+    <string name="add_members">Dodaj członków.</string>
+    <string name="add_modifier_comment">Dodaj modyfikator/komentarz</string>
+    <string name="add_resurvey_entry">Dodaj wpis ponownego przeglądu</string>
+    <string name="add_resurvey_title">Dodaj wpis ponownego przeglądu</string>
+    <string name="add_rule">Dodaj regułę</string>
+    <string name="add_rule_247">Dodaj regułę dla 24/7</string>
+    <string name="add_rule_closed_on_holidays">Dodaj regułę dla dni świątecznych</string>
+    <string name="add_week_range">Dodaj zakres tygodniowy</string>
+    <string name="add_year_range">Dodaj zakres roczny</string>
+    <string name="additive_rule">Dodająca</string>
+    <string name="address_housenumber">Adres%1$s</string>
+    <string name="address_housenumber_street">Adres %1$s %2$s</string>
+    <string name="after">po</string>
+    <string name="age">Wiek</string>
+    <string name="alert_bug">Wykryto błąd w danych OSM</string>
+    <string name="alert_data_issue">Wykryto nieścisłe dane OSM w pobliżu</string>
+    <string name="alert_distance_direction">w obębie %1$d m %2$s</string>
+    <string name="alert_note">Wykryto pobliską uwagę OSM</string>
+    <string name="all_keys">Wszystkie</string>
+    <string name="altitude">Wysokość</string>
+    <string name="api">API</string>
+    <string name="api_url">Adres URL API</string>
+    <string name="apply">Zastosuj</string>
+    <string name="april">Kwi</string>
+    <string name="attached_object_warning_title">Ta operacja zmienia obiekty ukryte przez filtry!</string>
+    <string name="august">Sie</string>
+    <string name="back">Cofnij</string>
+    <string name="bad_request_message">API OSM wysłało błędną odpowiedź, zapisz dane do pliku i zgłoś błąd: \n \n</string>
+    <string name="before">przed</string>
+    <string name="bounding_box_too_large_title">Zbyt duży obszar pobierania</string>
+    <string name="boxpicker_firsttimetitle">Pobierz dane OpenStreetMap</string>
+    <string name="bug_description">%1$s: %2$s - %3$s</string>
+    <string name="bug_element_1">%1$s (nie pobrane) #%2$d</string>
+    <string name="bug_element_2">%1$s %2$s</string>
+    <string name="bug_long_description_1">%1$s: %2$s&lt;br>&lt;br>%3$s&lt;br></string>
+    <string name="bug_long_description_2">&lt;br>last updated:&lt;br>%1$s&lt;br>id: %2$d</string>
+    <string name="bugfilter_custom_entry">Własne</string>
+    <string name="bugfilter_notes_entry">Notatki</string>
+    <string name="bugfilter_osmose_error_entry">Błąd Osmose</string>
+    <string name="bugfilter_osmose_minor_issue_entry">Pomniejszy błąd Osmose</string>
+    <string name="bugfilter_osmose_warning_entry">Ostrzeżenie Osmose</string>
+    <string name="cancel">Anuluj</string>
+    <string name="changes_changed">Zmieniono „%1$s”</string>
+    <string name="changes_created">Utworzono „%1$s”</string>
+    <string name="changes_deleted">Usunięto „%1$s”</string>
+    <string name="checkpoints">Punkty kontrolne</string>
+    <string name="clear">Wyczyść</string>
+    <string name="clear_anyway">Czy na pewno wyczyścić?</string>
+    <string name="closed">Zamknięta</string>
+    <string name="collection_times_key">Godziny odbioru</string>
+    <string name="collection_times_weekdays">Raz dziennie</string>
+    <string name="comment">Komentarz</string>
+    <string name="config_address_tags">Znaczniki adresu</string>
+    <string name="config_advancedprefs">Ustawienia zaawansowane </string>
+    <string name="config_alwaysDrawBoundingBoxes_title">Przyciemnianie nie pobranych obszarów</string>
+    <string name="config_api_url_title">API URL</string>
+    <string name="config_apibutton_title">Adres API OpenStreetMap</string>
+    <string name="config_autoLockDelay_current">%1$d s</string>
+    <string name="config_autoLockDelay_title">Czas oczekiwania przed zablokowaniem</string>
+    <string name="config_backgroundLayer_summary">Tło mapy bazujące na kafelkach.</string>
+    <string name="config_backgroundLayer_title">Podkład mapy</string>
+    <string name="config_category_editing_summary">Opcje automatycznego pobierania, zapisywania i powiadomień.</string>
+    <string name="config_category_experimental">Eksperymentalne</string>
+    <string name="config_category_gps">Ustawienia lokalizacji</string>
+    <string name="config_category_info">Informacje</string>
+    <string name="config_category_layers">Pobieranie i przechowywanie warstw</string>
+    <string name="config_category_misc">Inne</string>
+    <string name="config_closeChangesetOnSave_title">Zamykanie zestawów zmian</string>
+    <string name="config_customlayers_title">Warstwy własne</string>
+    <string name="config_debugbutton_title">Diagnozowanie błędów</string>
+    <string name="config_downLoadThreads_current">%1$d Wątków</string>
+    <string name="config_downloadSpeed_current">%1$d km/h</string>
+    <string name="config_enableAntiAliasing_summary">Wygładza widoczne linie</string>
+    <string name="config_enableAutoPresets_title">Włącz automatyczne generowanie szablonów</string>
+    <string name="config_enableKeepScreenOn_title">Włączony ekran</string>
+    <string name="config_enableNameSuggestionsPresets_title">Włącz szablony sugerowanych nazw</string>
+    <string name="config_enableNameSuggestions_title">Sugerowanie nazw</string>
+    <string name="config_enablePhotoLayer_summary">Wyświetla zdjęcia skalibrowane przestrzennie.</string>
+    <string name="config_extTriggeredDownloadRadius_title">Promień obszaru pobierania</string>
+    <string name="config_fullscreenMode_summary">Konfiguruje zachowanie na urządzeniach z klawiszami programowymi.</string>
+    <string name="config_generateAlerts_summary">Wyświetla powiadomienia o danych ze znanymi błędami lub uwagami</string>
+    <string name="config_generateAlerts_title">Powiadomienia</string>
+    <string name="config_geocoderbutton_title">Geokodowanie</string>
+    <string name="config_gps_interval_current">%1$d ms</string>
+    <string name="config_gps_network_title">Przełączanie na lokalizację na podstawie sieci</string>
+    <string name="config_gps_source_tcp_title">Źródło połączenia z protokołem NMEA</string>
+    <string name="config_iconbutton_summary">Wyświetla ikonę najbardziej pasującego szablonu nad węzłem.</string>
+    <string name="config_iconbutton_title">Ikony węzłów</string>
+    <string name="config_js_console_title">Włącz konsolę JS</string>
+    <string name="config_largeDragArea_title">Duży obszar przeciągania węzłów</string>
+    <string name="config_loginbutton_title">Konto użytkownika</string>
+    <string name="config_mapProfile_title">Styl danych</string>
+    <string name="config_maxAlertDistance_title">Maksymalna odległość dla powiadomienia</string>
+    <string name="config_maxDownloadSpeed_title">Maksymalna prędkość dla automatycznego pobierania</string>
+    <string name="config_maxInlineValues_current">%1$d Wartości</string>
+    <string name="config_maxInlineValues_title">Maks. liczba wartości w jednym wierszu</string>
+    <string name="config_maxStrokeWidth_current">%1$d px</string>
+    <string name="config_maxStrokeWidth_title">Maksymalna szerokość linii</string>
+    <string name="config_maxTileDownloadThreads_title">Maks. liczba wątków pobierania</string>
+    <string name="config_notificationCacheSize_current">%1$d Powiadomień</string>
+    <string name="config_notificationCacheSize_title">Maks. liczba powiadomień</string>
+    <string name="config_overlayLayer_summary">Nakładka mapy bazująca na kafelkach.</string>
+    <string name="config_overlayLayer_title">Nakładka mapy</string>
+    <string name="config_presetbutton_summary">Dodaje i włącza szablony kompatybilne z JOSM</string>
+    <string name="config_presetbutton_title">Szablony</string>
+    <string name="config_scale_summary">Sposób wyświetlania skali na mapie.</string>
+    <string name="config_scale_title">Wyświetlanie skali</string>
+    <string name="config_showCameraAction_title">Aparat</string>
+    <string name="config_showStats_title">Statystyki</string>
+    <string name="config_showTolerance_title">Wyświetlanie tolerancji</string>
+    <string name="config_showWayIcons_summary">Wyświetla ikonę najlepiej pasującego szablonu wewnątrz obrysu budynku.</string>
+    <string name="config_showWayIcons_title">Ikony użytecznych miejsc na budynkach</string>
+    <string name="config_splitActionBarEnabled_title">Rozdzielony pasek czynności</string>
+    <string name="config_tagFormEnabled_title">Formularz znacznika</string>
+    <string name="config_tileCacheSize_title">Wielkość pamięci podręcznej dla kafelków map</string>
+    <string name="config_tileCache_current">%1$d MB</string>
+    <string name="config_validatorprefs_title">Ustawienia wykrywania błędow</string>
+    <string name="config_voiceCommandsEnabled_title">Polecenia głosowe</string>
+    <string name="confirm_upload_edits_page">Zmiany</string>
+    <string name="confirm_upload_title">Wyślij zmiany</string>
+    <string name="coordinates_out_of_range">Długość geograficzna musi mieścić się w -180°/+180°, szerokość w -85°/85°</string>
+    <string name="copy_properties">Kopiuj właściwości</string>
+    <string name="coverage">Zasięg</string>
+    <string name="coverage_bottom">Dół</string>
+    <string name="coverage_left">Lewo</string>
+    <string name="coverage_right">Prawo</string>
+    <string name="coverage_top">Góra</string>
+    <string name="created">Utworzono</string>
+    <string name="current">Bieżący</string>
+    <string name="custom_bug">Własny</string>
+    <string name="custom_layer_title">Dostosowany podkład</string>
+    <string name="date">Data</string>
+    <string name="date_date">Data - data</string>
+    <string name="date_occurrence">Data - wystąpienie w miesiącu</string>
+    <string name="date_open_end">Data - bez końca</string>
+    <string name="date_range">Zakres dat</string>
+    <string name="date_variable_date">Data - zmienna data</string>
+    <string name="date_weekday_occurrence">Data (dni tygodnia w miesiącu)</string>
+    <string name="daterange_menu">Dodaj zakres dat...</string>
+    <string name="dawn">Świt</string>
+    <string name="december">Gru</string>
+    <string name="default_">Domyślne</string>
+    <string name="default_channel_name">Vespucci</string>
+    <string name="default_hint">Łańcuch godzin otwarcia</string>
+    <string name="default_legend">Domyślnie:</string>
+    <string name="delete">Usuń</string>
+    <string name="delete_from_relation_description">Zamierzasz usunąć ten element z relacji.</string>
+    <string name="delete_layer">Usunąć warstwę?</string>
+    <string name="deletenode">Usuń węzeł</string>
+    <string name="deleterelation">Usuń relację</string>
+    <string name="deleteway_wayandnodes">Usuń odcinek</string>
+    <string name="description">Opis</string>
+    <string name="digit_one">1</string>
+    <string name="disable">Wyłącz</string>
+    <string name="discard">Odrzuć</string>
+    <string name="dismiss">Odrzuć</string>
+    <string name="display_time_picker">Pokaż wybieracz czasu</string>
+    <string name="distance_km">%1$.3f km</string>
+    <string name="distance_meter">%1$.2f metrów</string>
+    <string name="done">Zakończone</string>
+    <string name="duplicate_rule">Duplikuj</string>
+    <string name="dusk">Zmierzch</string>
+    <string name="easter">Wielkanoc</string>
+    <string name="edit">Edytuj</string>
+    <string name="edit_check_title">Edytuj sprawdzenie</string>
+    <string name="edit_layer_title">Edytuj warstwę</string>
+    <string name="edit_resurvey_title">Edytuj wpis ponownego przeglądu</string>
+    <string name="edit_template">Edytuj szablon</string>
+    <string name="empty_list">Brak wpisów</string>
+    <string name="enable">Włącz</string>
+    <string name="evaluate">Ewaluuj</string>
+    <string name="exception_too_many_nodes">To działanie utworzyłoby linię z zbyt dużą ilością węzłów</string>
+    <string name="exit_text">Zakończyć działanie programu?</string>
+    <string name="fallback_rule">Awaryjna</string>
+    <string name="february">Lut</string>
+    <string name="find_message">Proszę wprowadzić szukany ciąg</string>
+    <string name="forbidden_login_title">Logowanie zablokowane</string>
+    <string name="forward">Naprzód</string>
+    <string name="friday_short">Pt.</string>
+    <string name="generic_bug">Błąd</string>
+    <string name="geocoder_prompt">z</string>
+    <string name="geocoder_type">Typ geokodera</string>
+    <string name="geojson_object">%1$s (%2$s)</string>
+    <string name="go_to_openstreetmap">Idź do openstreetmap.org</string>
+    <string name="gps_failure">Nie udało się włączyć GPSa</string>
+    <string name="group_header">Grupa %1$s</string>
+    <string name="help_addrelationmember">Zaznaczono relację</string>
+    <string name="help_advanced_preferences">Ustawienia zaawansowane</string>
+    <string name="help_aligningbackgroundiamgery">Kalibrowanie map podkładowych</string>
+    <string name="help_conflictresolution">Rozwiązywanie konfliktów</string>
+    <string name="help_gpssources">Źródła GPS</string>
+    <string name="help_introduction">Wstęp</string>
+    <string name="help_keyboard">Klawiatura</string>
+    <string name="help_longclick">Tworzenie obiektów</string>
+    <string name="help_main">Mapa główna</string>
+    <string name="help_multiselect">Zaznaczanie wielu elementów</string>
+    <string name="help_nodeselection">Zaznaczono węzeł</string>
+    <string name="help_opening_hours">Godziny otwarcia</string>
+    <string name="help_pathcreation">Tworzenie obiektów</string>
+    <string name="help_preferences">Ustawienia</string>
+    <string name="help_presetfilter">Filtr szablonu</string>
+    <string name="help_presets">Szablony</string>
+    <string name="help_privacy">Prywatność</string>
+    <string name="help_propertyeditor">Edytor właściwości</string>
+    <string name="help_relationselection">Zaznaczono relację</string>
+    <string name="help_tagfilter">Filtr tagu</string>
+    <string name="help_upgrade">Zestaw zmian</string>
+    <string name="help_upgrade_096">0.9.6  Zestaw zmian</string>
+    <string name="help_upgrade_097">0.9.7  Zestaw zmian</string>
+    <string name="help_upgrade_098">0.9.8  Zestaw zmian</string>
+    <string name="help_upgrade_099">0.9.9  Zestaw zmian</string>
+    <string name="help_upgrade_100">10.0 Zestaw zmian</string>
+    <string name="help_upgrade_101">10.1 Zestaw zmian</string>
+    <string name="help_upgrade_102">10.2 Zestaw zmian</string>
+    <string name="help_upgrade_110">11.0 Zestaw zmian</string>
+    <string name="help_upgrade_111">11.1 Zestaw zmian</string>
+    <string name="help_voice_commands">Polecenia głosowe</string>
+    <string name="help_wayselection">Zaznaczono linię</string>
+    <string name="imagery_offset_author">Autor</string>
+    <string name="imagery_offset_date">Utworzone</string>
+    <string name="imagery_offset_description">Opis</string>
+    <string name="imagery_offset_distance">Odległość</string>
+    <string name="imagery_offset_not_found">Nie odnaleziono przesunięć w promieniu 10 km!</string>
+    <string name="imagery_offset_offset">Przesunięcie</string>
+    <string name="imagery_offset_zoom">Przybliżenie</string>
+    <string name="internationalized_hint">%1$s (%2$s)</string>
+    <string name="interval_minutes">Interwał (minuty)</string>
+    <string name="interval_weeks">Interwał (tygodnie)</string>
+    <string name="interval_years">Interwał (lata)</string>
+    <string name="is_default">%1$s (domyślnie)</string>
+    <string name="january">Sty</string>
+    <string name="js_console_msg_debug">Tryb debugowania!</string>
+    <string name="js_console_msg_live">Tryb na żywo!</string>
+    <string name="json_array_not_displayed">Tablica JSON (niewyświetlana)</string>
+    <string name="json_object_not_displayed">Obiekt JSON (niewyświetlany)</string>
+    <string name="july">Lip</string>
+    <string name="june">Cze</string>
+    <string name="keep">Zachowaj</string>
+    <string name="key">klucz</string>
+    <string name="key_legend">Klucz:</string>
+    <string name="last_edited">Ostatnio edytowany</string>
+    <string name="layer_change_style">Zmień styl</string>
+    <string name="layer_flush_tile_cache">Wyczyść cache kafelków</string>
+    <string name="layer_geojson">GeoJSON</string>
+    <string name="layer_gpx">GPX</string>
+    <string name="layer_grid">Siatka</string>
+    <string name="layer_photos">Zdjęcia</string>
+    <string name="layer_select_imagery">Wybierz podkład</string>
+    <string name="layer_style_color">Kolor</string>
+    <string name="layer_style_label">Etykieta</string>
+    <string name="layer_style_stroke_width">Szerokość obrysu</string>
+    <string name="layer_style_title">Styl warstwy</string>
+    <string name="layer_tasks">Zadania</string>
+    <string name="leave_empty">Pozostaw pustą.</string>
+    <string name="length_m">Długość (m)</string>
+    <string name="link_mapfeatures">http://wiki.openstreetmap.org/wiki/Pl:Map_Features</string>
+    <string name="load_template">Wczytaj szablon</string>
+    <string name="load_templates_title">Wczytaj szablony</string>
+    <string name="loaded_default">Załadowano domyślny szablon</string>
+    <string name="location_choose_radius">Wybierz promień:</string>
+    <string name="location_coordinates_text">Wg współrzędnych:</string>
+    <string name="location_current_text">Obecna pozycja:</string>
+    <string name="location_current_text_parameterized">Obecna pozycja: %1$s</string>
+    <string name="location_default_radius">300m</string>
+    <string name="location_last_text">Ostatnia znana pozycja:</string>
+    <string name="location_last_text_parameterized">Ostatnia znana pozycja: %1$s</string>
+    <string name="location_lat_label">Szer:</string>
+    <string name="location_load_button">Wczytaj</string>
+    <string name="location_load_dismiss">Wyświetl mapę</string>
+    <string name="location_lon_label">Dł:</string>
+    <string name="location_radius">%1$dm</string>
+    <string name="location_search_label">Szukaj:</string>
+    <string name="location_text_metadata_location">\nSzer. %1$4g, Dł. %2$4g\n %3$s %4$s temu</string>
+    <string name="locked">Zablokowane</string>
+    <string name="manage_apis">Zarządzaj API</string>
+    <string name="manage_geocoders">Zarządzaj geokoderami</string>
+    <string name="manage_presets">Zarządzaj szablonami</string>
+    <string name="manage_templates">Zarządzaj szablonami</string>
+    <string name="manage_templates_title">Zarządzaj szablonami</string>
+    <string name="march">Mar</string>
+    <string name="max">Maks.</string>
+    <string name="max_age">Maks. wiek</string>
+    <string name="may">Maj</string>
+    <string name="members">Członkowie</string>
+    <string name="membership_relation_heading">Członek relacji</string>
+    <string name="menu_add">Nowy</string>
+    <string name="menu_add_relation_member">Dodaj członka</string>
+    <string name="menu_append">Dołącz</string>
+    <string name="menu_camera">Aparat</string>
+    <string name="menu_circulize">Ułóż w koło</string>
+    <string name="menu_config">Ustawienia</string>
+    <string name="menu_copy">Skopiuj</string>
+    <string name="menu_cut">Wytnij</string>
+    <string name="menu_easyedit">EasyEdit</string>
+    <string name="menu_edit">Edytuj</string>
+    <string name="menu_edit_relation">Edycja relacji</string>
+    <string name="menu_enable_presetfilter">Filtr szablonu</string>
+    <string name="menu_enable_tagfilter">Filtr tagu</string>
+    <string name="menu_erase">Usuń węzeł</string>
+    <string name="menu_extend_selection">Dodaj do zaznaczenia</string>
+    <string name="menu_extract">Izoluj węzeł</string>
+    <string name="menu_find">Szukaj</string>
+    <string name="menu_gps_autodownload">Automatyczne pobieranie</string>
+    <string name="menu_gps_export">Wyeksportuj ślad GPX</string>
+    <string name="menu_gps_follow">Śledź lokalizację</string>
+    <string name="menu_gps_import">Importuj ślad GPX</string>
+    <string name="menu_gps_show">Znacznik położenia</string>
+    <string name="menu_gps_upload">Wyślij ślad GPX</string>
+    <string name="menu_help">Pomoc</string>
+    <string name="menu_history">Historia</string>
+    <string name="menu_information">Info</string>
+    <string name="menu_join">Połącz</string>
+    <string name="menu_layers">Warstwy...</string>
+    <string name="menu_layers_load_geojson">Załaduj warstwę GeoJSON</string>
+    <string name="menu_merge">Połącz</string>
+    <string name="menu_move">Przesuń</string>
+    <string name="menu_paste">Wklej</string>
+    <string name="menu_paste_from_clipboard">Wklej ze schowka</string>
+    <string name="menu_paste_tags">Wklej tagi</string>
+    <string name="menu_preset_help">Pomoc szablonu</string>
+    <string name="menu_privacy">Prywatność</string>
+    <string name="menu_relation">Utwórz relację</string>
+    <string name="menu_reverse">Odwróć</string>
+    <string name="menu_rotate">Obróć</string>
+    <string name="menu_select_all">Zaznacz wszystko</string>
+    <string name="menu_select_relation_members">Zaznacz członków</string>
+    <string name="menu_set_name">Nazwij</string>
+    <string name="menu_set_position">Położenie</string>
+    <string name="menu_split">Przetnij linię</string>
+    <string name="menu_split_polygon">Rozdziel na poligony</string>
+    <string name="menu_tag">Edytuj znaczniki</string>
+    <string name="menu_tags">Właściwości</string>
+    <string name="menu_tools">Narzędzia...</string>
+    <string name="menu_tools_add_imagery_from_oam">Dodaj warstwy z OAM</string>
+    <string name="menu_tools_apply_local_offset">Zastosuj zapamiętaną poprawkę położenia tła</string>
+    <string name="menu_tools_background_align">Kalibracja podkładu</string>
+    <string name="menu_tools_background_align_reset">Reset</string>
+    <string name="menu_tools_background_align_zero">Wyzeruj</string>
+    <string name="menu_tools_background_contrast">Kontrast</string>
+    <string name="menu_tools_background_properties">Właściwości podkładu</string>
+    <string name="menu_tools_flush_all_tile_caches">Wyczyść cache kafelków</string>
+    <string name="menu_tools_imagery">Więcej narzędzi</string>
+    <string name="menu_tools_oauth_authorisation">Uwierzytelnij przez OAuth</string>
+    <string name="menu_tools_oauth_reset">Zresetuj OAuth</string>
+    <string name="menu_tools_update_imagery_configuration">Aktualizuj konfigurację warstwy podkładu</string>
+    <string name="menu_tools_zoom_to_layer_extent">Pokaż cały obszar objęty warstwą wyświetlaną w tle</string>
+    <string name="menu_top">Początek</string>
+    <string name="menu_transfer">Transfer…</string>
+    <string name="menu_transfer_bugs_clear">Wyczyść</string>
+    <string name="menu_transfer_bugs_upload">Wyślij wszystkie</string>
+    <string name="menu_transfer_close_changeset">Zamknij zestaw zmian</string>
+    <string name="menu_transfer_download_current">Pobierz bieżący widok</string>
+    <string name="menu_transfer_download_current_add">Dodaj bieżący widok do pobrania</string>
+    <string name="menu_transfer_download_other">Pobierz z innej lokalizacji</string>
+    <string name="menu_transfer_export">Eksportuj zmiany do pliku OSC</string>
+    <string name="menu_transfer_upload">Wyślij zmiany</string>
+    <string name="menu_transfer_write_custom_bugs">Zapisz otwarte dostosowane zadania...</string>
+    <string name="menu_unjoin">Rozłącz</string>
+    <string name="menu_up">W górę</string>
+    <string name="menu_voice_commands">Polecenia głosowe</string>
+    <string name="menu_zoom_to_selection">Przybliż do zaznaczenia</string>
+    <string name="min">Min.</string>
+    <string name="min_max_zoom">%1$d - %2$d</string>
+    <string name="minus_sign">-</string>
+    <string name="mode_correct">Tryb błędów</string>
+    <string name="mode_easy">Tryb zwykły</string>
+    <string name="mode_indoor">Tryb wnętrz</string>
+    <string name="mode_tag_only">Tryb tagów</string>
+    <string name="modifier">Modyfikator</string>
+    <string name="monday_short">Pon.</string>
+    <string name="move_down">Przenieś w dół</string>
+    <string name="move_up">Przenieś w górę</string>
+    <string name="name">Nazwa</string>
+    <string name="name_legend">Nazwa:</string>
+    <string name="next">Dalej</string>
+    <string name="no">Nie</string>
+    <string name="no_valid_preset">Brak prawidłowego szablonu!</string>
+    <string name="nodes">Węzły</string>
+    <string name="none"> Żadne</string>
+    <string name="normal_rule">Normalna</string>
+    <string name="not_downloaded">Nie pobrane</string>
+    <string name="note_description">Notatka: %1$s - %2$s</string>
+    <string name="notes_url">Adres URL API uwag (opcjonalny)</string>
+    <string name="november">Lis</string>
+    <string name="oam_layer_title">Zdjęcia OAM</string>
+    <string name="object">Obiekt</string>
+    <string name="occurrence_date">Wystąpienie w miesiącu - data</string>
+    <string name="occurrence_in_month">Dodaj wystąpienie w miesiącu</string>
+    <string name="occurrence_in_month_title">Wystąpienie w miesiącu</string>
+    <string name="occurrence_occurrence">Wystąpienie w miesiącu - wystąpienie w miesiącu</string>
+    <string name="occurrence_open_end">Wystąpienie w miesiącu - bez końca</string>
+    <string name="occurrence_variable_date">Wystąpienie w miesiącu - zmienna data</string>
+    <string name="october">Paź</string>
+    <string name="off">zamknięte</string>
+    <string name="offset_days">Przesunięcie (±dni)</string>
+    <string name="offset_mins">Przesunięcie (±minuty)</string>
+    <string name="open">otwarte</string>
+    <string name="opening_hours_key">Godziny otwarcia</string>
+    <string name="openstreetbug_bug_title">Błąd</string>
+    <string name="openstreetbug_comment_label">Komentarz:</string>
+    <string name="openstreetbug_not_supported">%1$s nie jest wspierane.</string>
+    <string name="openstreetbug_unknown_task_type">Nieznany typ zadania</string>
+    <string name="original">Pierwotny</string>
+    <string name="osmose_bug">Osmose</string>
+    <string name="overlay">Nakładka</string>
+    <string name="overwrite">Nadpisz</string>
+    <string name="plus_sign">+</string>
+    <string name="preset">Szablon</string>
+    <string name="preset_download_parse_failed">Plik szablonu jest nieprawidłowy. Szablon nie będzie działać.</string>
+    <string name="preset_download_title">Pobieracz szablonów</string>
+    <string name="preset_menu_invert">Odwróć filtry</string>
+    <string name="preset_menu_waynodes">Uwzględnij węzły drogi</string>
+    <string name="preset_search_hint">Wpisz nazwę szablonu</string>
+    <string name="preset_update">Uaktualnij szablon</string>
+    <string name="problem">Problem</string>
+    <string name="progress_deleting_message">Usuwanie…</string>
+    <string name="progress_download_message">Pobieranie danych z serwera…</string>
+    <string name="progress_general_title">Proszę czekać</string>
+    <string name="progress_message">Wczytywanie danych do pamięci…</string>
+    <string name="progress_oauth">Wczytywanie danych konta na openstreetmap.org w celu uwierzytelnienia OAuth...</string>
+    <string name="progress_preset_message">Pobieranie szablonu…</string>
+    <string name="progress_running_message">Wykonywanie poleceń...</string>
+    <string name="progress_saving_message">Zapisywanie…</string>
+    <string name="progress_searching_message">Wyszukiwanie…</string>
+    <string name="progress_title">Wczytywanie</string>
+    <string name="progress_uploading_message">Wysyłanie…</string>
+    <string name="public_holidays">Dni świąteczne</string>
+    <string name="qa_channel_description">Kanał alertów Vespucci QA</string>
+    <string name="qa_channel_name">Vespucci QA</string>
+    <string name="read">Odczytaj</string>
+    <string name="read_upgrade">Wyświetl informacje o nowej wersji</string>
+    <string name="readonly_url">Adres URL API tylko do odczytu (opcjonalny)</string>
+    <string name="redo">Ponów</string>
+    <string name="redo_all">Przywróć wszystkie wcześniejsze punkty kontrolne (bezpieczne)</string>
+    <string name="refresh">Wczytaj ponownie</string>
+    <string name="regular_expression">Wyrażenie regularne</string>
+    <string name="relation">Relacja</string>
+    <string name="relation_membership">Członkostwo relacji</string>
+    <string name="relations">Relacje</string>
+    <string name="replace">Zamień</string>
+    <string name="retry">Spróbuj ponownie</string>
+    <string name="reverse_anyway">Odwróć mimo to</string>
+    <string name="role">Rola</string>
+    <string name="rule_header">Reguła %1$s</string>
+    <string name="rule_type">Pokaż rodzaj reguły</string>
+    <string name="saturday_short">Sob.</string>
+    <string name="save">Zapisz</string>
+    <string name="save_and_set">Zakończ i zapisz</string>
+    <string name="save_template">Zapisz szablony</string>
+    <string name="save_to_template">Zapisz do szablonu</string>
+    <string name="school_holidays">Wakacje/ferie szkolne</string>
+    <string name="search">Szukaj</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Szukaj"</string>
+    <string name="search_online">Wyszukaj online</string>
+    <string name="search_results_title">Wyniki wyszukiwania</string>
+    <string name="september">Wrz</string>
+    <string name="service_times_key">Godziny obsługi</string>
+    <string name="set">Ustaw</string>
+    <string name="set_position_datum_label">Układ współrzędnych geodezyjnych</string>
+    <string name="share">Udostępnij</string>
+    <string name="share_position">Udostępnij pozycję</string>
+    <string name="show_end_offset">Pokaż przesunięcie końca</string>
+    <string name="show_interval">Pokaż interwał</string>
+    <string name="show_offset">Pokaż przesunięcie</string>
+    <string name="show_start_offset">Pokaż przesunięcie początku</string>
+    <string name="show_useAsWeekDay">Pokaż użycie</string>
+    <string name="spd_ohf_cancel">Anuluj</string>
+    <string name="spd_ohf_ok">OK</string>
+    <string name="split_all_ways">Przetnij wszystkie linie</string>
+    <string name="start_at_midnight">Początek o północy</string>
+    <string name="state">Stan</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="sunday_short">Niedz.</string>
+    <string name="sunrise">Wschód słońca</string>
+    <string name="sunset">Zachód słońca</string>
+    <string name="tag_action_members_title">Wybrani członkowie</string>
+    <string name="tag_action_parents_title">Relacje zaznaczona</string>
+    <string name="tag_action_tag_title">Zaznaczono znaczniki</string>
+    <string name="tag_additional_properties">Dodatkowe właściwości</string>
+    <string name="tag_autocomplete_name_hint">Wpisz lub wybierz nazwę</string>
+    <string name="tag_autocomplete_value_hint">Wpisz lub wybierz wartość</string>
+    <string name="tag_details">Szczegóły</string>
+    <string name="tag_dialog_value_hint">Dotknij by zobaczyć wartości</string>
+    <string name="tag_editor_name_suggestion">Propozycja nazwy</string>
+    <string name="tag_form_unknown_element">Nieznany element (brak szablonu)</string>
+    <string name="tag_menu_address">Dodaj znaczniki adresowe</string>
+    <string name="tag_menu_addtorelation">Dodaj do relacji</string>
+    <string name="tag_menu_apply_preset">Zastosuj najlepszy szablon</string>
+    <string name="tag_menu_bottom">Przejdź na dół</string>
+    <string name="tag_menu_delete_unassociated_tags">Usuń nieprzypisane znaczniki</string>
+    <string name="tag_menu_download">Pobierz</string>
+    <string name="tag_menu_exit_no_save">Wyjdź\nbez zapisywania</string>
+    <string name="tag_menu_i8n">Dodaj znaczniki dla %1$s</string>
+    <string name="tag_menu_move_bottom">Przenieś na koniec</string>
+    <string name="tag_menu_move_down">Przenieś w dół</string>
+    <string name="tag_menu_move_top">Przenieś na początek</string>
+    <string name="tag_menu_move_up">Przenieś w górę</string>
+    <string name="tag_menu_preset">Szablony</string>
+    <string name="tag_menu_reset_address_prediction">Zresetuj przewidywanie adresu</string>
+    <string name="tag_menu_reverse_order">Odwróć kolejność</string>
+    <string name="tag_menu_revert">Cofnij</string>
+    <string name="tag_menu_sort">Sortuj</string>
+    <string name="tag_menu_sourcesurvey">Sprawdzony</string>
+    <string name="tag_menu_top">Przejdź na górę</string>
+    <string name="tag_multi_value_hint">Wiele wartości</string>
+    <string name="tag_not_set">Nie przypisano</string>
+    <string name="tag_restriction_add_expression">Dodaj wyrażenie</string>
+    <string name="tag_restriction_add_opening_hours">Dodaj godziny otwarcia</string>
+    <string name="tag_restriction_add_restriction">Dodaj ograniczenie</string>
+    <string name="tag_restriction_add_simple_condition">Dodaj proste ograniczenie</string>
+    <string name="tag_restriction_and">i</string>
+    <string name="tag_restriction_header">Wartość</string>
+    <string name="tag_restriction_when">kiedy</string>
+    <string name="tag_tap_to_edit_hint">Dotknij aby edytować</string>
+    <string name="tag_value_hint">Wpisz wartość</string>
+    <string name="text_values">Wartości tekstowe</string>
+    <string name="thursday_short">Czw.</string>
+    <string name="ticks_15_minute">Przełącz na 15-minutowe skoki</string>
+    <string name="ticks_1_minute">Przełącz na 1-minutowe skoki</string>
+    <string name="ticks_5_minute">Przełącz na 5-minutowe skoki</string>
+    <string name="time">Czas</string>
+    <string name="time_extended_time">Czas - wydłużony czas</string>
+    <string name="time_open_end">Czas - bez końca</string>
+    <string name="time_time">Czas - czas</string>
+    <string name="time_variable_time">Czas - zmienny czas</string>
+    <string name="timespan_menu">Dodaj okres czasu...</string>
+    <string name="to">do</string>
+    <string name="toast_download_failed">Nie udało się pobrać. Kod błędu %1$d, wiadomość %2$s</string>
+    <string name="toast_export_success">Wyeksportowano do %1$s</string>
+    <string name="toast_file_not_found">%1$s - nie znaleziono szukanej frazy.</string>
+    <string name="toast_flus_all_caches">Wyczyszczone zostaną wszystkie cache kafelków!</string>
+    <string name="toast_illegal_operation">Niepoprawna operacja: %1$s</string>
+    <string name="toast_imperial_units">Brakujące jednostki imperialne</string>
+    <string name="toast_invalid_apiurl">Błędny URL dla API</string>
+    <string name="toast_invalid_box">Niepoprawny lub niekompletny bounding box.</string>
+    <string name="toast_invalid_filter_regexp">Nieprawidłowe wyrażenie regularne z filtrem w kluczu=\"%1$s\" wartość=\"%2$s\"</string>
+    <string name="toast_invalid_readonlyurl">Błędny URL do ReadOnly API</string>
+    <string name="toast_merge_overwrote_tags">Uwaga - czynność zmieniła znacznik(i)</string>
+    <string name="toast_min_one_geocoder">Wybierz przynajmniej jeden geokoder.</string>
+    <string name="toast_min_one_preset">Przynajmniej jeden szablon musi być wybrany!</string>
+    <string name="toast_needs_resurvey">Obiekt może być nieaktualny</string>
+    <string name="toast_no_changes">Jeszcze nic nie zmieniono…</string>
+    <string name="toast_no_coverage">%1$s nie obejmuje tego terenu</string>
+    <string name="toast_no_oauth">Brak dostępnej konfiguracji OAuth dla aktualnego API, zamiast tego możesz ustawić swój login i hasło.</string>
+    <string name="toast_no_suitable_storage">System nie zwrócił odpowiedniej lokalizacji dla bazy danych kafelków.</string>
+    <string name="toast_no_voice">Brak dostępnej funkcji rozpoznawania głosu</string>
+    <string name="toast_not_mbtiles">Plik nie jest w formacie MBTiles</string>
+    <string name="toast_nothing_found">Nic nie znaleziono</string>
+    <string name="toast_null_island">Prosimy nie dodawać obiektów na 0°/0° (Null Island)</string>
+    <string name="toast_oauth">Włącz autoryzację OAuth dla konta OSM</string>
+    <string name="toast_oauth_not_enabled">OAuth jest wyłączony dla aktualnego API.</string>
+    <string name="toast_openinghours_invalid">Niepoprawne godziny otwarcia dla %1$s</string>
+    <string name="toast_photo_indexing_finished">Zakończono skanowanie zdjęć georeferencyjnych.</string>
+    <string name="toast_photo_indexing_started">Rozpoczęto skanowanie zdjęć georeferencyjnych.</string>
+    <string name="toast_preset_overwrote_tags">Uwaga - szablon zmienił znacznik(i)</string>
+    <string name="toast_properties_copied">Skopiowano właściwości do schowka</string>
+    <string name="toast_returning_less_than_found">Zwrócono %1$d z %2$d znalezionych wpisów</string>
+    <string name="toast_split_from">Oddzielono linię \"from\"</string>
+    <string name="toast_split_from_and_via">Oddzielonp linie \"from\" oraz \"via\"</string>
+    <string name="toast_split_to">Oddzielona linia \"to\"</string>
+    <string name="toast_split_via">Oddzielona linia \"via\"</string>
+    <string name="toast_state_file_failed">Nieczytelny lub uszkodzony plik stanu</string>
+    <string name="toast_string_too_long">Napis za długi (%1$d znaków), został przycięty!</string>
+    <string name="toast_tags_copied">Skopiowano tagi do schowka</string>
+    <string name="toast_tags_cut">Wycięto tagi do schowka</string>
+    <string name="toast_tile_database_issue_short">Problem z bazą danych kafelków</string>
+    <string name="toast_unlock_to_edit">Proszę odblokować, aby zmodyfikować</string>
+    <string name="toast_unsupported_format">Niewspierany format: %1$s</string>
+    <string name="toast_unsurveyed_road">Niezidentyfikowana droga</string>
+    <string name="toast_using_network_location">Używanie lokalizacji na podstawie sieci</string>
+    <string name="tracking_active_text">Rejestrowanie śladu GPS lub automatyczne pobieranie</string>
+    <string name="tracking_active_title">Usługa Vespucci w tle</string>
+    <string name="tracking_active_title_short">Usługa w tle aktywna</string>
+    <string name="transfer_download_current_dialog_title">Uwaga!</string>
+    <string name="transfer_download_current_download">Odrzuć i pobierz</string>
+    <string name="transfer_download_current_upload">Wyślij</string>
+    <string name="tuesday_short">Wt.</string>
+    <string name="twentyfourseven">24 godziny, 7 dni w tygodniu</string>
+    <string name="type">Typ</string>
+    <string name="undo">Cofnij</string>
+    <string name="undo_all">Cofnij wszystkich późniejsze punkty kontrolne (bezpieczne)</string>
+    <string name="undo_nothing">nie ma nic do cofnięcia</string>
+    <string name="unknown">nieznane</string>
+    <string name="unsaved_data_proceed">Odrzuć i kontynuuj</string>
+    <string name="unsaved_data_title">Uwaga!</string>
+    <string name="update_template">Zaktualizować również wartość w szablonie?</string>
+    <string name="upload_close_changeset_label">Zamknij zestaw zmian:</string>
+    <string name="upload_comment_label">Komentarz:</string>
+    <string name="upload_conflict_message_deleted">%1$s\nma lokalną wersję %2$d \ni zostało skasowane na serwerze</string>
+    <string name="upload_conflict_title">Wystąpił konflikt podczas wysyłania danych</string>
+    <string name="upload_gpx_description_label">Opis</string>
+    <string name="upload_gpx_tags_label">Znaczniki</string>
+    <string name="upload_gpx_visibility_label">Widoczność</string>
+    <string name="upload_source_label">Źródło:</string>
+    <string name="upload_validation_error_empty_comment">Komentarz nie może być pusty</string>
+    <string name="upload_validation_error_empty_source">Żródło nie powinno być puste</string>
+    <string name="url">URL</string>
+    <string name="urldialog_add_api">Dodaj API</string>
+    <string name="urldialog_add_geocoder">Dodaj geokoder</string>
+    <string name="urldialog_add_preset">Dodaj szablon</string>
+    <string name="urldialog_api_exists">API z tym adresem już istnieje. Możesz jednak dodać kolejne (np. aby łatwo zmieniać konta)</string>
+    <string name="urldialog_nodata_text">Adres konfiguracji nie posiada poprawnych danych.</string>
+    <string name="urldialog_preset_exists">Szablon już istnieje</string>
+    <string name="use_as_weekday">Użyj, jako dni tygodnia</string>
+    <string name="use_local_version">Użyj wersji lokalnej</string>
+    <string name="use_server_version">Użyj wersji z serwera</string>
+    <string name="validator_title">Zbiór zasad walidatora: %1$s</string>
+    <string name="value">wartość</string>
+    <string name="value_too_long">Długość wpisu godzin otwarcia wynosi %1$d, co przekracza masksmalną długość wynoszącą 255.\n\nUprość ten wpis przed zapisaniem!</string>
+    <string name="variable_date_date">Zmienna data - data</string>
+    <string name="variable_date_occurrence">Zmienna data - wystąpienie w miesiącu</string>
+    <string name="variable_date_open_end">Zmienna data - bez końca</string>
+    <string name="variable_date_variable_date">Zmienna data - zmienna data</string>
+    <string name="variable_time">Zmienny czas</string>
+    <string name="variable_time_extended_time">Zmienny czas - wydłużony czas</string>
+    <string name="variable_time_open_end">Zmienny czas - bez końca</string>
+    <string name="variable_time_time">Zmienny czas - czas</string>
+    <string name="variable_time_variable_time">Zmienny czas - zmienny czas</string>
+    <string name="version">Wersja</string>
+    <string name="waypoint_description">WPT: %1$s</string>
+    <string name="wednesday_short">Śr.</string>
+    <string name="week_day_range">Dodaj zakres dni tygodnia</string>
+    <string name="week_range">Zakres tygodni</string>
+    <string name="weekdays">Dni tygodnia</string>
+    <string name="weekdays_late_shopping">Dni tygodnia z późnymi zakupami</string>
+    <string name="weekdays_with_lunch">Dni tygodnia z przerwą na lunch</string>
+    <string name="weekdays_with_lunch_late_shopping">Dni tygodnia z przerwą na lunch i późne zakupy</string>
+    <string name="weeks">Tygodnie</string>
+    <string name="with_offsets">Z przesunięciami...</string>
+    <string name="would_overwrite_invalid_value">Nie można dodać reguły godzin otwarcia ze względu na błąd. Popraw ją lub usuń!</string>
+    <string name="year_range">Zakres lat</string>
+    <string name="years">Lata</string>
+    <string name="yes">Tak</string>
+</resources>

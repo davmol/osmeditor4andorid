@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="address_tags_entries">
+    <item>Номер дома (addr:housenumber)</item>
+    <item>Вулиця (addr:street)</item>
+    <item>Пошт. індекс (addr:postcode)</item>
+    <item>Місто/Селище/Село/…  (addr:city)</item>
+    <item>Країна (addr:country)</item>
+    <item>Повна адреса (addr:full)</item>
+    <item>Місце (addr:place)</item>
+    <item>Хутір (addr:hamlet)</item>
+    <item>Район міста (addr:suburb)</item>
+    <item>Сільрада (addr:subdistrict)</item>
+    <item>Район (addr:district)</item>
+    <item>Провінція (addr:province)</item>
+    <item>Штат (addr:state)</item>
+    <item>Квартири (addr:flats)</item>
+    <item>№ двері (addr:door)</item>
+    <item>Крило/блок (addr:unit)</item>
+  </string-array>
+    <string-array name="bug_state">
+    <item>Відкрито</item>
+    <item>Закрито</item>
+    <item>Хибно позитивно</item>
+  </string-array>
+    <string-array name="gps_source">
+    <item>Внутрішній</item>
+    <item>Внутрішній NMEA</item>
+    <item>NMEA від клієнта TCP</item>
+    <item>NMEA від сервера TCP</item>
+  </string-array>
+    <string-array name="gpx_visibility">
+    <item>приватний</item>
+    <item>загальнодоступний</item>
+    <item>відстежуваний</item>
+    <item>ідентиікований</item>
+  </string-array>
+    <array name="help_files" translatable="false">
+        <item>Introduction</item>
+        <item>Main map display</item>
+        <item>Simple actions</item>
+        <item>Property editor</item>
+        <item>Node selected</item>
+    	<item>Way selected</item>
+    	<item>Relation selected</item>
+    	<item>Multiselect</item>
+    	<item>Creating new objects</item>
+        <item>Preferences</item>
+        <item>Advanced preferences</item>
+    	<item>Presets</item>	
+    	<item>Aligning background imagery</item>
+    	<item>Conflict resolution</item>
+    	<item>GPS sources</item>
+    	<item>Keyboard</item>
+    	<item>Tag filter</item>
+    	<item>Preset filter</item>
+    	<item>Opening hours</item>
+        <item>New Note selected</item>
+        <item>Voice commands</item>
+        <item>13.0.0 Release notes</item>
+        <item>12.1.0 Release notes</item>
+        <item>12.0.0 Release notes</item>
+        <item>11.2.0 Release notes</item>
+        <item>11.1.0 Release notes</item>
+        <item>11.0.0 Release notes</item>
+        <item>10.2.0 Release notes</item>
+    	<item>10.1.0 Release notes</item>
+    	<item>10.0.0 Release notes</item>
+    	<item>0.9.9 Release notes</item>
+    	<item>0.9.8 Release notes</item>
+    	<item>0.9.7 Release notes</item>
+    	<item>0.9.6 Release notes</item>
+        <item>Privacy</item>
+    </array>
+    <array name="help_tableofcontents" translatable="false">
+        <item>@string/help_introduction</item>
+        <item>@string/help_main</item>
+        <item>@string/help_simple_actions</item>
+        <item>@string/help_propertyeditor</item>
+        <item>@string/help_nodeselection</item>
+    	<item>@string/help_wayselection</item>
+    	<item>@string/help_relationselection</item>
+    	<item>@string/help_multiselect</item>
+    	<item>@string/help_longclick</item>
+        <item>@string/help_preferences</item>
+        <item>@string/help_advanced_preferences</item>
+    	<item>@string/help_presets</item>	
+    	<item>@string/help_aligningbackgroundiamgery</item>
+    	<item>@string/help_conflictresolution</item>
+    	<item>@string/help_gpssources</item>
+    	<item>@string/help_keyboard</item>
+    	<item>@string/help_tagfilter</item>
+    	<item>@string/help_presetfilter</item>
+    	<item>@string/help_opening_hours</item>
+        <item>@string/help_newnoteselection</item>
+        <item>@string/help_voice_commands</item>
+    	<item>@string/help_upgrade</item>
+        <item>@string/help_upgrade_121</item>
+        <item>@string/help_upgrade_120</item>
+        <item>@string/help_upgrade_112</item>
+        <item>@string/help_upgrade_111</item>
+        <item>@string/help_upgrade_110</item>
+        <item>@string/help_upgrade_102</item>
+        <item>@string/help_upgrade_101</item>
+    	<item>@string/help_upgrade_100</item>
+    	<item>@string/help_upgrade_099</item>
+    	<item>@string/help_upgrade_098</item>
+    	<item>@string/help_upgrade_097</item>
+    	<item>@string/help_upgrade_096</item>
+        <item>@string/help_privacy</item>
+    </array>
+    <string-array name="note_state">
+    <item>Відкрито</item>
+    <item>Закрито</item>
+  </string-array>
+    <string-array name="scale_entries">
+    <item>Нема</item>
+    <item>Лінійка (метрична)</item>
+    <item>Сітка (метрична)</item>
+    <item>Лінійка (імперська)</item>
+    <item>Сітка (імперська)</item>
+  </string-array>
+    <string name="Delete">Вилучити</string>
+    <string name="Done">Готово</string>
+    <string name="End">Кінець</string>
+    <string name="Key">Ключ</string>
+    <string name="No">Ні</string>
+    <string name="Save">Зберегти</string>
+    <string name="Start">Початок</string>
+    <string name="Value">Значення</string>
+    <string name="WGS84">WGS84</string>
+    <string name="Yes">Так</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на головний"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вгору"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Інші опції"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Переглянути всі"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Вибрати програму"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ВИМК."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"УВІМК."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Пошук…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Очистити запит"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Пошуковий запит"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Пошук"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Надіслати запит"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовий пошук"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Надіслати через"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Поділитися через додаток <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Згорнути"</string>
+    <string name="actionmode_closed_way_split_1">Розбити замкнену лінію, 1-ша точка</string>
+    <string name="actionmode_closed_way_split_2">Розбити замкнуту лінію, 2-га точка</string>
+    <string name="actionmode_createpath">Креслення лінії</string>
+    <string name="actionmode_multiselect">Мультивиділення</string>
+    <string name="actionmode_nodeselect">Обрана точка</string>
+    <string name="actionmode_relationselect">Зв’язок обрано</string>
+    <string name="actionmode_wayselect">Обрана лінія</string>
+    <string name="add">Додати</string>
+    <string name="add_holiday">Додати свято</string>
+    <string name="add_members">Додати членів</string>
+    <string name="add_modifier_comment">Додати модифікатор/коментар</string>
+    <string name="add_rule">Додати правило</string>
+    <string name="add_rule_247">Додати правило для 24/7</string>
+    <string name="add_rule_closed_on_holidays">Додати правило для святкових днів</string>
+    <string name="add_week_range">Додати тижні</string>
+    <string name="add_year_range">Додати роки</string>
+    <string name="additive_rule">Добавки</string>
+    <string name="after">після</string>
+    <string name="age">Вік</string>
+    <string name="alert_bug">Поруч знаходиться Помилка OSM</string>
+    <string name="alert_data_issue">Виявлено проблему в даних OSM</string>
+    <string name="alert_distance_direction">в %1$d м %2$s</string>
+    <string name="alert_note"> Поруч знаходиться Нотатка OSM</string>
+    <string name="all_keys">Загальний</string>
+    <string name="api">API</string>
+    <string name="api_offline_message">Зараз немає зв’язку з API, тому, а ні отримати, а ні надіслати дані неможливо.</string>
+    <string name="api_offline_title">Немає з’єднання з API</string>
+    <string name="api_url">URL для API</string>
+    <string name="apply">Застосувати</string>
+    <string name="april">Кві</string>
+    <string name="attached_object_warning_continue">Так, показувати</string>
+    <string name="attached_object_warning_stop">Так, відкинути</string>
+    <string name="attached_object_warning_title">Ця операціє впливає на відфільтровані приєднанні обʼєкти!</string>
+    <string name="august">Сер</string>
+    <string name="back">Назад</string>
+    <string name="bad_request_message">API відповів помилкою, будь ласка, збережіть свої дані та повідомте про проблему:\n\n</string>
+    <string name="before">перед</string>
+    <string name="bounding_box_too_large_message">Ділянка, яку ви намагаєтесь завантажити завелика або містить забагато даних.\n\n Наблизьтесь та спробуйте ще раз.</string>
+    <string name="bounding_box_too_large_title">Ділянка для завантаження завелика</string>
+    <string name="bug_description">%1$s: %2$s - %3$s</string>
+    <string name="bug_element_2">%1$s %2$s</string>
+    <string name="bug_long_description_1">%1$s: %2$s&lt;br>&lt;br>%3$s&lt;br></string>
+    <string name="bug_long_description_2">&lt;br>оновлено:&lt;br>%1$s&lt;br>id: %2$d</string>
+    <string name="bugfilter_custom_entry">Власний фон</string>
+    <string name="bugfilter_notes_entry">Нотатки</string>
+    <string name="bugfilter_osmose_error_entry">Osmose помилки</string>
+    <string name="bugfilter_osmose_minor_issue_entry">Osmose незначні вади</string>
+    <string name="bugfilter_osmose_warning_entry">Osmose попередження</string>
+    <string name="cancel">Відміна</string>
+    <string name="changes_changed">„%1$s“ змінено</string>
+    <string name="changes_created">„%1$s“ створено</string>
+    <string name="changes_deleted">„%1$s“ вилучено</string>
+    <string name="clear">Очистити</string>
+    <string name="clear_anyway">Очистити?</string>
+    <string name="closed">Полігон</string>
+    <string name="collection_times_key">Час виїмки пошти</string>
+    <string name="collection_times_weekdays">Раз на день</string>
+    <string name="comment">Коментар</string>
+    <string name="config_address_tags">Теґи адреси</string>
+    <string name="config_advancedprefs">Розширені параметри</string>
+    <string name="config_alwaysDrawBoundingBoxes_title">Завжди затінювати незавантажені області</string>
+    <string name="config_api_url_title">URL для API</string>
+    <string name="config_apibutton_title">URL для API OpenStreetMap</string>
+    <string name="config_backgroundLayer_title">Фон мапи</string>
+    <string name="config_category_info">Про програму</string>
+    <string name="config_category_misc">Додатково</string>
+    <string name="config_closeChangesetOnSave_title">Закривати набори змін</string>
+    <string name="config_debugbutton_title">Відлагодження</string>
+    <string name="config_enableAntiAliasing_summary">Згладжує лінії.</string>
+    <string name="config_enableKeepScreenOn_title">Не гасити екран</string>
+    <string name="config_enableNameSuggestions_title">Дозволити пропозиції назв</string>
+    <string name="config_enablePhotoLayer_summary">Показувати геоприв’язані світлини.</string>
+    <string name="config_extTriggeredDownloadRadius_title">Радіус звантаження</string>
+    <string name="config_fullscreenMode_summary">Поведінка на пристроях з програмними кнопками.</string>
+    <string name="config_generateAlerts_summary">Повідомляти про проблемні дані чи нотатки</string>
+    <string name="config_generateAlerts_title">Створювати повідомлення</string>
+    <string name="config_gps_source_tcp_title">NMEA джерело мережі</string>
+    <string name="config_iconbutton_summary">Показувати найбільш відповідні значки на точках.</string>
+    <string name="config_iconbutton_title">Показувати значки точок</string>
+    <string name="config_js_console_title">Відкрити JS консоль</string>
+    <string name="config_largeDragArea_title">Велика ділянка навколо точок</string>
+    <string name="config_loginbutton_title">Обліковий запис</string>
+    <string name="config_maxAlertDistance_title">Максимальна відстань для повідомлень</string>
+    <string name="config_maxDownloadSpeed_title">Максимальна швидкість авто-завантаження</string>
+    <string name="config_maxStrokeWidth_title">Макс. ширина лінії</string>
+    <string name="config_overlayLayer_title">Додаткові шари</string>
+    <string name="config_presetbutton_summary">Додати та задіяти сумісні з JOSM заготовки</string>
+    <string name="config_presetbutton_title">Заготовки</string>
+    <string name="config_scale_title">Показувати масштаб</string>
+    <string name="config_showCameraAction_title">Показати камеру</string>
+    <string name="config_showStats_title">Показати статистику</string>
+    <string name="config_showTolerance_title">Показати чутливість</string>
+    <string name="config_showWayIcons_summary">Показувати найбільш відповідні значки на будівлях.</string>
+    <string name="config_showWayIcons_title">Показувати значки цікавих точок на будівлях</string>
+    <string name="config_splitActionBarEnabled_title">Включити розділення панелі інструментів</string>
+    <string name="config_tileCacheSize_title">Розмір кешу</string>
+    <string name="config_voiceCommandsEnabled_title">Задіяти голосові команди</string>
+    <string name="confirm_upload_edits_page">Зміни</string>
+    <string name="confirm_upload_title">Надсилання змін</string>
+    <string name="coordinates_out_of_range">Довгота повинна бути в межах від -180° до 180°, широта від -85° до +85°</string>
+    <string name="coverage_bottom">Низ</string>
+    <string name="coverage_left">Ліворуч</string>
+    <string name="coverage_right">Праворуч</string>
+    <string name="coverage_top">Верх</string>
+    <string name="created">Створено</string>
+    <string name="data_conflict_message">Дані, які ви намагаєтесь завантажити конфліктують з вашими правками. Спочатку надішліть на сервер ваші зміни перед тим, як спробувати завантажити дані знов.</string>
+    <string name="data_conflict_title">Конфлікт версій</string>
+    <string name="date">Дата</string>
+    <string name="date_date">Дата - дата</string>
+    <string name="date_occurrence">Дата - кількість разів на місяць</string>
+    <string name="date_open_end">Дата - без кінця</string>
+    <string name="date_range">Діапазон дат</string>
+    <string name="date_variable_date">Дата - змінна дата</string>
+    <string name="date_weekday_occurrence">Дата (робочі дні в місяці)</string>
+    <string name="daterange_menu">Додати діапазон дат …</string>
+    <string name="dawn">Світанок</string>
+    <string name="december">Гру</string>
+    <string name="default_">Типово</string>
+    <string name="default_channel_name">Веспуччі</string>
+    <string name="default_legend">Типово:</string>
+    <string name="delete">Вилучити</string>
+    <string name="delete_from_relation_description">Ви збираєтеся вилучити цей елемент зі зв’язку.</string>
+    <string name="delete_layer">Вилучити шар?</string>
+    <string name="deletenode">Вилучити точку</string>
+    <string name="deleterelation">Вилучити зв’язок</string>
+    <string name="description">Опис</string>
+    <string name="digit_one">1</string>
+    <string name="disable">Вимкнути</string>
+    <string name="discard">Відкинути</string>
+    <string name="dismiss">Відхилити</string>
+    <string name="display_time_picker">Вибрати час </string>
+    <string name="done">Готово</string>
+    <string name="duplicate_rule">Дублювати</string>
+    <string name="dusk">Сутінки</string>
+    <string name="easter">Великдень</string>
+    <string name="edit">Редагувати</string>
+    <string name="edit_template">Редагувати шаблон</string>
+    <string name="element_information">Відомості про елемент</string>
+    <string name="empty_role">Порожня роль</string>
+    <string name="enable">Увімкнено</string>
+    <string name="error">Помилка</string>
+    <string name="evaluate">Оцінка</string>
+    <string name="exception_too_many_nodes">Ця операція призведе до створення лінії з завеликою кількістю точок.</string>
+    <string name="exit_text">Ви впевнені, що хочете вийти?</string>
+    <string name="exit_title">Вийти з Веспуччі</string>
+    <string name="fallback_rule">На випадок збою</string>
+    <string name="february">Лют</string>
+    <string name="file_write_failed_title">Збій запису у файл</string>
+    <string name="find_message">Введіть рядок пошуку</string>
+    <string name="forbidden_login_title">Вхід заборонено</string>
+    <string name="forward">За напрямком лінії</string>
+    <string name="friday_short">Пт</string>
+    <string name="generic_bug">Проблема</string>
+    <string name="geocoder_prompt">з</string>
+    <string name="geojson_object">%1$s (%2$s)</string>
+    <string name="go_to_openstreetmap">Перейти на openstreetmap.org</string>
+    <string name="gps_failure">Не вдалося включити GPS</string>
+    <string name="group_header">Група %1$s</string>
+    <string name="help_addrelationmember">Виділений звʼязок</string>
+    <string name="help_aligningbackgroundiamgery">Вирівнювання фонового зображення</string>
+    <string name="help_conflictresolution">Розвʼязання конфліктів</string>
+    <string name="help_gpssources">Джерела GPS</string>
+    <string name="help_introduction">Вступ</string>
+    <string name="help_keyboard">Клавіатура</string>
+    <string name="help_longclick">Створення нових обʼєктів</string>
+    <string name="help_main">Екран з мапою</string>
+    <string name="help_multiselect">Мультивиділення</string>
+    <string name="help_nodeselection">Виділена точка</string>
+    <string name="help_opening_hours">Часи роботи</string>
+    <string name="help_pathcreation">Створення нових обʼєктів</string>
+    <string name="help_presetfilter">Фільтр заготовок</string>
+    <string name="help_presets">Заготовки</string>
+    <string name="help_propertyeditor">Редактор властивостей</string>
+    <string name="help_relationselection">Виділений звʼязок</string>
+    <string name="help_tagfilter">Фільтр теґів</string>
+    <string name="help_upgrade">Інформація про випуск</string>
+    <string name="help_upgrade_096">0.9.6 Примітки до випуску</string>
+    <string name="help_upgrade_097">0.9.7 Примітки до випуску</string>
+    <string name="help_upgrade_098">0.9.8 Примітки до випуску</string>
+    <string name="help_upgrade_099">0.9.9 Примітки до випуску</string>
+    <string name="help_wayselection">Виділена лінія</string>
+    <string name="id">ID</string>
+    <string name="imagery_offset_author">Автор</string>
+    <string name="imagery_offset_date">Створено</string>
+    <string name="imagery_offset_description">Опис</string>
+    <string name="imagery_offset_distance">Відстань</string>
+    <string name="imagery_offset_not_found">В радіусі 10 км зміщення не знайдені!</string>
+    <string name="imagery_offset_offset">Зміщення</string>
+    <string name="imagery_offset_title">Зміщення фону</string>
+    <string name="imagery_offset_zoom">Масштаб</string>
+    <string name="internationalized_hint">%1$s (%2$s)</string>
+    <string name="interval_minutes">Інтервал (хвилини)</string>
+    <string name="interval_weeks">Інтервал (тижні)</string>
+    <string name="interval_years">Інтервал (роки)</string>
+    <string name="invalid_bounding_box_message">Виділена ділянка не відповідає вимогам API, виділіть іншу.</string>
+    <string name="invalid_bounding_box_title">Хибні межі завантаження даних</string>
+    <string name="invalid_data_received_message">Якщо ви вважаєте, те що ви робите — правильно, будь ласка, надішліть звіт про помилку.</string>
+    <string name="invalid_data_received_title">Отримано пошкоджені дані</string>
+    <string name="is_default">%1$s (типово)</string>
+    <string name="january">Січ</string>
+    <string name="js_console_msg_debug">Зневадження!</string>
+    <string name="js_console_msg_live">Наживо!</string>
+    <string name="json_array_not_displayed">Масив JSON (не показується)</string>
+    <string name="json_object_not_displayed">Об\'єкт JSON (не показується)</string>
+    <string name="july">Лип</string>
+    <string name="june">Чер</string>
+    <string name="keep">Залишити</string>
+    <string name="key">ключ</string>
+    <string name="key_legend">Ключ:</string>
+    <string name="last_edited">В останнє змінено</string>
+    <string name="layer_change_style">Змінити стиль</string>
+    <string name="layer_data">Дані OSM</string>
+    <string name="layer_flush_tile_cache">Скинути кеш тайлів</string>
+    <string name="layer_geojson">GeoJSON</string>
+    <string name="layer_gpx">GPX</string>
+    <string name="layer_grid">Сітка</string>
+    <string name="layer_info_privacy_policy">Політика конфіденційності</string>
+    <string name="layer_info_terms">Умови</string>
+    <string name="layer_photos">Фото</string>
+    <string name="layer_select_imagery">Обрати фон</string>
+    <string name="layer_style_color">Колір</string>
+    <string name="layer_style_label">Мітка</string>
+    <string name="layer_tasks">Завдання</string>
+    <string name="leave_empty">Залишити порожнім</string>
+    <string name="length_m">Довжина (м)</string>
+    <string name="link_mapfeatures">http://wiki.openstreetmap.org/wiki/Uk:Map_Features</string>
+    <string name="load_template">Заватажити шаблон</string>
+    <string name="load_templates_title">Завантажити шаблони</string>
+    <string name="loaded_default">Завантажено типовий шаблон</string>
+    <string name="location_choose_radius">Виберіть радіус: </string>
+    <string name="location_coordinates_text">За координатами: </string>
+    <string name="location_current_text">Поточне розташування: </string>
+    <string name="location_current_text_parameterized">Поточне розташування: %1$s</string>
+    <string name="location_default_radius">300 м.</string>
+    <string name="location_last_text">Останнє відоме розташування: </string>
+    <string name="location_last_text_parameterized">Останнє відоме розташування: %1$s</string>
+    <string name="location_lat_label">Шир.: </string>
+    <string name="location_load_button">Завантажити</string>
+    <string name="location_load_dismiss">Перейти до мапи</string>
+    <string name="location_lon_label">Довг.: </string>
+    <string name="location_nan_message">Будь ласка, додавайте координати у десятковому форматі (напр., „52.333572“, „8.741185“). Широта у межах -85.0 та +85.0, а довгота у межах -175.0 та +175.0.</string>
+    <string name="location_nan_title">Помилкове введення!</string>
+    <string name="location_radius">%1$dм</string>
+    <string name="location_search_label">Пошук: </string>
+    <string name="location_text_metadata">(%1$s%2$s)</string>
+    <string name="location_text_metadata_accuracy">Точність %1$2.0f метр, </string>
+    <string name="location_text_metadata_location">\nШир. %1$4g, Дов. %2$4g\n%3$s %4$s тому</string>
+    <string name="location_text_unknown">Невідомо</string>
+    <string name="locked">Перегляд</string>
+    <string name="manage_presets">Керування заготовками</string>
+    <string name="manage_templates">Керування шаблонами</string>
+    <string name="manage_templates_title">Керування шаблонами</string>
+    <string name="maproulette_task_explanations">Пояснення</string>
+    <string name="maproulette_task_title">Завдання MapRoulette</string>
+    <string name="march">Бер</string>
+    <string name="max">Макс.</string>
+    <string name="may">Тра</string>
+    <string name="members">Члени</string>
+    <string name="membership_relation_heading">Учасник зв’язку</string>
+    <string name="menu_add">Новий</string>
+    <string name="menu_add_relation_member">Додати члена</string>
+    <string name="menu_append">Додати</string>
+    <string name="menu_camera">Камера</string>
+    <string name="menu_circulize">Вирівняти по колу</string>
+    <string name="menu_config">Налаштування</string>
+    <string name="menu_copy">Копіювати</string>
+    <string name="menu_cut">Вирізати</string>
+    <string name="menu_deselect_all">Скинути виділення</string>
+    <string name="menu_easyedit">ПростіПравки</string>
+    <string name="menu_edit">Редагувати</string>
+    <string name="menu_edit_relation">Редагувати зв\'язок</string>
+    <string name="menu_enable_presetfilter">Фільтр заготовок</string>
+    <string name="menu_enable_tagfilter">Фільтр теґів</string>
+    <string name="menu_erase">Вилучити точку</string>
+    <string name="menu_extend_selection">Розширити виділення</string>
+    <string name="menu_extract">виокремити точку</string>
+    <string name="menu_find">Знайти</string>
+    <string name="menu_gps">GPS/GNSS…</string>
+    <string name="menu_gps_autodownload">Авто-завантаження</string>
+    <string name="menu_gps_show">Показати розташування</string>
+    <string name="menu_help">Довідка</string>
+    <string name="menu_history">Історія</string>
+    <string name="menu_information">Інформація</string>
+    <string name="menu_join">Об’єднати</string>
+    <string name="menu_merge">Об’єднати</string>
+    <string name="menu_move">Посунути</string>
+    <string name="menu_openstreetbug">Додати нотатку</string>
+    <string name="menu_orthogonalize">Випрямити кути лінії</string>
+    <string name="menu_paste">Вставити</string>
+    <string name="menu_paste_from_clipboard">Вставити з буфера</string>
+    <string name="menu_paste_tags">Вставити теґи</string>
+    <string name="menu_preset_help">Довідка заготовки</string>
+    <string name="menu_relation">Створити зв’язок</string>
+    <string name="menu_reverse">Змінити напрямок</string>
+    <string name="menu_rotate">Повернути</string>
+    <string name="menu_select_all">Виділити все</string>
+    <string name="menu_select_relation_members">Виділити членів</string>
+    <string name="menu_set_name">Назва</string>
+    <string name="menu_set_position">Положення</string>
+    <string name="menu_split">Розділити</string>
+    <string name="menu_split_polygon">Розділити на полігони</string>
+    <string name="menu_tag">Редагувати теґи</string>
+    <string name="menu_tags">Властивості</string>
+    <string name="menu_tools">Інструменти…</string>
+    <string name="menu_tools_background_align">Положення фону</string>
+    <string name="menu_tools_background_align_reset">Скинути</string>
+    <string name="menu_tools_background_align_zero">Нуль</string>
+    <string name="menu_tools_background_contrast">Контраст</string>
+    <string name="menu_tools_background_properties">Властивості фону</string>
+    <string name="menu_tools_oauth_authorisation">Авторизувати OAuth</string>
+    <string name="menu_tools_oauth_reset">Скинути OAuth</string>
+    <string name="menu_top">Верх</string>
+    <string name="menu_transfer">Передача…</string>
+    <string name="menu_transfer_bugs">Завдання…</string>
+    <string name="menu_transfer_bugs_clear">Очистити</string>
+    <string name="menu_transfer_bugs_upload">Надіслати все</string>
+    <string name="menu_transfer_close_changeset">Закрити поточний набір змін</string>
+    <string name="menu_transfer_download_current">Звантажити дані для поточного місця</string>
+    <string name="menu_transfer_download_current_add">Додати поточний вид для звантаження</string>
+    <string name="menu_transfer_download_other">Завантажити інше місце</string>
+    <string name="menu_transfer_export">Експортувати зміни в OSC-файл</string>
+    <string name="menu_transfer_file">Файл…</string>
+    <string name="menu_transfer_upload">Надіслати дані на сервер OSM</string>
+    <string name="menu_unjoin">Роз’єднати</string>
+    <string name="menu_up">Вгору</string>
+    <string name="menu_view">Вид</string>
+    <string name="menu_voice_commands">Голосові команди</string>
+    <string name="menu_zoom_to_selection">Масштабувати до виділення</string>
+    <string name="min">Мін.</string>
+    <string name="minor_issue">Незначна проблема</string>
+    <string name="minus_sign">-</string>
+    <string name="mode_easy">Звичайно</string>
+    <string name="mode_indoor">План приміщення</string>
+    <string name="mode_tag_only">Тільки теґи</string>
+    <string name="modifier">Модифікатор</string>
+    <string name="monday_short">Пн</string>
+    <string name="move_down">Вниз</string>
+    <string name="move_up">Вгору</string>
+    <string name="multiselect_header_long">Значення (для %1$d елементів)</string>
+    <string name="multiselect_header_short">Значення (%1$d)</string>
+    <string name="name">Назва</string>
+    <string name="name_legend">Назва:</string>
+    <string name="next">Далі</string>
+    <string name="no">Ні</string>
+    <string name="no_connection_message">Неможливо з’єднатися з сервером OpenStreetMap. Перевірте Ваше  Інтернет-з’єднання та спробуйте ще раз.</string>
+    <string name="no_connection_title">Немає з’єднання з сервером</string>
+    <string name="no_data_message">Зазначене джерело не має покриття в цьому місці.</string>
+    <string name="no_data_title">Немає даних</string>
+    <string name="no_login_data_message">Якщо Ви використовуєте OAuth, то це ймовірно помилка, будь ласка, відправте звіт про помилку.  Якщо Ви використовуєте логін і пароль (не рекомендується), перевірте, що вони введені коректно.</string>
+    <string name="no_login_data_title">Не вдалося перевірити автентичність</string>
+    <string name="no_valid_preset">Немає відповідної заготовки! </string>
+    <string name="nodes">Точки</string>
+    <string name="normal_rule">Звичайно</string>
+    <string name="not_downloaded">Не завантажено</string>
+    <string name="not_found_message">API не міг знайти чинний елемент або набір змін з вказаним ідентифікатором.&lt;br>&lt;br></string>
+    <string name="not_found_title">Елемент не знайдено</string>
+    <string name="note_description">Примітка: %1$s - %2$s</string>
+    <string name="november">Лис</string>
+    <string name="object">Об’єкт</string>
+    <string name="occurrence_date">Кількість разів на місяць - дата</string>
+    <string name="occurrence_in_month">Кількість на місяц</string>
+    <string name="occurrence_in_month_title">Кількість разів на місяць</string>
+    <string name="occurrence_occurrence">Кількість разів на місяць - кількість разів</string>
+    <string name="occurrence_open_end">Кількість разів на місяць - без кінця</string>
+    <string name="occurrence_variable_date">Кількість разів на місяць - змінна дата</string>
+    <string name="october">Жов</string>
+    <string name="off">не працює</string>
+    <string name="offset_days">Зсув (±днів)</string>
+    <string name="offset_mins">Зсув (±хвилин)</string>
+    <string name="okay">Добре</string>
+    <string name="open">відкрито</string>
+    <string name="opening_hours_key">Часи роботи</string>
+    <string name="openstreetbug_bug_title">Проблема</string>
+    <string name="openstreetbug_comment_label">Коментар: </string>
+    <string name="openstreetbug_edit_title">Редагувати нотатку</string>
+    <string name="openstreetbug_new_bug">Звіт про проблему</string>
+    <string name="openstreetbug_new_nodeway">Створити точку/лінію</string>
+    <string name="openstreetbug_new_title">Нова нотатка</string>
+    <string name="openstreetbug_not_supported">%1$s не підтримується</string>
+    <string name="openstreetbug_unknown_task_type">Невідомий тип завжання</string>
+    <string name="osmose_bug">Osmose</string>
+    <string name="out_of_memory_dirty_message">Веспуччі не може завантажити дані. Спробуйте зберегти ваші зміни, перезапустити застосунок та завантажити меншу ділянку.</string>
+    <string name="out_of_memory_message">Веспуччі не вистачило пам’яті для завантаження даних. Перезапустіть застосунок та спробуйте завантажити меншу ділянку.</string>
+    <string name="out_of_memory_title">Недостатньо пам’яті</string>
+    <string name="overwrite">Перезаписати</string>
+    <string name="pause_exit_text">Ви впевнені, що бажаєте призупинити запис та вийти?</string>
+    <string name="plus_sign">+</string>
+    <string name="preset">Заготовка</string>
+    <string name="preset_download_parse_failed">Заготовка пошкоджена. Вона не працюватиме.</string>
+    <string name="preset_search_hint">Пошук заготовок</string>
+    <string name="preset_update">Оновити заготовку</string>
+    <string name="problem">Проблема</string>
+    <string name="progress_building_imagery_database">Створення бази даних фонів…</string>
+    <string name="progress_deleting_message">Вилучення…</string>
+    <string name="progress_download_message">Звантаження даних з сервера…</string>
+    <string name="progress_general_title">Зачекайте</string>
+    <string name="progress_message">Завантаження даних в пам’ять…</string>
+    <string name="progress_oauth">Завантаження вашого облікового запису з osm.org для OAuth-авторизації…</string>
+    <string name="progress_preset_message">Завантаження заготовок…</string>
+    <string name="progress_query_oam">Отримання даних з OAM…</string>
+    <string name="progress_running_message">Запуск…</string>
+    <string name="progress_saving_message">Збереження…</string>
+    <string name="progress_searching_message">Пошук…</string>
+    <string name="progress_title">Звантаження</string>
+    <string name="progress_uploading_message">Надсилання…</string>
+    <string name="public_holidays">Державні свята</string>
+    <string name="read">Читати</string>
+    <string name="read_introduction">Прочитати вступ</string>
+    <string name="read_upgrade">Про нову версію.</string>
+    <string name="redo">Повторити</string>
+    <string name="refresh">Перезавантажити</string>
+    <string name="regular_expression">Регулярні вирази</string>
+    <string name="relation">Зв’язок</string>
+    <string name="relation_membership">Належність до зв’язків</string>
+    <string name="relations">Зв’язки</string>
+    <string name="replace">Замінити</string>
+    <string name="retry">Повторити</string>
+    <string name="reverse_anyway">Все одно змінити напрямок</string>
+    <string name="role">Роль</string>
+    <string name="rule_header">Правило %1$s</string>
+    <string name="rule_type">Показати тип правила</string>
+    <string name="saturday_short">Сб</string>
+    <string name="save">Зберегти</string>
+    <string name="save_and_set">Зберегти та встановити</string>
+    <string name="save_file">Зберегти в</string>
+    <string name="save_template">Зберегти шаблон</string>
+    <string name="save_to_template">Зберегти шаблон</string>
+    <string name="school_holidays">Шкільні канікули</string>
+    <string name="search">Пошук</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Пошук"</string>
+    <string name="search_online">Шукати онлайн</string>
+    <string name="search_results_title">Результати пошуку</string>
+    <string name="september">Вер</string>
+    <string name="service_times_key">Розклад</string>
+    <string name="set">Встановити</string>
+    <string name="set_position_datum_label">Геодезичний датум</string>
+    <string name="share">Поширити</string>
+    <string name="share_on_openstreetmap">Поширити на OpenStreetMap</string>
+    <string name="share_position">Поділитись місцем</string>
+    <string name="show_end_offset">Показати зсув закінчення</string>
+    <string name="show_interval">Показати інтервал</string>
+    <string name="show_offset">Показати зсув</string>
+    <string name="show_start_offset">Показати зсув початка</string>
+    <string name="show_useAsWeekDay">Показати використання</string>
+    <string name="spd_ohf_cancel">Скасувати</string>
+    <string name="spd_ohf_ok">Так</string>
+    <string name="ssl_handshake_failed">Неможливо зʼєднатись з сервером OpenStreetMap через збій в передачі даних через https. Спробуйте перемикнутися на незашифроване зʼєднання в налаштуваннях API.</string>
+    <string name="start_at_midnight">Починається о півночі</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="sunday_short">Нд</string>
+    <string name="sunrise">Схід сонця</string>
+    <string name="sunset">Захід сонця</string>
+    <string name="tag_action_members_title">Член(и) виділені</string>
+    <string name="tag_action_parents_title">Зв\'язок(и) виділені</string>
+    <string name="tag_action_tag_title">Теґ(и) виділені </string>
+    <string name="tag_additional_properties">Додаткові властивості</string>
+    <string name="tag_autocomplete_name_hint">Введіть або оберіть запропоновану назву</string>
+    <string name="tag_autocomplete_value_hint">Введіть або оберіть  значення</string>
+    <string name="tag_details">Деталі</string>
+    <string name="tag_dialog_value_hint">Натисніть для вибору значень</string>
+    <string name="tag_editor_name_suggestion">Пропозиція назви</string>
+    <string name="tag_editor_name_suggestion_overwrite_message">Пропозиції можуть замінювати значення деяких теґів на більш поширені.</string>
+    <string name="tag_form_unknown_element">Невідомий елемент (заготовки відсутні)</string>
+    <string name="tag_menu_address">Додавання адреси</string>
+    <string name="tag_menu_addtorelation">Додати у зв’язок</string>
+    <string name="tag_menu_apply_preset">Застосувати найкращу заготовку</string>
+    <string name="tag_menu_bottom">Вниз</string>
+    <string name="tag_menu_delete_unassociated_tags">Вилучити непов\'язані теґи</string>
+    <string name="tag_menu_download">Завантажити</string>
+    <string name="tag_menu_exit_no_save">Вийти\nбез збереження</string>
+    <string name="tag_menu_i8n">Додати теґи для %1$s</string>
+    <string name="tag_menu_js_console">JS консоль</string>
+    <string name="tag_menu_mapfeatures">Об’єкти на мапі, документація</string>
+    <string name="tag_menu_move_bottom">В кінець</string>
+    <string name="tag_menu_move_down">Вниз</string>
+    <string name="tag_menu_move_top">На початок</string>
+    <string name="tag_menu_move_up">Вгору</string>
+    <string name="tag_menu_preset">Заготовки</string>
+    <string name="tag_menu_resetMRU">Перевстановити заготовки</string>
+    <string name="tag_menu_reset_address_prediction">Скинути прогнозування адрес</string>
+    <string name="tag_menu_revert">Відмінити</string>
+    <string name="tag_menu_sort">Впорядкувати</string>
+    <string name="tag_menu_sourcesurvey">Досліджено</string>
+    <string name="tag_menu_top">Вгору</string>
+    <string name="tag_multi_value_hint">Кілька значень</string>
+    <string name="tag_not_set">Не встановлено</string>
+    <string name="tag_restriction_add_expression">Додати вираз</string>
+    <string name="tag_restriction_add_opening_hours">Додати час роботи</string>
+    <string name="tag_restriction_add_restriction">Додати обмеження</string>
+    <string name="tag_restriction_add_simple_condition">Додати прості умови</string>
+    <string name="tag_restriction_and">та</string>
+    <string name="tag_restriction_header">Значення</string>
+    <string name="tag_restriction_value_hint">Умовні обмеження</string>
+    <string name="tag_restriction_when">коли</string>
+    <string name="tag_tap_to_edit_hint">Натисніть для редагування</string>
+    <string name="tag_value_hint">Додайте значення</string>
+    <string name="thursday_short">Чт</string>
+    <string name="ticks_15_minute">Перемикнути на 15-ти хвилинний діапазон</string>
+    <string name="ticks_1_minute">Перемикнути на 1 хвилинний діапазон</string>
+    <string name="ticks_5_minute">Перемикнути на 5-ти хвилинний діапазон</string>
+    <string name="time">Час</string>
+    <string name="time_extended_time">Час - розширений час</string>
+    <string name="time_open_end">Час-без кінця</string>
+    <string name="time_time">Час - час</string>
+    <string name="time_variable_time">Час - змін. час</string>
+    <string name="timespan_menu">Додати часовий інтервал …</string>
+    <string name="to">до</string>
+    <string name="toast_download_failed">Збій завантаження, код помилки %1$d, повідомлення %2$s</string>
+    <string name="toast_export_failed">Не вдалося експортувати</string>
+    <string name="toast_export_success">Експортовано у %1$s</string>
+    <string name="toast_file_not_found">%1$s не знайдено.</string>
+    <string name="toast_invalid_box">Хибні чи неповні межі завантаження даних</string>
+    <string name="toast_min_one_geocoder">Треба вибрати, принаймні, один геокодер!</string>
+    <string name="toast_min_one_preset">Треба вибрати, принаймні, одну заготовку!</string>
+    <string name="toast_missing_filemanager">Встановіть менеджер файлів.</string>
+    <string name="toast_needs_resurvey">Об\'єкт може бути застарілим</string>
+    <string name="toast_no_changes">Ви нічого ще не змінили…</string>
+    <string name="toast_no_coverage">%1$s не має покриття в цьому місці.</string>
+    <string name="toast_no_oauth">Немає доступної конфігурації OAuth для поточного API, вкажіть логін і пароль.</string>
+    <string name="toast_no_voice">Немає можливості розпізнавання голосу</string>
+    <string name="toast_no_voice_recognition">Можливість розпізнавання голосу відсутня</string>
+    <string name="toast_noname">Дорозі бракує назви або номера</string>
+    <string name="toast_nothing_found">Нічого не знайдено</string>
+    <string name="toast_notype">Зв’язок без типу</string>
+    <string name="toast_null_island">Будь ласка, не додавайте об\'єкти в точці з координатами 0º/0º (Null Island)</string>
+    <string name="toast_oauth">Дозвольте OAuth-доступ до свого облікового запису OSM.</string>
+    <string name="toast_oauth_not_enabled">OAuth не включений у поточному API.</string>
+    <string name="toast_oauth_retry">Спробуйте надіслати дані ще раз після надання доступу до ваших облікових даних OSM через  OAuth.</string>
+    <string name="toast_outside_of_download">Завантажте більше даних для цієї ділянки.</string>
+    <string name="toast_photo_indexing_finished">Закінчено пошук геоприв’язаних світлин</string>
+    <string name="toast_photo_indexing_started">Розпочато пошук геоприв’язаних світлин</string>
+    <string name="toast_save_done">Збережено</string>
+    <string name="toast_save_failed">Не вдалося зберегти</string>
+    <string name="toast_state_file_failed">Не читається або пошкоджений файл стану</string>
+    <string name="toast_statesave_failed">Збій збереження поточного стану!\nЦе фатальна помилка, намагаюсь експортувати дані в файл для подальшого його відкриття в JOSM.</string>
+    <string name="toast_timeout">Таймаут з’єднання з сервером</string>
+    <string name="toast_unconnected_end_node">Точка поруч з елементом до якого вона може бути приєднана.</string>
+    <string name="toast_unlock_to_edit">Розблокуйте для редагування</string>
+    <string name="toast_unsaved_changes">Спочатку надішліть ваші не збережені зміни.</string>
+    <string name="toast_unsurveyed_road">Неперевірені дороги</string>
+    <string name="toast_untagged_relation">Звʼязок без теґів</string>
+    <string name="toast_untagged_way">Лінія без теґів</string>
+    <string name="toast_upload_success">Завантажено на сервер OSM.</string>
+    <string name="toast_used_backup">Файл стану пошкоджений, використовую резервний!</string>
+    <string name="toast_used_bug_backup">Файл стану помилок пошкоджений, використовую резервний!</string>
+    <string name="transfer_download_current_back">Назад (нічого не робити)</string>
+    <string name="transfer_download_current_dialog_message">Ви внесли зміни. Бажаєте надіслати їх замість того, щоб відкинути їх?</string>
+    <string name="transfer_download_current_dialog_title">Увага!</string>
+    <string name="transfer_download_current_download">Скасувати й звантажити</string>
+    <string name="transfer_download_current_upload">Надіслати на сервер</string>
+    <string name="tuesday_short">Вт</string>
+    <string name="twentyfourseven">24 години, 7 днів на тиждень</string>
+    <string name="type">Тип</string>
+    <string name="ugly_checkgroup_hint">%1$s, …</string>
+    <string name="undo">Відмінити</string>
+    <string name="undo_nothing">немає змін для відміни</string>
+    <string name="unknown">невідомо</string>
+    <string name="unknown_error_level">Рівень помилки не визначено</string>
+    <string name="unknown_error_message">Код помилки, отриманий від API або повідомлення, не може бути оброблений.&lt;br>&lt;br></string>
+    <string name="unknown_error_title">Невідома помилка</string>
+    <string name="unsaved_data_message">Ваші незбережені зміни будуть втрачені якщо Ви продовжите.</string>
+    <string name="unsaved_data_proceed">Скасувати й продовжити</string>
+    <string name="unsaved_data_title">Увага!</string>
+    <string name="update_template">Оновити також значення шаблона?</string>
+    <string name="upgrade_message">Нові функції та можливості описані в нотатках до випуску.</string>
+    <string name="upgrade_title">Це нова версія Веспуччі</string>
+    <string name="upload_close_changeset_label">Закрити набір змін: </string>
+    <string name="upload_comment_label">Коментар: </string>
+    <string name="upload_conflict_message_already_deleted">%1$s \nвже вилучено на сервері</string>
+    <string name="upload_conflict_message_deleted">%1$s \nмає локальну версію %2$d \nта вилучено на сервері</string>
+    <string name="upload_conflict_message_referential">%1$s\nбуло вилучено локально\nале має залежності на сервері</string>
+    <string name="upload_conflict_message_version">%1$s \nмає локальну версію %2$d \nта версію на сервері %3$d </string>
+    <string name="upload_conflict_title">Конфлікт надсилання</string>
+    <string name="upload_gpx_description_label">Опис</string>
+    <string name="upload_gpx_tags_label">Теґи</string>
+    <string name="upload_gpx_visibility_label">Видимість</string>
+    <string name="upload_problem_message">Частина або всі дані не були надіслані. Спробуйте ще раз.</string>
+    <string name="upload_problem_title">Не вдалося надіслати</string>
+    <string name="upload_request_review_label">Запросити перевірку:</string>
+    <string name="upload_source_label">Джерело: </string>
+    <string name="upload_validation_error_empty_comment">Коментар не має бути порожнім</string>
+    <string name="upload_validation_error_empty_source">Джерело не має бути порожнім</string>
+    <string name="url">URL</string>
+    <string name="urldialog_add_api">Додати API</string>
+    <string name="urldialog_add_geocoder">Додати геокодер</string>
+    <string name="urldialog_add_preset">Додати заготовку</string>
+    <string name="urldialog_api_exists">API з цим URL вже є. Тим не менш, ви можете додати ще один (наприклад, для спрощення перемикання між обліковими записами).</string>
+    <string name="urldialog_nodata_text">Конфігураційний URL не містить коректних даних.</string>
+    <string name="urldialog_preset_exists">Ця заготовка вже існує</string>
+    <string name="use_as_weekday">Використовувати як робочі дні</string>
+    <string name="use_local_version">Використовувати локальну версію</string>
+    <string name="use_server_version">Використовувати версію з сервера</string>
+    <string name="validator_title">Правила валідації %1$s</string>
+    <string name="value">значення</string>
+    <string name="value_too_long">Довжина значення теґу %1$d, що більше ніж максимум у 255.\n\nСпростіть його перед збереженням!</string>
+    <string name="variable_date_date">Змінна дата - дата</string>
+    <string name="variable_date_occurrence">Змінна дата - кількість разів на місяць</string>
+    <string name="variable_date_open_end">Змінна дата - без кінця</string>
+    <string name="variable_date_variable_date">Змінна дата - змінна дата</string>
+    <string name="variable_time">Змінний час</string>
+    <string name="variable_time_extended_time">Змін. час - розширений час</string>
+    <string name="variable_time_open_end">Змінний час-без кінця</string>
+    <string name="variable_time_time">Змін. час - час</string>
+    <string name="variable_time_variable_time">Змін. час - змін. час</string>
+    <string name="version">Версія</string>
+    <string name="warning">Попередження</string>
+    <string name="waypoint_description">WPT: %1$s</string>
+    <string name="wednesday_short">Ср</string>
+    <string name="week_day_range">Додати діапазон днів тижня</string>
+    <string name="week_range">Діапазон тижнів</string>
+    <string name="weekdays">Робочі дні</string>
+    <string name="weekdays_with_lunch">Робочі дні з перервою на обід</string>
+    <string name="weeks">Тижні</string>
+    <string name="welcome_message">Дякуємо вам за вибір Веспуччі.\n&lt;br>&lt;br>Перед тим як розпочати вам потрібно знати три речі:\n&lt;ul>&lt;li>натискання на позначку замка у лівому куті зверху вмикає та вимикає режим редагування,&lt;/li>&lt;li>для внесення змін в  OpenStreetMap вам треба завантажити дані для обраної ділянки (наблизьтесь до неї спершу ніж робити це),&lt;/li>&lt;li>для додавання об\'єктів: натисніть на велику зелену кнопку та оберіть, що ви бажаєте додати, тицьніть у місце куди ви бажаєте додати новий об\'єкт.&lt;/li>&lt;/ul>\nТепер ви готові розпочати. Вперед, отримуйте від цього задоволення!</string>
+    <string name="welcome_message_fullscreen">\n&lt;br>&lt;br>Ваш пристрій має віртуальні кнопки, що не показуються зараз на екрані, проведіть пальцем вгору від нижнього краю екрану щоб побачити їх.</string>
+    <string name="welcome_title">Ласкаво просимо!</string>
+    <string name="with_offsets">Із сувом…</string>
+    <string name="would_overwrite_invalid_value">Неможливо додати правило до помилкового рядка opening hours. Виправте або вилучіть його!</string>
+    <string name="wrong_login_data_message">Якщо Ви використовуєте OAuth, вам потрібно ре-автентифікуватись.  Якщо Ви використовуєте логін і пароль (не рекомендується), перевірте, що вони введені коректно.</string>
+    <string name="wrong_login_data_re_authenticate">Ре-автентифікуватись</string>
+    <string name="wrong_login_data_title">Помилка автентифікації</string>
+    <string name="year_range">Діапазон років</string>
+    <string name="years">Роки</string>
+    <string name="yes">Так</string>
+</resources>

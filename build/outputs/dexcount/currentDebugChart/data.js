@@ -1,6 +1,6 @@
 var data = {
   "name": "",
-  "methods": 52149,
+  "methods": 52150,
   "fields": 39258,
   "children": [
     {
@@ -20518,17 +20518,17 @@ var data = {
     },
     {
       "name": "de",
-      "methods": 8755,
+      "methods": 8756,
       "fields": 10702,
       "children": [
         {
           "name": "blau",
-          "methods": 8717,
+          "methods": 8718,
           "fields": 10690,
           "children": [
             {
               "name": "android",
-              "methods": 8717,
+              "methods": 8718,
               "fields": 10690,
               "children": [
                 {
@@ -20707,7 +20707,7 @@ var data = {
                 },
                 {
                   "name": "Logic",
-                  "methods": 223,
+                  "methods": 224,
                   "fields": 47,
                   "children": []
                 },

@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="address_tags_entries">
+    <item>Número de porta (addr:housenumber)</item>
+    <item>Logradouro (addr:street)</item>
+    <item>CEP (addr:postcode)</item>
+    <item>Cidade/Município (addr:city)</item>
+    <item>País (addr:country)</item>
+    <item>Endereço completo (addr:full)</item>
+    <item>Local (addr:place)</item>
+    <item>Vilarejo (addr:hamlet)</item>
+    <item>Bairro (addr:suburb)</item>
+    <item>Sub-bairro (addr:subdistrict)</item>
+    <item>Distrito (addr:district)</item>
+    <item>Província (addr:province)</item>
+    <item>Estado (addr:state)</item>
+    <item>Quarto (addr:flats)</item>
+    <item>Porta (addr:door)</item>
+    <item>Unidade (addr:unit)</item>
+  </string-array>
+    <string-array name="gpx_visibility">
+    <item>privado</item>
+    <item>público</item>
+    <item>rastreável</item>
+    <item>identificável</item>
+  </string-array>
+    <array name="help_files" translatable="false">
+        <item>Introduction</item>
+        <item>Main map display</item>
+        <item>Simple actions</item>
+        <item>Property editor</item>
+        <item>Node selected</item>
+    	<item>Way selected</item>
+    	<item>Relation selected</item>
+    	<item>Multiselect</item>
+    	<item>Creating new objects</item>
+        <item>Preferences</item>
+        <item>Advanced preferences</item>
+    	<item>Presets</item>	
+    	<item>Aligning background imagery</item>
+    	<item>Conflict resolution</item>
+    	<item>GPS sources</item>
+    	<item>Keyboard</item>
+    	<item>Tag filter</item>
+    	<item>Preset filter</item>
+    	<item>Opening hours</item>
+        <item>New Note selected</item>
+        <item>Voice commands</item>
+        <item>13.0.0 Release notes</item>
+        <item>12.1.0 Release notes</item>
+        <item>12.0.0 Release notes</item>
+        <item>11.2.0 Release notes</item>
+        <item>11.1.0 Release notes</item>
+        <item>11.0.0 Release notes</item>
+        <item>10.2.0 Release notes</item>
+    	<item>10.1.0 Release notes</item>
+    	<item>10.0.0 Release notes</item>
+    	<item>0.9.9 Release notes</item>
+    	<item>0.9.8 Release notes</item>
+    	<item>0.9.7 Release notes</item>
+    	<item>0.9.6 Release notes</item>
+        <item>Privacy</item>
+    </array>
+    <array name="help_tableofcontents" translatable="false">
+        <item>@string/help_introduction</item>
+        <item>@string/help_main</item>
+        <item>@string/help_simple_actions</item>
+        <item>@string/help_propertyeditor</item>
+        <item>@string/help_nodeselection</item>
+    	<item>@string/help_wayselection</item>
+    	<item>@string/help_relationselection</item>
+    	<item>@string/help_multiselect</item>
+    	<item>@string/help_longclick</item>
+        <item>@string/help_preferences</item>
+        <item>@string/help_advanced_preferences</item>
+    	<item>@string/help_presets</item>	
+    	<item>@string/help_aligningbackgroundiamgery</item>
+    	<item>@string/help_conflictresolution</item>
+    	<item>@string/help_gpssources</item>
+    	<item>@string/help_keyboard</item>
+    	<item>@string/help_tagfilter</item>
+    	<item>@string/help_presetfilter</item>
+    	<item>@string/help_opening_hours</item>
+        <item>@string/help_newnoteselection</item>
+        <item>@string/help_voice_commands</item>
+    	<item>@string/help_upgrade</item>
+        <item>@string/help_upgrade_121</item>
+        <item>@string/help_upgrade_120</item>
+        <item>@string/help_upgrade_112</item>
+        <item>@string/help_upgrade_111</item>
+        <item>@string/help_upgrade_110</item>
+        <item>@string/help_upgrade_102</item>
+        <item>@string/help_upgrade_101</item>
+    	<item>@string/help_upgrade_100</item>
+    	<item>@string/help_upgrade_099</item>
+    	<item>@string/help_upgrade_098</item>
+    	<item>@string/help_upgrade_097</item>
+    	<item>@string/help_upgrade_096</item>
+        <item>@string/help_privacy</item>
+    </array>
+    <string-array name="scale_entries">
+    <item>Nenhum</item>
+    <item>Régua (métrico)</item>
+    <item>Grade (métrico)</item>
+    <item>Régua (imperial)</item>
+    <item>Grade (imperial)</item>
+  </string-array>
+    <string name="Done">Feito</string>
+    <string name="End">End</string>
+    <string name="Key">Chave</string>
+    <string name="No">Não</string>
+    <string name="Save">Salvar</string>
+    <string name="Start">Início</string>
+    <string name="Value">Valor</string>
+    <string name="Yes">Sim</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Selecione um app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESATIVAR"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ATIVAR"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Pesquisar..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Compartilhar com <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string name="actionmode_createpath">Criando caminho</string>
+    <string name="actionmode_multiselect">Multi seleção</string>
+    <string name="actionmode_nodeselect">Nó selecionado</string>
+    <string name="actionmode_relationselect">Relação selecionada</string>
+    <string name="actionmode_wayselect">Via selecionada</string>
+    <string name="add">Adicionar</string>
+    <string name="add_rule">Adicionar regra</string>
+    <string name="add_rule_247">Adicionar regra para 24/7</string>
+    <string name="add_rule_closed_on_holidays">Adicionar regra para feriados</string>
+    <string name="additive_rule">Aditivo</string>
+    <string name="after">depois</string>
+    <string name="all_keys">Tudo</string>
+    <string name="api">API</string>
+    <string name="api_url">URL da API</string>
+    <string name="apply">Aplicar</string>
+    <string name="april">Abr</string>
+    <string name="august">Ago</string>
+    <string name="back">Voltar</string>
+    <string name="before">antes</string>
+    <string name="cancel">Cancelar</string>
+    <string name="clear">Excluir tudo</string>
+    <string name="closed">Fechado</string>
+    <string name="collection_times_key">Tempos de coleta</string>
+    <string name="comment">Comentário</string>
+    <string name="config_advancedprefs">Preferências avançadas</string>
+    <string name="config_api_url_title">URL da API</string>
+    <string name="config_apibutton_title">URL da API OSM</string>
+    <string name="config_backgroundLayer_title">Mapa de fundo</string>
+    <string name="config_category_info">Sobre</string>
+    <string name="config_debugbutton_title">Debug</string>
+    <string name="config_enableKeepScreenOn_title">Manter a tela ligada</string>
+    <string name="config_generateAlerts_summary">Gerar notificações para dados com problemas ou notas</string>
+    <string name="config_generateAlerts_title">Gerar notificações</string>
+    <string name="config_maxStrokeWidth_title">Largura máxima da linha</string>
+    <string name="config_overlayLayer_title">Mapa sobreposto</string>
+    <string name="config_presetbutton_title">Pré-definições</string>
+    <string name="config_showStats_title">Mostrar estatísticas</string>
+    <string name="config_showTolerance_title">Mostrar tolerância</string>
+    <string name="date">Data</string>
+    <string name="dawn">Alvorada</string>
+    <string name="december">Dez</string>
+    <string name="default_">Padrão</string>
+    <string name="default_legend">Padrão:</string>
+    <string name="delete">Apagar</string>
+    <string name="deletenode">Apagar nó</string>
+    <string name="deleterelation">Apagar relação</string>
+    <string name="duplicate_rule">Duplicado</string>
+    <string name="dusk">Crepúsculo</string>
+    <string name="easter">Páscoa</string>
+    <string name="edit">Editar</string>
+    <string name="edit_template">Editar modelo</string>
+    <string name="exit_text">Tem certeza que deseja sair?</string>
+    <string name="february">Fev</string>
+    <string name="forward">Igual à direção da linha</string>
+    <string name="friday_short">Sex</string>
+    <string name="group_header">Grupo%1$s</string>
+    <string name="help_addrelationmember">Relação selecionada</string>
+    <string name="help_multiselect">Multi-Seleção</string>
+    <string name="help_nodeselection">Nó selecionado</string>
+    <string name="help_presets">Pré-definições</string>
+    <string name="help_relationselection">Relação selecionada</string>
+    <string name="help_wayselection">Via selecionada</string>
+    <string name="imagery_offset_author">Autor</string>
+    <string name="imagery_offset_date">Criado</string>
+    <string name="imagery_offset_description">Descrição</string>
+    <string name="imagery_offset_distance">Distância</string>
+    <string name="imagery_offset_zoom">Zoom</string>
+    <string name="interval_minutes">Intervalo (minutos)</string>
+    <string name="interval_weeks">Intervalo (semanas)</string>
+    <string name="interval_years">Intervalo (anos)</string>
+    <string name="is_default">%1$s (padrão)</string>
+    <string name="january">Jan</string>
+    <string name="july">Jul</string>
+    <string name="june">Jun</string>
+    <string name="keep">Manter</string>
+    <string name="key">chave</string>
+    <string name="key_legend">Chave:</string>
+    <string name="length_m">Comprimento (m)</string>
+    <string name="link_mapfeatures">http://wiki.openstreetmap.org/wiki/Pt-br:Map_Features</string>
+    <string name="load_template">Carregar modelo</string>
+    <string name="load_templates_title">Carregar modelos</string>
+    <string name="location_default_radius">300m</string>
+    <string name="location_lat_label">Lat:</string>
+    <string name="location_load_button">Carregar</string>
+    <string name="location_load_dismiss">Ir para o mapa</string>
+    <string name="location_lon_label">Lon:</string>
+    <string name="location_search_label">Procurar:</string>
+    <string name="locked">Bloqueado</string>
+    <string name="manage_templates">Gerenciar modelos</string>
+    <string name="manage_templates_title">Gerenciar modelos</string>
+    <string name="march">Mar</string>
+    <string name="may">Mai</string>
+    <string name="members">Membros</string>
+    <string name="membership_relation_heading">Membro da relação</string>
+    <string name="menu_add">Novo</string>
+    <string name="menu_add_relation_member">Adicionar membro</string>
+    <string name="menu_camera">Câmera</string>
+    <string name="menu_circulize">Arrumar em círculo</string>
+    <string name="menu_config">Preferências</string>
+    <string name="menu_copy">Copiar</string>
+    <string name="menu_cut">Recortar</string>
+    <string name="menu_easyedit">EasyEdit</string>
+    <string name="menu_edit">Editar</string>
+    <string name="menu_erase">Apagar nó</string>
+    <string name="menu_find">Encontrar</string>
+    <string name="menu_gps_show">Mostrar localização</string>
+    <string name="menu_help">Ajuda</string>
+    <string name="menu_history">Histórico</string>
+    <string name="menu_information">Info</string>
+    <string name="menu_join">Unir</string>
+    <string name="menu_merge">Unir</string>
+    <string name="menu_move">Mover</string>
+    <string name="menu_paste">Colar</string>
+    <string name="menu_paste_from_clipboard">Colar da área de transferência</string>
+    <string name="menu_relation">Criar relação</string>
+    <string name="menu_reverse">Inverter</string>
+    <string name="menu_rotate">Girar</string>
+    <string name="menu_select_relation_members">Selecionar membros</string>
+    <string name="menu_set_position">Posição</string>
+    <string name="menu_split">Dividir</string>
+    <string name="menu_tag">Editar tags</string>
+    <string name="menu_tags">Propriedades</string>
+    <string name="menu_tools_background_align">Alinhar fundo de tela</string>
+    <string name="menu_tools_background_align_reset">Redefinir</string>
+    <string name="menu_tools_background_align_zero">Zero</string>
+    <string name="menu_tools_background_contrast">Contraste</string>
+    <string name="menu_tools_background_properties">Propriedades das imagens de fundo</string>
+    <string name="menu_transfer">Transferir...</string>
+    <string name="menu_transfer_download_current">Baixar vista atual</string>
+    <string name="menu_unjoin">Desunir</string>
+    <string name="menu_up">Para cima</string>
+    <string name="mode_correct">Modo-C</string>
+    <string name="mode_easy">Normal</string>
+    <string name="mode_indoor">Interior</string>
+    <string name="mode_tag_only">Apenas etiqueta</string>
+    <string name="modifier">Modificador</string>
+    <string name="monday_short">Seg</string>
+    <string name="name">Nome</string>
+    <string name="name_legend">Nome:</string>
+    <string name="next">Próximo</string>
+    <string name="no">Não</string>
+    <string name="nodes">Nós</string>
+    <string name="normal_rule">Normal</string>
+    <string name="november">Nov</string>
+    <string name="object">Objeto</string>
+    <string name="october">Out</string>
+    <string name="open">aberto</string>
+    <string name="opening_hours_key">Horário</string>
+    <string name="openstreetbug_comment_label">Comentário:</string>
+    <string name="problem">Problema</string>
+    <string name="progress_deleting_message">Deletando...</string>
+    <string name="progress_download_message">Baixando dados do servidor...</string>
+    <string name="progress_general_title">Por favor aguarde</string>
+    <string name="progress_message">Carregando dados na memória...</string>
+    <string name="progress_saving_message">Salvando...</string>
+    <string name="progress_searching_message">Buscando...</string>
+    <string name="progress_title">Carregando</string>
+    <string name="public_holidays">Feriados públicos</string>
+    <string name="read_upgrade">Leia sobre a nova versão</string>
+    <string name="redo">Refazer</string>
+    <string name="relation">Relação</string>
+    <string name="relations">Relações</string>
+    <string name="replace">Substituir</string>
+    <string name="role">Papel</string>
+    <string name="rule_header">Regra%1$s</string>
+    <string name="saturday_short">Sáb</string>
+    <string name="save">Salvar</string>
+    <string name="save_template">Salvar modelo</string>
+    <string name="save_to_template">Salvar para modelo</string>
+    <string name="school_holidays">Feriados escolares</string>
+    <string name="search">Procurar</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Pesquisar"</string>
+    <string name="september">Set</string>
+    <string name="set">Definir</string>
+    <string name="spd_ohf_cancel">Cancelar</string>
+    <string name="spd_ohf_ok">OK</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="sunday_short">Dom</string>
+    <string name="sunrise">Nascer do sol</string>
+    <string name="sunset">Pôr do sol</string>
+    <string name="tag_details">Detalhes</string>
+    <string name="tag_menu_address">Adicionar tags de endereço</string>
+    <string name="tag_menu_preset">Pré-definições</string>
+    <string name="tag_restriction_header">Valor</string>
+    <string name="thursday_short">Qui</string>
+    <string name="to">até</string>
+    <string name="toast_export_success">Exportado para %1$s</string>
+    <string name="toast_nothing_found">Nada encontrado</string>
+    <string name="toast_unlock_to_edit">Desbloqueie para editar</string>
+    <string name="transfer_download_current_dialog_title">Cuidado!</string>
+    <string name="transfer_download_current_download">Descartar e baixar</string>
+    <string name="transfer_download_current_upload">Upload</string>
+    <string name="tuesday_short">Ter</string>
+    <string name="twentyfourseven">24 horas, 7 dias por semana</string>
+    <string name="type">Tipo</string>
+    <string name="undo">Desfazer</string>
+    <string name="undo_nothing">nada para desfazer</string>
+    <string name="unknown">desconhecido</string>
+    <string name="unsaved_data_title">Cuidado!</string>
+    <string name="upload_comment_label">Comentário:</string>
+    <string name="upload_conflict_title">Conflito no upload</string>
+    <string name="upload_gpx_description_label">Descrição</string>
+    <string name="upload_gpx_tags_label">Tags</string>
+    <string name="upload_gpx_visibility_label">Visibilidade</string>
+    <string name="upload_source_label">Fonte:</string>
+    <string name="url">URL</string>
+    <string name="use_local_version">Usar versão local</string>
+    <string name="use_server_version">Usar versão no servidor</string>
+    <string name="value">valor</string>
+    <string name="version">Versão</string>
+    <string name="wednesday_short">Qua</string>
+    <string name="weeks">Semanas</string>
+    <string name="years">Anos</string>
+    <string name="yes">Sim</string>
+</resources>

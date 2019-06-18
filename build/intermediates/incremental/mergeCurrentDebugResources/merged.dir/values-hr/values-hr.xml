@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <array name="help_files" translatable="false">
+        <item>Introduction</item>
+        <item>Main map display</item>
+        <item>Simple actions</item>
+        <item>Property editor</item>
+        <item>Node selected</item>
+    	<item>Way selected</item>
+    	<item>Relation selected</item>
+    	<item>Multiselect</item>
+    	<item>Creating new objects</item>
+        <item>Preferences</item>
+        <item>Advanced preferences</item>
+    	<item>Presets</item>	
+    	<item>Aligning background imagery</item>
+    	<item>Conflict resolution</item>
+    	<item>GPS sources</item>
+    	<item>Keyboard</item>
+    	<item>Tag filter</item>
+    	<item>Preset filter</item>
+    	<item>Opening hours</item>
+        <item>New Note selected</item>
+        <item>Voice commands</item>
+        <item>13.0.0 Release notes</item>
+        <item>12.1.0 Release notes</item>
+        <item>12.0.0 Release notes</item>
+        <item>11.2.0 Release notes</item>
+        <item>11.1.0 Release notes</item>
+        <item>11.0.0 Release notes</item>
+        <item>10.2.0 Release notes</item>
+    	<item>10.1.0 Release notes</item>
+    	<item>10.0.0 Release notes</item>
+    	<item>0.9.9 Release notes</item>
+    	<item>0.9.8 Release notes</item>
+    	<item>0.9.7 Release notes</item>
+    	<item>0.9.6 Release notes</item>
+        <item>Privacy</item>
+    </array>
+    <array name="help_tableofcontents" translatable="false">
+        <item>@string/help_introduction</item>
+        <item>@string/help_main</item>
+        <item>@string/help_simple_actions</item>
+        <item>@string/help_propertyeditor</item>
+        <item>@string/help_nodeselection</item>
+    	<item>@string/help_wayselection</item>
+    	<item>@string/help_relationselection</item>
+    	<item>@string/help_multiselect</item>
+    	<item>@string/help_longclick</item>
+        <item>@string/help_preferences</item>
+        <item>@string/help_advanced_preferences</item>
+    	<item>@string/help_presets</item>	
+    	<item>@string/help_aligningbackgroundiamgery</item>
+    	<item>@string/help_conflictresolution</item>
+    	<item>@string/help_gpssources</item>
+    	<item>@string/help_keyboard</item>
+    	<item>@string/help_tagfilter</item>
+    	<item>@string/help_presetfilter</item>
+    	<item>@string/help_opening_hours</item>
+        <item>@string/help_newnoteselection</item>
+        <item>@string/help_voice_commands</item>
+    	<item>@string/help_upgrade</item>
+        <item>@string/help_upgrade_121</item>
+        <item>@string/help_upgrade_120</item>
+        <item>@string/help_upgrade_112</item>
+        <item>@string/help_upgrade_111</item>
+        <item>@string/help_upgrade_110</item>
+        <item>@string/help_upgrade_102</item>
+        <item>@string/help_upgrade_101</item>
+    	<item>@string/help_upgrade_100</item>
+    	<item>@string/help_upgrade_099</item>
+    	<item>@string/help_upgrade_098</item>
+    	<item>@string/help_upgrade_097</item>
+    	<item>@string/help_upgrade_096</item>
+        <item>@string/help_privacy</item>
+    </array>
+    <string name="End">End</string>
+    <string name="No">Ne</string>
+    <string name="Save">Spremi</string>
+    <string name="Yes">Da</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Idi na početnu"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Idi gore"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Dodatne opcije"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Prikaži sve"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Odabir aplikacije"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ISKLJUČENO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"UKLJUČENO"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Pretražite…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Izbriši upit"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Upit za pretraživanje"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pretraživanje"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Pošalji upit"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Glasovno pretraživanje"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dijeljenje sa"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Dijeli putem aplikacije <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sažmi"</string>
+    <string name="actionmode_createpath">Stvaranje linije</string>
+    <string name="actionmode_nodeselect">Odabrana točka</string>
+    <string name="actionmode_relationselect">Relacija odabrana</string>
+    <string name="actionmode_wayselect">Odabrana linija</string>
+    <string name="add">Dodaj</string>
+    <string name="all_keys">Svi</string>
+    <string name="cancel">Odustani</string>
+    <string name="changes_changed">\"%1$s\" promjenjeno</string>
+    <string name="changes_created">\"%1$s\" stvoreno</string>
+    <string name="changes_deleted">\"%1$s\" obrisano</string>
+    <string name="closed">Zatvoren</string>
+    <string name="comment">Komentar</string>
+    <string name="config_advancedprefs">Napredne postavke</string>
+    <string name="config_backgroundLayer_title">Karta u pozadini</string>
+    <string name="config_category_info">Više o</string>
+    <string name="config_debugbutton_title">Debug</string>
+    <string name="config_enablePhotoLayer_summary">Prikaži geo-referencirane fotke.</string>
+    <string name="config_iconbutton_title">Prikaži ikone točaka</string>
+    <string name="config_loginbutton_title">Korisnički račun</string>
+    <string name="config_maxStrokeWidth_title">Maksimalna širina linije</string>
+    <string name="config_showStats_title">Statistika</string>
+    <string name="config_showTolerance_title">Površina tolerancije</string>
+    <string name="default_">Predefinirano</string>
+    <string name="delete">Obriši</string>
+    <string name="delete_from_relation_description">Spremate se obrisati ovaj element iz relacije</string>
+    <string name="deletenode">Obriši točku</string>
+    <string name="deleterelation">Obriši relaciju</string>
+    <string name="edit">Uredi</string>
+    <string name="exit_text">Jeste li sigurni da želite izaći?</string>
+    <string name="help_addrelationmember">Relacija odabrana</string>
+    <string name="help_nodeselection">Odabrana točka</string>
+    <string name="help_relationselection">Relacija odabrana</string>
+    <string name="help_wayselection">Odabrana linija</string>
+    <string name="imagery_offset_author">Autor</string>
+    <string name="imagery_offset_date">Stvoreno</string>
+    <string name="imagery_offset_description">Opis</string>
+    <string name="imagery_offset_distance">Daljina</string>
+    <string name="imagery_offset_not_found">Pomaci pozadine nisu pronađeni unutar 10 km!</string>
+    <string name="imagery_offset_offset">Pomak</string>
+    <string name="key">oznaka</string>
+    <string name="link_mapfeatures">http://wiki.openstreetmap.org/index.php/Map_Features</string>
+    <string name="location_choose_radius">Odaberi veličinu površine:</string>
+    <string name="location_coordinates_text">Iz koordinata:</string>
+    <string name="location_current_text">Trenutna pozicija: nepoznata</string>
+    <string name="location_current_text_parameterized">Trenutna pozicija: %1$s</string>
+    <string name="location_default_radius">300m</string>
+    <string name="location_last_text">Zadnja poznata pozicija:</string>
+    <string name="location_last_text_parameterized">Zadnja poznata pozicija: %1$s</string>
+    <string name="location_lat_label">Lat:</string>
+    <string name="location_load_button">Učitaj</string>
+    <string name="location_lon_label">Lon:</string>
+    <string name="location_search_label">Traži:</string>
+    <string name="locked">Zaključano</string>
+    <string name="menu_add">Novo</string>
+    <string name="menu_append">Nastavi</string>
+    <string name="menu_config">Postavke</string>
+    <string name="menu_copy">Kopiraj</string>
+    <string name="menu_cut">Izreži</string>
+    <string name="menu_easyedit">MultiAlat</string>
+    <string name="menu_edit">Promijeni</string>
+    <string name="menu_erase">Obriši točku</string>
+    <string name="menu_gps_show">Prikaži lokaciju</string>
+    <string name="menu_help">Pomoć</string>
+    <string name="menu_history">Povijest</string>
+    <string name="menu_join">Spoji</string>
+    <string name="menu_merge">Spoji</string>
+    <string name="menu_move">Pomakni</string>
+    <string name="menu_paste">Zalijepi</string>
+    <string name="menu_relation">Stvori relaciju</string>
+    <string name="menu_reverse">Obrni smjer</string>
+    <string name="menu_rotate">Rotiraj</string>
+    <string name="menu_split">Podijeli put</string>
+    <string name="menu_tag">Uredi oznake</string>
+    <string name="menu_tools_background_align_reset">Resetiraj</string>
+    <string name="menu_tools_background_properties">Opcije pozadine</string>
+    <string name="menu_transfer">Prijenos…</string>
+    <string name="menu_transfer_download_current">Skini trenutni pogled</string>
+    <string name="menu_transfer_download_current_add">Dodaj trenutni pogled skinutim</string>
+    <string name="menu_transfer_upload">Spremi na OSM poslužitelj</string>
+    <string name="menu_unjoin">Odspoji</string>
+    <string name="menu_up">Gore</string>
+    <string name="name">Ime</string>
+    <string name="no">Ne</string>
+    <string name="object">Objekt</string>
+    <string name="openstreetbug_comment_label">Komentar:</string>
+    <string name="progress_deleting_message">Brisanje...</string>
+    <string name="progress_download_message">Skidanje podataka sa poslužitelja…</string>
+    <string name="progress_general_title">Molim pričekajte</string>
+    <string name="progress_message">Učitavanje podataka u memoriju…</string>
+    <string name="progress_saving_message">Spremanje...</string>
+    <string name="progress_searching_message">Traženje...</string>
+    <string name="progress_title">Učitavanje</string>
+    <string name="redo">Ponovi</string>
+    <string name="relation">Relacija</string>
+    <string name="replace">Zamjeni</string>
+    <string name="reverse_anyway">Svejedno promjeni smjer</string>
+    <string name="role">Rola</string>
+    <string name="save">Spremi</string>
+    <string name="search">Pretraži</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Pretraživanje"</string>
+    <string name="search_results_title">Rezultati traženja</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tag_details">Detalji</string>
+    <string name="tag_menu_addtorelation">Dodaj relaciji</string>
+    <string name="tag_menu_revert">Vrati</string>
+    <string name="tag_restriction_add_restriction">Dodaj zabranu</string>
+    <string name="toast_export_success">Izvezeno u %1$s</string>
+    <string name="toast_no_changes">Još niste ništa promjenili…</string>
+    <string name="toast_nothing_found">Ništa nije nađeno</string>
+    <string name="toast_unlock_to_edit">Otključaj za uređivanje</string>
+    <string name="transfer_download_current_dialog_title">Oprez!</string>
+    <string name="transfer_download_current_download">Obriši i skini nove</string>
+    <string name="transfer_download_current_upload">Spremi</string>
+    <string name="type">Tip</string>
+    <string name="undo">Opovrgni</string>
+    <string name="undo_nothing">nema se što opovrgnuti</string>
+    <string name="unknown">nepoznato</string>
+    <string name="unsaved_data_proceed">Odbaci i nastavi</string>
+    <string name="unsaved_data_title">Oprez!</string>
+    <string name="upload_close_changeset_label">Zatvaranje changeseta:</string>
+    <string name="upload_comment_label">Komentar:</string>
+    <string name="upload_conflict_title">Konflikt u podacima</string>
+    <string name="upload_gpx_description_label">Opis</string>
+    <string name="upload_gpx_tags_label">Oznake</string>
+    <string name="upload_source_label">Izvor:</string>
+    <string name="url">URL</string>
+    <string name="use_local_version">Koristi lokalnu verziju</string>
+    <string name="use_server_version">Koristi verziju sa poslužitelja</string>
+    <string name="value">vrijednost</string>
+    <string name="yes">Da</string>
+</resources>

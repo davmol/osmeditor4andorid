@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/david/Code/android/osmeditor4android-master/build/intermediates/incremental/mergeCurrentDebugResources/merged.dir/values-ro/values-ro.xml",
+            "outputFile": "/Users/david/Code/android/osmeditor4android/build/intermediates/incremental/mergeCurrentDebugResources/merged.dir/values-ro/values-ro.xml",
             "map": [
                 {
                     "source": "/Users/david/.gradle/caches/transforms-1/files-1.1/OpeningHoursFragment-0.5.7.aar/1600d3a3a6191ea58b2cec6bc52368ef/res/values-ro/values-ro.xml",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/Users/david/Code/android/osmeditor4android-master/src/main/res/values-ro/strings.xml",
+                    "source": "/Users/david/Code/android/osmeditor4android/src/main/res/values-ro/strings.xml",
                     "from": {
                         "startLines": "152,71,69,17,18,16,132,131,135,142,145,138,156,154,153,78,75,31,32,30,34,33,80,82,86,92,89,91,87,88,90,93,96,97,94,95,101,106,107,114,102,112,100,108,103,124,111,125,99,126,113,104,105,118,119,115,109,110,84,3,155,70,68,169,25,159,12,10,11,9,14,13,8,167,73,166,74,38,36,72,83,63,62,64,5,7,6,168,28,27,19,22,23,20,81,40,67",
                         "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",

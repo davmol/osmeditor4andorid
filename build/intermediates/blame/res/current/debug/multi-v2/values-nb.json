@@ -1,27 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/david/Code/android/osmeditor4android-master/build/intermediates/incremental/mergeCurrentDebugResources/merged.dir/values-nb/values-nb.xml",
+            "outputFile": "/Users/david/Code/android/osmeditor4android/build/intermediates/incremental/mergeCurrentDebugResources/merged.dir/values-nb/values-nb.xml",
             "map": [
-                {
-                    "source": "/Users/david/Code/android/osmeditor4android-master/src/main/res/values-nb/addresstags.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "2",
-                        "startOffsets": "53",
-                        "endLines": "19",
-                        "endColumns": "17",
-                        "endOffsets": "748"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "105",
-                        "endLines": "19",
-                        "endColumns": "17",
-                        "endOffsets": "800"
-                    }
-                },
                 {
                     "source": "/Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/values-nb/values-nb.xml",
                     "from": {
@@ -57,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/david/Code/android/osmeditor4android-master/src/main/res/values-nb/helptopics.xml",
+                    "source": "/Users/david/Code/android/osmeditor4android/src/main/res/values-nb/helptopics.xml",
                     "from": {
                         "startLines": "63,25,3,10,13,2,14,5,4,6,17,7,16,12,24,11,8,15,18,23,22,21,20,19,9",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -76,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "/Users/david/Code/android/osmeditor4android-master/src/main/res/values-nb/bugfilter.xml",
+                    "source": "/Users/david/Code/android/osmeditor4android/src/main/res/values-nb/bugfilter.xml",
                     "from": {
                         "startLines": "6,2,3,5,4",
                         "startColumns": "2,2,2,2,2",
@@ -93,7 +74,26 @@
                     }
                 },
                 {
-                    "source": "/Users/david/Code/android/osmeditor4android-master/src/main/res/values-nb/strings.xml",
+                    "source": "/Users/david/Code/android/osmeditor4android/src/main/res/values-nb/addresstags.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endLines": "19",
+                        "endColumns": "17",
+                        "endOffsets": "748"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endLines": "19",
+                        "endColumns": "17",
+                        "endOffsets": "800"
+                    }
+                },
+                {
+                    "source": "/Users/david/Code/android/osmeditor4android/src/main/res/values-nb/strings.xml",
                     "from": {
                         "startLines": "300,126,128,207,206,209,205,269,77,283,284,277,9,14,95,120,28,29,27,238,218,212,224,248,213,223,250,242,234,216,215,241,231,244,228,227,217,246,214,233,236,235,249,240,239,220,219,254,232,229,230,251,252,30,81,83,271,84,203,296,80,100,270,74,13,281,49,48,51,50,125,66,89,88,90,86,78,64,129,145,151,148,150,146,147,149,152,153,257,62,291,157,162,184,158,178,179,156,197,196,160,169,167,165,168,164,166,159,200,177,201,155,180,181,141,188,202,183,161,163,190,193,186,195,194,170,176,171,172,173,175,174,182,99,3,4,272,119,58,60,65,295,41,42,43,98,276,260,56,259,20,18,19,17,24,25,22,21,16,23,15,279,292,61,293,290,57,54,122,139,136,138,52,185,130,133,140,142,132,134,131,137,143,135,109,105,114,113,107,110,111,103,112,108,106,104,115,6,8,7,294,278,280,46,45,33,31,10,35,36,37,32,38,39,273,265,262,264,266,263,11,12,127,63,118",
                         "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="help_files" translatable="false">
+        <item>Introduction</item>
+        <item>Main map display</item>
+        <item>Property editor</item>
+        <item>Node selected</item>
+    	<item>Way selected</item>
+    	<item>Relation selected</item>
+    	<item>Multiselect</item>
+    	<item>Creating new objects</item>
+        <item>Preferences</item>
+        <item>Advanced preferences</item>
+    	<item>Presets</item>	
+    	<item>Aligning background imagery</item>
+    	<item>Conflict resolution</item>
+    	<item>GPS sources</item>
+    	<item>Keyboard</item>
+    	<item>Tag filter</item>
+    	<item>Preset filter</item>
+    	<item>Opening hours</item>
+        <item>Voice commands</item>
+        <item>11.1.0 Release notes</item>
+        <item>11.0.0 Release notes</item>
+        <item>10.2.0 Release notes</item>
+    	<item>10.1.0 Release notes</item>
+    	<item>10.0.0 Release notes</item>
+    	<item>0.9.9 Release notes</item>
+    	<item>0.9.8 Release notes</item>
+    	<item>0.9.7 Release notes</item>
+    	<item>0.9.6 Release notes</item>
+        <item>Privacy</item>
+    </array>
+    <array name="help_tableofcontents" translatable="false">
+        <item>@string/help_introduction</item>
+        <item>@string/help_main</item>
+        <item>@string/help_propertyeditor</item>
+        <item>@string/help_nodeselection</item>
+    	<item>@string/help_wayselection</item>
+    	<item>@string/help_relationselection</item>
+    	<item>@string/help_multiselect</item>
+    	<item>@string/help_longclick</item>
+        <item>@string/help_preferences</item>
+        <item>@string/help_advanced_preferences</item>
+    	<item>@string/help_presets</item>	
+    	<item>@string/help_aligningbackgroundiamgery</item>
+    	<item>@string/help_conflictresolution</item>
+    	<item>@string/help_gpssources</item>
+    	<item>@string/help_keyboard</item>
+    	<item>@string/help_tagfilter</item>
+    	<item>@string/help_presetfilter</item>
+    	<item>@string/help_opening_hours</item>
+        <item>@string/help_voice_commands</item>
+    	<item>@string/help_upgrade</item>
+        <item>@string/help_upgrade_110</item>
+        <item>@string/help_upgrade_102</item>
+        <item>@string/help_upgrade_101</item>
+    	<item>@string/help_upgrade_100</item>
+    	<item>@string/help_upgrade_099</item>
+    	<item>@string/help_upgrade_098</item>
+    	<item>@string/help_upgrade_097</item>
+    	<item>@string/help_upgrade_096</item>
+        <item>@string/help_privacy</item>
+    </array>
+    <string name="Delete">Slett</string>
+    <string name="End">End</string>
+    <string name="No">Nei</string>
+    <string name="Save">Lagre</string>
+    <string name="Yes">Ja</string>
+    <string name="actionmode_createpath">Lager bane</string>
+    <string name="actionmode_nodeselect">Node valgt</string>
+    <string name="actionmode_wayselect">Veg valgt</string>
+    <string name="add">Legg til</string>
+    <string name="all_keys">Alle</string>
+    <string name="api">API</string>
+    <string name="cancel">Avbryt</string>
+    <string name="changes_changed">«%1$s» endra</string>
+    <string name="changes_created">«%1$s» oppretta</string>
+    <string name="changes_deleted">«%1$s» sletta</string>
+    <string name="closed">lukket</string>
+    <string name="config_advancedprefs">Avanserte innstillinger</string>
+    <string name="config_backgroundLayer_title">Kartbakgrunn</string>
+    <string name="config_category_info">Om</string>
+    <string name="config_iconbutton_summary">Vis ikonet for knapp som passer best på noder.</string>
+    <string name="config_iconbutton_title">Vis node-ikon</string>
+    <string name="config_loginbutton_title">Brukerkonto</string>
+    <string name="config_presetbutton_title">Knapper</string>
+    <string name="config_showStats_title">Vis statistikk</string>
+    <string name="config_showTolerance_title">Vis endringsområde</string>
+    <string name="default_">Standard</string>
+    <string name="delete">Slett</string>
+    <string name="edit">Endre</string>
+    <string name="forward">Fremover</string>
+    <string name="gps_failure">Klarte ikke å slå på GPS</string>
+    <string name="help_nodeselection">Node valgt</string>
+    <string name="help_presets">Knapper</string>
+    <string name="help_wayselection">Veg valgt</string>
+    <string name="imagery_offset_date">Opprettet</string>
+    <string name="imagery_offset_description">Beskrivelse</string>
+    <string name="imagery_offset_zoom">Zoom</string>
+    <string name="key">nøkkel</string>
+    <string name="link_mapfeatures">http://wiki.openstreetmap.org/index.php/Map_Features</string>
+    <string name="location_choose_radius">Velg radius:</string>
+    <string name="location_coordinates_text">Fra koordinater:</string>
+    <string name="location_current_text">Nåværende posisjon:</string>
+    <string name="location_current_text_parameterized">Nåværende posisjon: %1$s</string>
+    <string name="location_default_radius">300m</string>
+    <string name="location_last_text">Siste kjente posisjon:</string>
+    <string name="location_last_text_parameterized">Siste kjente posisjon: %1$s</string>
+    <string name="location_lat_label">Lat:</string>
+    <string name="location_lon_label">Lon:</string>
+    <string name="menu_add">Ny</string>
+    <string name="menu_append">Fortsett</string>
+    <string name="menu_config">Innstillinger</string>
+    <string name="menu_edit">Endre</string>
+    <string name="menu_erase">Slett node</string>
+    <string name="menu_gps_show">Vis plassering</string>
+    <string name="menu_help">Hjelp</string>
+    <string name="menu_history">Historikk</string>
+    <string name="menu_join">Kombiner</string>
+    <string name="menu_merge">Kombiner</string>
+    <string name="menu_move">Flytt</string>
+    <string name="menu_reverse">Snu</string>
+    <string name="menu_rotate">Rotér</string>
+    <string name="menu_split">Kløyv</string>
+    <string name="menu_tag">Endre tagger</string>
+    <string name="menu_tools_background_align_reset">Tilbakestill</string>
+    <string name="menu_transfer">Overfør…</string>
+    <string name="menu_transfer_download_current">Last ned nåværende utsnitt</string>
+    <string name="menu_transfer_upload">Last opp til OSM</string>
+    <string name="menu_up">Opp</string>
+    <string name="mode_indoor">Innendørs</string>
+    <string name="name">Navn</string>
+    <string name="no">Nei</string>
+    <string name="openstreetbug_comment_label">Kommentar:</string>
+    <string name="preset_download_parse_failed">Knappefila er ugyldig. Knappesettet kommer ikke til å virke.</string>
+    <string name="preset_update">Oppdater knapper</string>
+    <string name="progress_download_message">Laster ned data fra teneren…</string>
+    <string name="progress_message">Leser inn i minne…</string>
+    <string name="progress_title">Leser</string>
+    <string name="redo">Gjenta</string>
+    <string name="relation">Relasjon</string>
+    <string name="role">Rolle</string>
+    <string name="save">Lagre</string>
+    <string name="search">Søk</string>
+    <string name="tag_details">Detaljer</string>
+    <string name="tag_menu_preset">Knapper</string>
+    <string name="tag_menu_revert">Gjør om</string>
+    <string name="tag_menu_sourcesurvey">Kartlagt</string>
+    <string name="toast_export_success">Eksporterte til %1$s</string>
+    <string name="toast_no_changes">Du har ikke endra noe enda…</string>
+    <string name="transfer_download_current_dialog_title">Advarsel!</string>
+    <string name="transfer_download_current_download">Avbryt og last ned</string>
+    <string name="transfer_download_current_upload">Last opp</string>
+    <string name="type">Type</string>
+    <string name="undo">Gjør om</string>
+    <string name="undo_nothing">Intet å gjøre om</string>
+    <string name="unknown">ukjent</string>
+    <string name="unsaved_data_proceed">Skrot og gå videre</string>
+    <string name="unsaved_data_title">Advarsel!</string>
+    <string name="upload_comment_label">Kommentar:</string>
+    <string name="upload_gpx_description_label">Beskrivelse</string>
+    <string name="upload_gpx_tags_label">Tagger</string>
+    <string name="url">URL</string>
+    <string name="urldialog_add_api">Legg til API</string>
+    <string name="urldialog_api_exists">En API med denne URLen finst allerede, men du kan legga til en til (f. eks. for å lett skifte konto).</string>
+    <string name="urldialog_nodata_text">Konfigurasjons-URLen har ikke gyldig data.</string>
+    <string name="value">verdi</string>
+    <string name="version">Versjon</string>
+    <string name="yes">Ja</string>
+</resources>
