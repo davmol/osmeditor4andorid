@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <!--Mode names-->
+  <string name="mode_indoor">Kapalı Mekan</string>
+  <!--Dialogs-->
+  <string name="transfer_download_current_dialog_title">Dikkat!</string>
+  <string name="transfer_download_current_upload">Yükle</string>
+  <string name="transfer_download_current_download">Boşver &amp; indir</string>
+  <string name="upload_conflict_title">Yükleme çakışması</string>
+  <string name="use_local_version">Yerel versiyonu kullan</string>
+  <string name="use_server_version">Sunucudaki versiyonu kullan</string>
+  <string name="read_upgrade">Yeni sürüm hakkında bilgi edinin</string>
+  <string name="progress_title">Yükleniyor</string>
+  <string name="progress_message">Veriler hafızaya yükleniyor...</string>
+  <string name="progress_download_message">Sunucudan veriler indiriliyor...</string>
+  <string name="progress_general_title">Lütfen bekleyin</string>
+  <string name="progress_deleting_message">Siliniyor...</string>
+  <string name="progress_searching_message">Aranıyor...</string>
+  <string name="progress_saving_message">Kaydediliyor...</string>
+  <!--Confirm upload dialog-->
+  <string name="changes_deleted">\"%1$s\" silindi</string>
+  <string name="changes_changed">\"%1$s\" değiştirildi</string>
+  <string name="changes_created">\"%1$s\" oluşturuldu</string>
+  <string name="upload_comment_label">Yorum:</string>
+  <string name="upload_source_label">Kaynak:</string>
+  <string name="upload_close_changeset_label">Revizyonu kapat:</string>
+  <!---->
+  <string name="upload_gpx_description_label">Açıklama</string>
+  <string name="upload_gpx_tags_label">Etiketler</string>
+  <string name="upload_gpx_visibility_label">Görünürlük</string>
+  <!--task fragment-->
+  <string name="openstreetbug_bug_title">Konu</string>
+  <string name="openstreetbug_comment_label">Yorum:</string>
+  <!--Unsaved data dialog-->
+  <string name="unsaved_data_title">Dikkat!</string>
+  <string name="unsaved_data_proceed">Boşver &amp; devam et</string>
+  <!--Imagery offset dialog-->
+  <string name="imagery_offset_description">Açıklama</string>
+  <string name="imagery_offset_not_found">10km yarıçapta ofset bulunamadı</string>
+  <string name="imagery_offset_author">Yazar</string>
+  <string name="imagery_offset_offset">Döşeme</string>
+  <string name="imagery_offset_date">Oluşturuldu</string>
+  <string name="imagery_offset_zoom">Yakınlaş</string>
+  <string name="imagery_offset_distance">Mesafe</string>
+  <string name="set_position_datum_label">Jeodezik zaman</string>
+  <string name="tag_editor_name_suggestion">İsim tavsiyesi</string>
+  <!--Search/Find dialog-->
+  <string name="search_results_title">Arama sonuçları</string>
+  <string name="find_message">Arama dizesini girin</string>
+  <!---->
+  <string name="preset_search_hint">Öntanımlı arama dizesi</string>
+  <string name="search">Ara</string>
+  <!--element information dialog-->
+  <string name="nodes">Düğümler</string>
+  <string name="relation_membership">İlişki üyeliği</string>
+  <string name="problem">Sorun</string>
+  <string name="members">Üyeler</string>
+  <string name="closed">Kapalı</string>
+  <string name="version">Sürüm</string>
+  <string name="length_m">Uzunluk (m)</string>
+  <string name="not_downloaded">İndirilmedi</string>
+  <!--GeoJSON feature display dialog-->
+  <!---->
+  <!--hidden object warning dialog-->
+  <!--This concerns a shown message-->
+  <!--This concerns a shown message-->
+  <!--debug dialog-->
+  <!--JS console dialog-->
+  <!--Validator dialogs-->
+  <!--Empty relation dialog-->
+  <!--GPX waypoint dialog-->
+  <!--Custom imagery dialogs-->
+  <!--Layer style dialog-->
+  <!--Layer dialog-->
+  <!--Layer info dialog-->
+  <!--Undo - Redo dialog-->
+  <!--Feedback activity-->
+  <!--BoxPicker-->
+  <!--Clear/Reset GPX Track-->
+  <!--NumberPicker-->
+  <!--NotificationChannels-->
+  <!--Toaster-->
+  <string name="toast_no_changes">Henüz bir değişiklik yapmadınız...</string>
+  <string name="toast_unlock_to_edit">Düzenleme kilidini aç</string>
+  <string name="toast_export_success">%1$s aktarıldı</string>
+  <string name="toast_state_file_failed">Bozuk ya da okunamaz durum dosyası</string>
+  <string name="toast_photo_indexing_started">Jeo-referanslı fotoğraf taraması başladı</string>
+  <string name="toast_photo_indexing_finished">Jeo-referanslı fotoğraf taraması bitti</string>
+  <string name="toast_download_failed">İndirme başarısız hata kodu %1$d, mesaj %2$s</string>
+  <string name="toast_unsurveyed_road">Keşfedilmemiş yol</string>
+  <string name="toast_oauth">Lütfen OAuth\'un OSM hesabınıza erişmesine izin verin.</string>
+  <string name="toast_no_oauth">Şu andaki API için OAuth yapılandırması yok, lütfen giriş ve parolayı ayarlayın.</string>
+  <string name="coordinates_out_of_range">Boylam -180°/+180°, enlem -85°/85° arasında olmalıdır</string>
+  <string name="toast_nothing_found">Hiç bir şey bulunamadı</string>
+  <string name="toast_file_not_found">%1$s bulunamadı.</string>
+  <string name="toast_no_voice">Herhangi bir ses tanıma özelliği mevcut değil</string>
+  <string name="toast_min_one_preset">En az bir tane önceden belirlenmiş seçilmelidir!</string>
+  <!--Error messages-->
+  <!--Some generic labels/buttons-->
+  <string name="yes">Evet</string>
+  <string name="no">Hayır</string>
+  <string name="cancel">İpta</string>
+  <string name="locked">Kilitli</string>
+  <string name="next">Sıradaki</string>
+  <string name="apply">Uygula</string>
+  <string name="set">Ayarla</string>
+  <string name="replace">Değiştir</string>
+  <string name="save">Kaydet</string>
+  <string name="back">Geri</string>
+  <string name="forward">İleri</string>
+  <string name="keep">Sakla</string>
+  <string name="clear">Temizle</string>
+  <!--Read a file-->
+  <!--Dialog for back button-->
+  <string name="exit_text">Gerçekten çıkmak istiyor musunuz?</string>
+  <!--Strings in PorpertyEditor-->
+  <string name="key">anahtar</string>
+  <string name="Key">Anahtar</string>
+  <string name="value">değer</string>
+  <string name="Value">Değer</string>
+  <string name="link_mapfeatures">http://wiki.openstreetmap.org/index.php/Map_Features</string>
+  <string name="tag_menu_address">Adres etiketleri ekle</string>
+  <string name="tag_menu_sourcesurvey">Keşfedilmiş</string>
+  <string name="tag_menu_preset">Öntanımlı</string>
+  <string name="tag_menu_apply_preset">En iyi öntanımlıyı uygula</string>
+  <string name="tag_menu_revert">Döndür</string>
+  <string name="tag_menu_addtorelation">İlişki ekle</string>
+  <string name="tag_menu_reset_address_prediction">Adres tahminini sıfırla</string>
+  <string name="tag_menu_exit_no_save">Kaydetmeden\nçık</string>
+  <string name="tag_multi_value_hint">Çoklu değer</string>
+  <string name="tag_dialog_value_hint">Değer için dokunun</string>
+  <string name="tag_details">Detaylar</string>
+  <string name="menu_up">Yukarı</string>
+  <string name="menu_top">En üst</string>
+  <string name="menu_preset_help">Öntanımlı yardımı</string>
+  <string name="tag_restriction_header">Değer</string>
+  <string name="tag_restriction_add_restriction">Kısıtlama ekle</string>
+  <!--Strings in Box/LocationPicker-->
+  <string name="location_choose_radius">Yarıçapı seçin:</string>
+  <string name="location_default_radius">300m</string>
+  <string name="location_last_text">Son bilinen konum:</string>
+  <string name="location_current_text">Şimdiki konum:</string>
+  <string name="location_last_text_parameterized">Son bilinen konum: %1$s</string>
+  <string name="location_current_text_parameterized">Şimdiki konum: %1$s</string>
+  <string name="location_text_metadata_location">\nEnl %1$4g, Boyl %2$4g\n%3$s %4$s önce</string>
+  <string name="location_coordinates_text">Koordinatlardan:</string>
+  <string name="location_lat_label">Enl:</string>
+  <string name="location_lon_label">Boy:</string>
+  <string name="location_search_label">Ara:</string>
+  <string name="location_load_button">Yükle</string>
+  <string name="location_load_dismiss">Haritaya git</string>
+  <!--Menu-->
+  <string name="menu_move">Taşı</string>
+  <string name="menu_edit">Düzenle</string>
+  <string name="menu_add">Yeni</string>
+  <string name="menu_config">Tercihler</string>
+  <string name="menu_find">Bul</string>
+  <string name="menu_help">Yardım</string>
+  <string name="menu_erase">Düğümü sil</string>
+  <string name="menu_set_position">Pozisyon</string>
+  <string name="menu_split">Böl</string>
+  <string name="menu_extract">Düğümü çıkar</string>
+  <string name="menu_append">Ekle</string>
+  <string name="menu_relation">İlişki oluştur</string>
+  <string name="menu_add_relation_member">Üye ekle</string>
+  <string name="menu_select_relation_members">Üye seç</string>
+  <string name="menu_tag">Etiketleri düzenle</string>
+  <string name="menu_easyedit">KolayDüzenle</string>
+  <string name="menu_camera">Kamera</string>
+  <string name="menu_gps_show">Konumu göster</string>
+  <string name="menu_gps_autodownload">Otomatik indir</string>
+  <string name="menu_transfer">Aktarma...</string>
+  <string name="menu_transfer_download_current">Şimdiki görünümü indir</string>
+  <string name="menu_transfer_download_current_add">Şimdiki görünümü indirmeye ekle</string>
+  <string name="menu_transfer_upload">Verileri OSM sunucusuna yükle</string>
+  <string name="menu_transfer_bugs_upload">Tümünü yükle</string>
+  <string name="menu_transfer_bugs_clear">Temizle</string>
+  <string name="menu_join">Katıl</string>
+  <string name="menu_unjoin">Ayrıl</string>
+  <string name="menu_copy">Kopyala</string>
+  <string name="menu_cut">Kes</string>
+  <string name="menu_paste">Yapıştır</string>
+  <string name="menu_paste_from_clipboard">Panodan yapıştır</string>
+  <string name="menu_rotate">Döndür</string>
+  <string name="menu_circulize">Daire şeklinde düzenle</string>
+  <string name="menu_split_polygon">Çokgenlere böl</string>
+  <string name="menu_extend_selection">Seçimi uzat</string>
+  <string name="menu_information">Bilgi</string>
+  <string name="menu_voice_commands">Sesli komutlar</string>
+  <string name="menu_tools_background_properties">Arka plan özellkleri</string>
+  <!---->
+  <!--Background alignment-->
+  <string name="menu_tools_background_align">Arka planı hizala</string>
+  <string name="menu_tools_background_align_reset">Sıfırla</string>
+  <string name="menu_tools_background_align_zero">Sıfır</string>
+  <!--Menus in layers dialog-->
+  <!---->
+  <string name="menu_tools_background_contrast">Karşıtlık</string>
+  <!--element action mode menu-->
+  <string name="menu_tags">Özellikler</string>
+  <!--Text should be as short as possible-->
+  <string name="menu_history">Geçmiş</string>
+  <string name="menu_merge">Katıl</string>
+  <string name="menu_reverse">Ters</string>
+  <string name="reverse_anyway">Yine de döndür</string>
+  <string name="deletenode">Düğümü sil</string>
+  <!--EasyEdit action mode titles-->
+  <string name="actionmode_wayselect">Yol seçildi</string>
+  <string name="actionmode_nodeselect">Düğüm seçildi</string>
+  <string name="actionmode_relationselect">İlişki seçildi</string>
+  <string name="actionmode_createpath">Yol oluştur</string>
+  <string name="actionmode_multiselect">Çoklu seçim</string>
+  <!--EasyEdit action mode sub-titles-->
+  <string name="actionmode_closed_way_split_1">1.düğüm, bölünmüş kapalı yol</string>
+  <string name="actionmode_closed_way_split_2">2. düğüm, Bölünmüş kapalı yol</string>
+  <!--Simple Action Mode-->
+  <!--Preferences-->
+  <string name="config_backgroundLayer_title">Harita arkaplanı</string>
+  <string name="config_overlayLayer_title">Harita kaplaması</string>
+  <string name="config_scale_title">Ölçek ekran</string>
+  <string name="config_enablePhotoLayer_summary">Jeo-referanslı fotoğrafları etkinleştir.</string>
+  <string name="config_enableKeepScreenOn_title">Ekranı açık tut</string>
+  <string name="config_largeDragArea_title">Geniş düğüm sürükleme alanı</string>
+  <string name="config_advancedprefs">Gelişmiş özellikler</string>
+  <string name="config_presetbutton_title">Öntanımlılar</string>
+  <string name="config_presetbutton_summary">JOSM uyumlu öntanımlı ekle ve etkinleştir</string>
+  <!--Validator preferences-->
+  <!--these are no longer on the prefs page, but are used as menu entries-->
+  <string name="config_category_info">Hakkında</string>
+  <!--Advanced preferences-->
+  <!--User Interface Settings-->
+  <string name="config_iconbutton_title">Düğüm simgelerini göster</string>
+  <string name="config_iconbutton_summary">Düğüm için en iyi eşleşen simgeyi göster.</string>
+  <string name="config_showCameraAction_title">Kamera eylemini göster</string>
+  <string name="config_showTolerance_title">Toleransı göster</string>
+  <string name="config_splitActionBarEnabled_title">Bölme eylem çubuğunu etkinleştir</string>
+  <string name="config_enableAntiAliasing_summary">Çizgileri pürüzsüz yapar.</string>
+  <string name="config_maxStrokeWidth_title">Maks çizgi genişliği</string>
+  <!--Data and Editing Settings-->
+  <string name="config_address_tags">Adres etiketleri</string>
+  <string name="config_enableNameSuggestions_title">İsim tavsiyelerini etkinleştir</string>
+  <string name="config_generateAlerts_title">Uyarılar oluştur</string>
+  <string name="config_generateAlerts_summary">Sorunlu ya da notlu veriler için bildirim oluştur</string>
+  <string name="config_maxAlertDistance_title">Uyarılar için maks mesafe</string>
+  <string name="config_extTriggeredDownloadRadius_title">Yarıçapı indir</string>
+  <string name="config_maxDownloadSpeed_title">Maksimum otomatik indirme hızı</string>
+  <!--Location Settings-->
+  <string name="config_gps_source_tcp_title">NMEA ağ kaynağı</string>
+  <!--Server Settings-->
+  <string name="config_apibutton_title">OSM API URL</string>
+  <string name="config_loginbutton_title">Kullanıcı hesabı</string>
+  <!--Layer download and storage-->
+  <string name="config_tileCacheSize_title">Karo önbellek boyutu</string>
+  <!--Miscellaneous-->
+  <string name="config_category_misc">Çeşitli</string>
+  <string name="config_showStats_title">İstatistikleri göster</string>
+  <!--Experimental-->
+  <!---->
+  <string name="config_api_url_title">API URL</string>
+  <!--preset downloader messages-->
+  <string name="preset_update">Öntanımlıyı güncelle</string>
+  <string name="preset_download_parse_failed">Öntanımlı dosya geçersiz. Öntanımlı çalışmayabilir.</string>
+  <!--url handler activity-->
+  <string name="urldialog_add_preset">Öntanımlı ekle</string>
+  <string name="urldialog_preset_exists">Öntanımlı zaten var</string>
+  <string name="urldialog_api_exists">API URL zaten var. Fakat, başka bir tane eklemek isteyebilirsiniz (örn. hesaplar arasında kolay geçmek için)</string>
+  <string name="urldialog_add_api">API ekle</string>
+  <string name="urldialog_nodata_text">Yapılandırma URL si geçerli veri içermiyor.</string>
+  <!--API configuration-->
+  <string name="api_url">API URL</string>
+  <!--common terms-->
+  <string name="add">Ekle</string>
+  <string name="edit">Düzenle</string>
+  <string name="delete">Sil</string>
+  <string name="name">Ad</string>
+  <string name="url">URL</string>
+  <string name="default_">Varsayılan</string>
+  <!---->
+  <!--"default" is a reserved Java keyword…-->
+  <string name="preset">Öntanımlı</string>
+  <string name="api">API</string>
+  <string name="undo">Geri al</string>
+  <string name="redo">Yinele</string>
+  <string name="undo_nothing">geri alınacak bir şey yok</string>
+  <string name="gps_failure">GPS etkinleştirme başarısız</string>
+  <!--element description-->
+  <!--undo actions - give a description of the action, in infinitive, to display in strings like "Undo: actionname" or "Redo: actionname"-->
+  <!--ACRA-->
+  <!--Exceptions messages-->
+  <string name="exception_too_many_nodes">Bu işlem çok düğümlü bir yol yaratacaktır.</string>
+  <!--Notifications-->
+  <string name="alert_data_issue">OSM veri hatası tespit edildi</string>
+  <string name="alert_note">Yakın OSM notu tespit edildi</string>
+  <string name="alert_bug">Yakın OSM böcek\'i tespit edildi</string>
+  <!--Misc relation related stuff-->
+  <string name="role">Rol</string>
+  <string name="membership_relation_heading">İlişki üyesi</string>
+  <string name="relation">İlişki</string>
+  <string name="relations">İlişkiler</string>
+  <string name="type">Tür</string>
+  <string name="object">Nesne</string>
+  <string name="deleterelation">İlişkiyi sil</string>
+  <string name="delete_from_relation_description">İlişkiden bir unsur silmek üzeresiniz.</string>
+  <!--time and distance-->
+  <!--Help system-->
+  <!--Arrays-->
+  <string-array name="gpx_visibility">
+    <item>özel</item>
+    <item>halka açık</item>
+    <item>izlenebilir</item>
+    <item>tanımlanabilir</item>
+  </string-array>
+  <string-array name="gps_source">
+    <item>dahili</item>
+    <item>dahili NMEA</item>
+    <item>NMEA dan TCP istemci</item>
+    <item>NMEA dan TCP sunucu</item>
+  </string-array>
+  <string-array name="bug_state">
+    <item>Açık</item>
+    <item>Kapalı</item>
+    <item>Yanlış alarm</item>
+  </string-array>
+  <string-array name="note_state">
+    <item>Açık</item>
+    <item>Kapalı</item>
+  </string-array>
+</resources>

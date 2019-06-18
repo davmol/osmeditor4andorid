@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/david/Code/android/osmeditor4android-master/build/intermediates/incremental/mergeCurrentDebugResources/merged.dir/values-sw340dp-v13/values-sw340dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/david/.gradle/caches/transforms-1/files-1.1/vintage-chroma-1.5.aar/b5c96f7201c53edf573e48931312ee2a/res/values-sw340dp-v13/values-sw340dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,143,195,245",
+                        "endColumns": "87,51,49,48",
+                        "endOffsets": "138,190,240,289"
+                    }
+                }
+            ]
+        }
+    ]
+}

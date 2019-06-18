@@ -1,0 +1,365 @@
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:212
+-keep class android.support.v4.content.FileProvider { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:230
+-keep class com.heinrichreimersoftware.androidissuereporter.IssueReporterLauncher$Activity { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:41
+-keep class de.blau.android.App { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:163
+-keep class de.blau.android.Authorize { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:84
+-keep class de.blau.android.BoxPicker { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:170
+-keep class de.blau.android.DebugInformation { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:53
+-keep class de.blau.android.Feedback { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:113
+-keep class de.blau.android.GeoUrlActivity { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:173
+-keep class de.blau.android.HelpViewer { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:167
+-keep class de.blau.android.LicenseViewer { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:67
+-keep class de.blau.android.Main { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:136
+-keep class de.blau.android.RemoteControlUrlActivity { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:123
+-keep class de.blau.android.ShareOnOpenStreetMap { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:56
+-keep class de.blau.android.Splash { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:184
+-keep class de.blau.android.filter.PresetFilterActivity { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:181
+-keep class de.blau.android.filter.TagFilterActivity { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:91
+-keep class de.blau.android.prefs.APIEditorActivity { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:80
+-keep class de.blau.android.prefs.AdvancedPrefEditor { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:99
+-keep class de.blau.android.prefs.GeocoderEditorActivity { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:76
+-keep class de.blau.android.prefs.PrefEditor { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:95
+-keep class de.blau.android.prefs.PresetEditorActivity { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:103
+-keep class de.blau.android.prefs.VespucciURLActivity { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:87
+-keep class de.blau.android.propertyeditor.PropertyEditor { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:199
+-keep class de.blau.android.services.MapTileProviderService { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:208
+-keep class de.blau.android.services.TrackerService { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:176
+-keep class de.blau.android.util.ThemedFilePickerActivity { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:234
+-keep class org.acra.attachment.AcraContentProvider { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:187
+-keep class org.acra.dialog.CrashReportDialog { <init>(...); }
+# Referenced at /Users/david/Code/android/osmeditor4android-master/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:195
+-keep class org.acra.sender.SenderService { <init>(...); }
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b85f86dc874ed8a777aaf94c18a13b24/res/layout/design_bottom_navigation_item.xml:26
+-keep class android.support.design.internal.BaselineLayout { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b85f86dc874ed8a777aaf94c18a13b24/res/layout/design_navigation_item.xml:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b85f86dc874ed8a777aaf94c18a13b24/res/layout/design_navigation_menu.xml:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b85f86dc874ed8a777aaf94c18a13b24/res/layout/design_layout_snackbar_include.xml:18
+-keep class android.support.design.internal.SnackbarContentLayout { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/android-issue-reporter-1.3.1.aar/dd694d47812af97b09aae5ad35ea82f5/res/layout/air_activity_issue_reporter.xml:33
+-keep class android.support.design.widget.AppBarLayout { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b85f86dc874ed8a777aaf94c18a13b24/res/layout/design_text_input_password_icon.xml:18
+-keep class android.support.design.widget.CheckableImageButton { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b85f86dc874ed8a777aaf94c18a13b24/res/layout/design_bottom_sheet_dialog.xml:26
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/zoom_controls.xml:9
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/validator_ruleset_list.xml:104
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/tagfilter_controls_right.xml:9
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/tagfilter_controls_left.xml:9
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/simple_button.xml:2
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/OpeningHoursFragment-0.5.7.aar/1600d3a3a6191ea58b2cec6bc52368ef/res/layout/openinghours.xml:89
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout-v14/main_fullscreen.xml:27
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/main.xml:21
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/list_activity.xml:25
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/layers_view.xml:27
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/layer_list.xml:22
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/indoor_controls_right.xml:9
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/indoor_controls_left.xml:9
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/conditionalrestriction.xml:53
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/android-issue-reporter-1.3.1.aar/dd694d47812af97b09aae5ad35ea82f5/res/layout/air_activity_issue_reporter.xml:81
+-keep class android.support.design.widget.FloatingActionButton { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b85f86dc874ed8a777aaf94c18a13b24/res/layout/design_layout_snackbar.xml:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/android-issue-reporter-1.3.1.aar/dd694d47812af97b09aae5ad35ea82f5/res/layout/air_card_report.xml:49
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/android-issue-reporter-1.3.1.aar/dd694d47812af97b09aae5ad35ea82f5/res/layout/air_card_login.xml:79
+-keep class android.support.design.widget.TextInputEditText { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/android-issue-reporter-1.3.1.aar/dd694d47812af97b09aae5ad35ea82f5/res/layout/air_card_report.xml:44
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/android-issue-reporter-1.3.1.aar/dd694d47812af97b09aae5ad35ea82f5/res/layout/air_card_login.xml:74
+-keep class android.support.design.widget.TextInputLayout { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/help_drawer.xml:2
+-keep class android.support.v4.widget.DrawerLayout { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_alert_dialog_material.xml:41
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/android-issue-reporter-1.3.1.aar/dd694d47812af97b09aae5ad35ea82f5/res/layout/air_activity_issue_reporter.xml:72
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_select_dialog_material.xml:23
+-keep class android.support.v7.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.1.aar/52c61eb473a9e892f120881252028e44/res/layout/preference_material.xml:41
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.1.aar/52c61eb473a9e892f120881252028e44/res/layout/preference_dropdown_material.xml:47
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.1.aar/52c61eb473a9e892f120881252028e44/res/layout/preference_dropdown.xml:38
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.1.aar/52c61eb473a9e892f120881252028e44/res/layout/preference.xml:32
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.1.aar/52c61eb473a9e892f120881252028e44/res/layout/expand_button.xml:41
+-keep class android.support.v7.internal.widget.PreferenceImageView { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/xml-v14/advancedpreferences.xml:20
+-keep class android.support.v7.preference.CheckBoxPreference { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/xml-v14/advancedpreferences.xml:241
+-keep class android.support.v7.preference.EditTextPreference { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/xml-v14/advancedpreferences.xml:30
+-keep class android.support.v7.preference.ListPreference { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/xml-v14/preferences.xml:18
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/xml-v14/advancedpreferences.xml:286
+-keep class android.support.v7.preference.Preference { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/xml-v14/preferences.xml:61
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/xml-v14/advancedpreferences.xml:2
+-keep class android.support.v7.preference.PreferenceScreen { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.1.aar/52c61eb473a9e892f120881252028e44/res/layout/preference_widget_seekbar_material.xml:66
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.1.aar/52c61eb473a9e892f120881252028e44/res/layout/preference_widget_seekbar.xml:66
+-keep class android.support.v7.preference.UnPressableLinearLayout { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_action_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_expanded_menu_layout.xml:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_popup_menu_item_layout.xml:17
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_list_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_screen_toolbar.xml:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_screen_toolbar.xml:43
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_action_mode_bar.xml:19
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_screen_toolbar.xml:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/toolbar.xml:2
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/preset_pane.xml:34
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/menu.xml:2
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_action_menu_layout.xml:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_activity_chooser_view.xml:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_alert_dialog_material.xml:18
+-keep class android.support.v7.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/OpeningHoursFragment-0.5.7.aar/1600d3a3a6191ea58b2cec6bc52368ef/res/layout/openinghours.xml:108
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/layers_view.xml:40
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/conditionalrestriction.xml:72
+-keep class android.support.v7.widget.AppCompatButton { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/OpeningHoursFragment-0.5.7.aar/1600d3a3a6191ea58b2cec6bc52368ef/res/layout/template_item.xml:40
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/core-0.8.5.9.aar/8773196aa106e02ed5fa94a8278bfe29/res/layout/md_listitem_multichoice.xml:14
+-keep class android.support.v7.widget.AppCompatCheckBox { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/core-0.8.5.9.aar/8773196aa106e02ed5fa94a8278bfe29/res/layout/md_listitem_singlechoice.xml:14
+-keep class android.support.v7.widget.AppCompatRadioButton { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_alert_dialog_button_bar_material.xml:26
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/android-issue-reporter-1.3.1.aar/dd694d47812af97b09aae5ad35ea82f5/res/layout/air_card_report.xml:25
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/android-issue-reporter-1.3.1.aar/dd694d47812af97b09aae5ad35ea82f5/res/layout/air_card_login.xml:25
+-keep class android.support.v7.widget.CardView { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_screen_content_include.xml:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_alert_dialog_title_material.xml:45
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_screen_simple_overlay_action_mode.xml:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_screen_simple.xml:17
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_dialog_title_material.xml:22
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.1.aar/52c61eb473a9e892f120881252028e44/res/layout/preference_recyclerview.xml:18
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/filepicker-3.0.0.aar/32b95948b9e23a6d610d877524345c04/res/layout/nnf_fragment_filepicker.xml:33
+-keep class android.support.v7.widget.RecyclerView { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_search_view.xml:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.1.aar/52c61eb473a9e892f120881252028e44/res/layout/preference_widget_switch_compat.xml:20
+-keep class android.support.v7.widget.SwitchCompat { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout-v26/abc_screen_toolbar.xml:37
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout-v14/tab_view_fullscreen.xml:13
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/tab_view.xml:8
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout-v14/pane_view_fullscreen.xml:14
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/pane_view.xml:9
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/filepicker-3.0.0.aar/32b95948b9e23a6d610d877524345c04/res/layout/nnf_fragment_filepicker.xml:15
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout-v14/main_fullscreen.xml:12
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/main.xml:8
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/android-issue-reporter-1.3.1.aar/dd694d47812af97b09aae5ad35ea82f5/res/layout/air_activity_issue_reporter.xml:38
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_screen_toolbar.xml:36
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_screen_simple.xml:25
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_alert_dialog_title_material.xml:56
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_alert_dialog_material.xml:52
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7870e5710e1b7af5348403a264338ca3/res/layout/abc_alert_dialog_button_bar_material.xml:43
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/validator_ruleset_resurvey_item.xml:62
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/layer_item.xml:175
+-keep class ch.poole.android.numberpicker.library.NumberPicker { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/xml-v14/preferences.xml:68
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/xml-v14/advancedpreferences.xml:76
+-keep class ch.poole.android.numberpickerpreference.NumberPickerPreference { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/OpeningHoursFragment-0.5.7.aar/1600d3a3a6191ea58b2cec6bc52368ef/res/layout/time_start_event_row.xml:58
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/OpeningHoursFragment-0.5.7.aar/1600d3a3a6191ea58b2cec6bc52368ef/res/layout/time_row.xml:24
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/OpeningHoursFragment-0.5.7.aar/1600d3a3a6191ea58b2cec6bc52368ef/res/layout/time_range_row.xml:17
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/OpeningHoursFragment-0.5.7.aar/1600d3a3a6191ea58b2cec6bc52368ef/res/layout/time_extended_range_row.xml:22
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/OpeningHoursFragment-0.5.7.aar/1600d3a3a6191ea58b2cec6bc52368ef/res/layout/time_end_event_row.xml:24
+-keep class ch.poole.rangebar.RangeBar { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/OpeningHoursFragment-0.5.7.aar/1600d3a3a6191ea58b2cec6bc52368ef/res/layout/timerangepicker.xml:14
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/OpeningHoursFragment-0.5.7.aar/1600d3a3a6191ea58b2cec6bc52368ef/res/layout/rangepicker.xml:14
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/OpeningHoursFragment-0.5.7.aar/1600d3a3a6191ea58b2cec6bc52368ef/res/layout/occurrence_in_month_picker.xml:13
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/OpeningHoursFragment-0.5.7.aar/1600d3a3a6191ea58b2cec6bc52368ef/res/layout/daterangepicker.xml:14
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/OpeningHoursFragment-0.5.7.aar/1600d3a3a6191ea58b2cec6bc52368ef/res/layout/datepicker.xml:13
+-keep class cn.carbswang.android.numberpickerview.library.NumberPickerView { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/core-0.8.5.9.aar/8773196aa106e02ed5fa94a8278bfe29/res/layout/md_stub_actionbuttons.xml:5
+-keep class com.afollestad.materialdialogs.internal.MDButton { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/core-0.8.5.9.aar/8773196aa106e02ed5fa94a8278bfe29/res/layout/md_dialog_progress_indeterminate_horizontal.xml:1
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/core-0.8.5.9.aar/8773196aa106e02ed5fa94a8278bfe29/res/layout/md_dialog_progress_indeterminate.xml:1
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/core-0.8.5.9.aar/8773196aa106e02ed5fa94a8278bfe29/res/layout/md_dialog_progress.xml:1
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/core-0.8.5.9.aar/8773196aa106e02ed5fa94a8278bfe29/res/layout/md_dialog_list.xml:1
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/core-0.8.5.9.aar/8773196aa106e02ed5fa94a8278bfe29/res/layout/md_dialog_input.xml:1
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/core-0.8.5.9.aar/8773196aa106e02ed5fa94a8278bfe29/res/layout/md_dialog_custom.xml:1
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/core-0.8.5.9.aar/8773196aa106e02ed5fa94a8278bfe29/res/layout/md_dialog_basic.xml:1
+-keep class com.afollestad.materialdialogs.internal.MDRootLayout { <init>(...); }
+
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/android-issue-reporter-1.3.1.aar/dd694d47812af97b09aae5ad35ea82f5/res/layout/air_card_report.xml:100
+# Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/android-issue-reporter-1.3.1.aar/dd694d47812af97b09aae5ad35ea82f5/res/layout/air_card_login.xml:61
+-keep class com.github.aakira.expandablelayout.ExpandableRelativeLayout { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/xml-v14/advancedpreferences.xml:291
+-keep class de.blau.android.prefs.LoginDataPreference { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/xml-v14/advancedpreferences.xml:124
+-keep class de.blau.android.prefs.MultiSelectListPreference { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/list_item.xml:2
+-keep class de.blau.android.prefs.URLListEditActivity$ListItem { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/condition_oh.xml:2
+-keep class de.blau.android.propertyeditor.ConditionalRestrictionFragment$OpeningHoursDialogRow { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/relation_member_row.xml:3
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/relation_member_downloaded_row.xml:3
+-keep class de.blau.android.propertyeditor.RelationMembersFragment$RelationMemberRow { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/relation_membership_row.xml:3
+-keep class de.blau.android.propertyeditor.RelationMembershipFragment$RelationMembershipRow { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/tag_edit_row.xml:3
+-keep class de.blau.android.propertyeditor.TagEditorFragment$TagEditRow { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/tag_form_editable.xml:2
+-keep class de.blau.android.propertyeditor.TagFormFragment$EditableLayout { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/tag_form_checkgroup_row.xml:3
+-keep class de.blau.android.propertyeditor.TagFormFragment$TagCheckGroupRow { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/tag_form_check_row.xml:3
+-keep class de.blau.android.propertyeditor.TagFormFragment$TagCheckRow { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/tag_form_combo_row.xml:3
+-keep class de.blau.android.propertyeditor.TagFormFragment$TagComboRow { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/tag_form_checkgroup_dialog_row.xml:3
+-keep class de.blau.android.propertyeditor.TagFormFragment$TagFormCheckGroupDialogRow { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/tag_form_combo_dialog_row.xml:3
+-keep class de.blau.android.propertyeditor.TagFormFragment$TagFormDialogRow { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/tag_form_multiselect_dialog_row.xml:3
+-keep class de.blau.android.propertyeditor.TagFormFragment$TagFormMultiselectDialogRow { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/tag_form_openinghours_dialog_row.xml:3
+-keep class de.blau.android.propertyeditor.TagFormFragment$TagFormOpeningHoursDialogRow { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/tag_form_multiselect_row.xml:3
+-keep class de.blau.android.propertyeditor.TagFormFragment$TagMultiselectRow { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/tag_form_static_text_row.xml:3
+-keep class de.blau.android.propertyeditor.TagFormFragment$TagStaticTextRow { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/tag_form_text_row.xml:3
+-keep class de.blau.android.propertyeditor.TagFormFragment$TagTextRow { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/tag_form_text_row.xml:32
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/tag_edit_row.xml:46
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/customautocomplete.xml:2
+-keep class de.blau.android.views.CustomAutoCompleteTextView { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/upload_tabs.xml:12
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout-v14/tab_view_fullscreen.xml:27
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/tab_view.xml:22
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout-v14/pane_view_fullscreen.xml:40
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/pane_view.xml:35
+-keep class de.blau.android.views.ExtendedPagerTabStrip { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/upload_tabs.xml:8
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout-v14/tab_view_fullscreen.xml:22
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/tab_view.xml:17
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout-v14/pane_view_fullscreen.xml:32
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/pane_view.xml:27
+-keep class de.blau.android.views.ExtendedViewPager { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout-v14/pane_view_fullscreen.xml:23
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/pane_view.xml:18
+-keep class de.blau.android.views.SplitPaneLayout { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/tag_form_check_row.xml:34
+-keep class de.blau.android.views.TriStateCheckBox { <init>(...); }
+
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout-v14/main_fullscreen.xml:68
+# Referenced at /Users/david/Code/android/osmeditor4android-master/src/main/res/layout/main.xml:59
+-keep class de.blau.android.views.ZoomControls { <init>(...); }
+

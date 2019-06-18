@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="White">#FFFFFFFF</color>
+	<color name="Silver">#FFC0C0C0</color>
+	<color name="Gray">#FF808080</color>
+	<color name="Black">#FF000000</color>
+	<color name="Red">#FFFF0000</color>
+	<color name="Maroon">#FF800000</color>
+	<color name="Yellow">#FFFFFF00</color>
+	<color name="Olive">#FF808000</color>
+	<color name="Lime">#FF00FF00</color>
+	<color name="Green">#FF008000</color>
+	<color name="Aqua">#FF00FFFF</color>
+	<color name="Teal">#FF008080</color>
+	<color name="Blue">#FF0000FF</color>
+	<color name="LightBlue">#00B0F0</color>
+	<color name="LightLightBlue">#ADD8E6</color>
+	<color name="Navy">#FF000080</color>
+	<color name="Fuchsia">#FFFF00FF</color>
+	<color name="Purple">#FF800080</color>
+	<color name="Transparent">#00000000</color>
+	<color name="ColorPrimary">#FF5722</color>
+	<color name="ColorPrimaryDark">#E64A19</color>
+	<color name="tagedit_field_static_bg">#fa555555</color>
+	<color name="preset_text">@android:color/white</color>
+	<color name="preset_bg">#ff666666</color>
+	<color name="ccc_red">#b9121b</color>
+	<color name="ccc_blue">#0000bb</color>
+	<color name="ccc_darkred">#4c1b1b</color>
+	<color name="ccc_beige">#f6e497</color>
+	<color name="ccc_white">#fcfae1</color>
+	<color name="ccc_ocher">#bd8d46</color>
+	<color name="grey">#0F0F0F</color>
+	<color name="light_grey">#eeeeee</color>
+	<color name="dark_grey">#aaaaaa</color>
+	<color name="problem">#F0F</color>
+	<color name="relation">#A8FF7D</color>
+	<color name="black">#000000</color>
+	<color name="bug_open">#F00</color>
+	<color name="bug_closed">#00F</color>
+	<!-- A light Holo shade of blue -->
+	<color name="holo_blue_light">#ff33b5e5</color>
+	<!-- material -->
+	<color name="material_teal">#009688</color>
+	<color name="material_yellow">#FFEB3B</color>
+	<color name="material_red">#FF5252</color>
+	<color name="material_orange">#FF9800</color>
+	<!-- OSM -->
+	<color name="osm_green">#ff9fd385</color>
+</resources>

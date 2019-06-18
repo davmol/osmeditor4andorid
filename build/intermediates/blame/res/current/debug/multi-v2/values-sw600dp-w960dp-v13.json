@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/david/Code/android/osmeditor4android-master/build/intermediates/incremental/mergeCurrentDebugResources/merged.dir/values-sw600dp-w960dp-v13/values-sw600dp-w960dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/david/Code/android/osmeditor4android-master/src/main/res/values-sw600dp-w960dp/values-sw600dp-w960dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "159",
+                        "endColumns": "63",
+                        "endOffsets": "218"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}

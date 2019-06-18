@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Values from product flavor: current -->
+    <string name="content_provider" translatable="false">de.blau.android.provider</string>
+    <!-- Values from default config. -->
+    <string name="reporter" translatable="false"></string>
+
+</resources>

@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_RUN_MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1105,"versionName":"13.0.2.0","enabled":true,"outputFile":"osmeditor4android-master-current-debug.apk","fullName":"currentDebug","baseName":"current-debug"},"path":"AndroidManifest.xml","properties":{"packageId":"de.blau.android","split":"","minSdkVersion":"14"}}]
