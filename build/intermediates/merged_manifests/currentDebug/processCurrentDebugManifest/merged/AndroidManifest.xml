@@ -48,7 +48,6 @@
         android:largeHeap="true"
         android:resizeableActivity="true"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/Theme.AppCompat" >
         <activity
             android:name="de.blau.android.Feedback"

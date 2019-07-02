@@ -1,60 +1,60 @@
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:212
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:211
 -keep class android.support.v4.content.FileProvider { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:230
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:229
 -keep class com.heinrichreimersoftware.androidissuereporter.IssueReporterLauncher$Activity { <init>(...); }
 # Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:41
 -keep class de.blau.android.App { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:163
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:162
 -keep class de.blau.android.Authorize { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:84
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:83
 -keep class de.blau.android.BoxPicker { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:170
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:169
 -keep class de.blau.android.DebugInformation { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:53
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:52
 -keep class de.blau.android.Feedback { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:113
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:112
 -keep class de.blau.android.GeoUrlActivity { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:173
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:172
 -keep class de.blau.android.HelpViewer { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:167
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:166
 -keep class de.blau.android.LicenseViewer { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:67
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:66
 -keep class de.blau.android.Main { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:136
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:135
 -keep class de.blau.android.RemoteControlUrlActivity { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:123
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:122
 -keep class de.blau.android.ShareOnOpenStreetMap { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:56
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:55
 -keep class de.blau.android.Splash { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:184
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:183
 -keep class de.blau.android.filter.PresetFilterActivity { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:181
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:180
 -keep class de.blau.android.filter.TagFilterActivity { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:91
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:90
 -keep class de.blau.android.prefs.APIEditorActivity { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:80
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:79
 -keep class de.blau.android.prefs.AdvancedPrefEditor { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:99
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:98
 -keep class de.blau.android.prefs.GeocoderEditorActivity { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:76
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:75
 -keep class de.blau.android.prefs.PrefEditor { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:95
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:94
 -keep class de.blau.android.prefs.PresetEditorActivity { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:103
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:102
 -keep class de.blau.android.prefs.VespucciURLActivity { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:87
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:86
 -keep class de.blau.android.propertyeditor.PropertyEditor { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:199
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:198
 -keep class de.blau.android.services.MapTileProviderService { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:208
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:207
 -keep class de.blau.android.services.TrackerService { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:176
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:175
 -keep class de.blau.android.util.ThemedFilePickerActivity { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:234
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:233
 -keep class org.acra.attachment.AcraContentProvider { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:187
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:186
 -keep class org.acra.dialog.CrashReportDialog { <init>(...); }
-# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:195
+# Referenced at /Users/david/Code/android/osmeditor4android/build/intermediates/merged_manifests/currentDebug/processCurrentDebugManifest/merged/AndroidManifest.xml:194
 -keep class org.acra.sender.SenderService { <init>(...); }
 # Referenced at /Users/david/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b85f86dc874ed8a777aaf94c18a13b24/res/layout/design_bottom_navigation_item.xml:26
 -keep class android.support.design.internal.BaselineLayout { <init>(...); }
