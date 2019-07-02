@@ -21,7 +21,7 @@ Download the apk
 
 
 ## Outlook
-The Vespucci App offers a desktop like functionallity in editing and viewing OSM Data. Unfortunately the GUI is a litte too clutterd to make it intutive for unexperienced users. Particularly the reediting for OSM Elements is complicated. An Easy to use GUI for exactly this purpose, where users can choose an existing OSM Element an redefine or adjust its shapes and coordinates, is still pending.
+The Vespucci App offers a desktop like functionality in editing and viewing OSM Data. Unfortunately the GUI is a litte too clutterd to make it intutive for unexperienced users. Particularly the reediting for OSM Elements is complicated. An Easy to use GUI for exactly this purpose, where users can choose an existing OSM Element an redefine or adjust its shapes and coordinates, is still pending.
 
-A theretical precicion in positioning up to +/- 30 cm could be archived with Dual Band GPS, however the reality is a bit more complicated. Interferences that comes from reflections worsens that threshold a lot. Nevertheless an improvement with the https://www.flamingognss.com could be a corrective in further projects.
+A theoretical precision in positioning up to +/- 30 cm could be archived with Dual Band GPS, however the reality is a bit more complicated. Interferences that comes from reflections worsens that threshold a lot. Nevertheless an improvement with the https://www.flamingognss.com could be a corrective in further projects.
 
