@@ -8,6 +8,8 @@ In regard of improved GNNS Technologie i.e.: Dual Band GPS in todays smartphones
 
 ![alt text](http://i67.tinypic.com/5b7l5.jpg | width=400 "Regular Vespucci Edting Mode")
 
+![](http://i67.tinypic.com/5b7l5.jpg  | width=400)
+
 
 ![alt text](http://i67.tinypic.com/s5g1sk.jpg | width=400 "Enabled GNNS Locating for editing")
 LongClick on the Locating Button activetes the positioning from GNNS
