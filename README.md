@@ -15,8 +15,8 @@ In regard of improved GNNS Technologie i.e.: Dual Band GPS in todays smartphones
                                                                  
 Right: A OnLongClik on the locating button will activate the positioning for editing from GNSS.
 
-Download the apk here
-[Download](https://mega.nz/#!XFZBTIbY!th3IfZJlKsgwzyVfZ8PGl3uXY2uP0ZrnLjmOAi_W5vc)
+Download the apk
+[here](https://mega.nz/#!XFZBTIbY!th3IfZJlKsgwzyVfZ8PGl3uXY2uP0ZrnLjmOAi_W5vc)
 
 
 
