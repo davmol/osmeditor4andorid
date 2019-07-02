@@ -8,12 +8,12 @@ In regard of improved GNNS Technologie i.e.: Dual Band GPS in todays smartphones
 
 
 
-<p align="left">
+<p align="center">
   <img src="http://i67.tinypic.com/5b7l5.jpg" width="350" title="Regular Vspucci Edting Mode"">
-                                                                                              <br>
-  <img src="http://i67.tinypic.com/s5g1sk.jpg" width="350" title="Regular Vspucci Edting Mode"">
+  <img src="http://i67.tinypic.com/s5g1sk.jpg" width="350" title="Activated GNNS Editing">
 </p>
-
+                                                                 
+A OnLongClik on the locating button will activate the positioning for editing from GNSS.
 
 
 
