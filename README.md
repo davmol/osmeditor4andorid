@@ -13,7 +13,7 @@ In regard of improved GNNS Technologie i.e.: Dual Band GPS in todays smartphones
   <img src="http://i67.tinypic.com/s5g1sk.jpg" width="350" title="Activated GNNS Editing">
 </p>
                                                                  
-A OnLongClik on the locating button will activate the positioning for editing from GNSS.
+Right: A OnLongClik on the locating button will activate the positioning for editing from GNSS.
 
 
 
