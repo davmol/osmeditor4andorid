@@ -9,7 +9,7 @@ In regard of improved GNNS Technologie i.e.: Dual Band GPS in todays smartphones
 
 
 <p align="center">
-  <img src="https://i.ibb.co/kQg0zDs/9b048c3f-1113-4f9a-b4f6-18f8307986ee.jpg" width="350" title="Regular Vspucci Edting Mode"">
+  <img src="https://i.ibb.co/DRQT4CD/b397f04e-d3ef-4e42-9dbc-68f9e089cf0f.jpg" width="350" title="Regular Vspucci Edting Mode"">
   <img src="https://i.ibb.co/kQg0zDs/9b048c3f-1113-4f9a-b4f6-18f8307986ee.jpg" width="350" title="Activated GNNS Editing">
 </p>
                                                                  
